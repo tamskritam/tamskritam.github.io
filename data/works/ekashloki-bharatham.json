@@ -1,0 +1,56 @@
+{
+  "id": "ekashloki-bharatham",
+  "title_ta": "ஏகஸ்லோக பாரதம்",
+  "title_sa": "एकश्लोकी महाभारतम्",
+  "title_en": "Ekashloki Bharatham",
+  "category": "mahabharata",
+  "deity": "krishna",
+  "original_author": "பாரம்பரிய சுலோகம்",
+  "translator": "ரா.குருராஜ்",
+  "summary": "பாண்டவர் கௌரவர் பிறப்பு முதல் குருக்ஷேத்திர யுத்தம் வரையிலான மகாபாரதக் கதையை 10 வரிகளில் உரைக்கும் பத்துவரிப் பாரதம்.",
+  "icon": "images/icons/works/ekashloki-bharatham.svg",
+  "total_verses": 1,
+  "media_layout": "media-matrix-5x3",
+  "sections": [
+    "ஏகஸ்லோகம் (Ekashloki)"
+  ],
+  "verses": [
+    {
+      "id": 1,
+      "verse_num": "1",
+      "section": "ஏகஸ்லோகம் (Ekashloki)",
+      "sanskrit": "आदौ पाण्डवधार्तराष्ट्रजननं लाक्षागृहे दाहनं\nद्यूतं श्रीहरणं वने विहरणं मत्स्यालये वर्तनम् ।\nलीलागोग्रहणं रणे विहरणं सन्धिक्रियाजृम्भणं\nपश्चाद्भीष्मसुयोधनादिनिधनं ह्येतन्महाभारतम् ॥\n॥ एकश्लोकि महाभारतं सम्पूर्णम् ॥",
+      "tamil": "பாண்டவரும் கௌரவரும் பகையுடனே பிறந்தனராம்;\n    பற்றியதீ மாளிகையில் பாண்டவரும் பிழைத்தனராம்;\nபந்தயத்தில் வஞ்சகத்தால் பறிகொடுத்தார் செல்வமெலாம்;\n    பன்னிராண்டு அடவியினில் தவவாழ்வு புரிந்தனராம்;\nபதுங்கிவேட மிட்டுமொரு வருடமத்ய நாட்டினிலாம்;\n    பசுக்கூட்டம் களவுசெய்த கௌரவரை விரட்டினராம்;\nபரந்தாமன் சமாதானம் கௌரவரேற் றிடவிலையாம்;\n    பாவிதுரி யோதனுடன் பீஷ்மதுரோணர் வீழ்ந்தனராம்;\nபாரதக்க தையிதனைப் பாராயணம் செய்திடவே\n    பாவமற்று பற்றும்விட்டு முக்திகிட்டு முணர்வீராம்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ekashloki-bharatham/img_rId4.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId5.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId6.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId7.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId8.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId9.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId10.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId11.png",
+        "images/pictures/ekashloki-bharatham/img_rId12.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId13.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId14.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId15.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId16.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId17.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId18.jpeg",
+        "images/pictures/ekashloki-bharatham/img_rId19.jpeg"
+      ]
+    }
+  ],
+  "categories": [
+    "mahabharata",
+    "ekashloki"
+  ],
+  "source_work": "",
+  "authors": [
+    {
+      "title": "பாரம்பரியம்",
+      "name": "வியாச மரபு"
+    }
+  ]
+}

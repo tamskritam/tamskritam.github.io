@@ -1,0 +1,45 @@
+{
+  "id": "ekashloki-bhagavatham",
+  "title_ta": "ஏகஸ்லோக பாகவதம்",
+  "title_sa": "एकश्लोकी भागवतम्",
+  "title_en": "Ekashloki Bhagavatham",
+  "category": "ekashloki",
+  "deity": "krishna",
+  "original_author": "பாரம்பரிய சுலோகம்",
+  "translator": "ரா.குருராஜ்",
+  "summary": "கண்ணனின் அவதாரம், பூதனை வதம், கோவர்த்தன தாரணம், கீதோபதேசம் ஆகிய அனைத்தையும் கூறும் ஒரே பாடல் பாகவதம்.",
+  "icon": "images/icons/works/ekashloki-bhagavatham.svg",
+  "total_verses": 1,
+  "media_layout": "media-matrix-3x2",
+  "sections": [
+    "ஏகஸ்லோகம் (Ekashloki)"
+  ],
+  "verses": [
+    {
+      "id": 1,
+      "verse_num": "1",
+      "section": "ஏகஸ்லோகம் (Ekashloki)",
+      "sanskrit": "आदौ देवकिदेविगर्भजननं गोपीगृहे वर्धनम्\nमायापूतनजीवितापहरणं गोवर्धनोद्धारणम् ।\nकंसच्छेदनकौरवादिहननं कुंतीसुतां पालनम्\nएतद्भागवतं पुराणकथितं श्रीकृष्णलीलामृतम् ।\nइति श्रीभागवतसूत्र ॥",
+      "tamil": "தேவகியின் வயிறுதித்து சிறையினின்று நதிகடந்து\n    தேவியசோ தாவினன்பைத் தேடியடைந் தேவளர்ந்து\nஏவிவந்த பூதனையின் ஜீவனதை உறிஞ்சிகொன்று\n    கோவர்தன குடைதாங்கி ஆவினங்கள் அரவணைத்து\nபாவிகம்ஸன் வகையினரின் கௌரவரின் உயிர்பறித்து\n    பாண்டவரின் காவலான மேகவண்ணன் லீலைகளின்\nகாவியமே பாகவதம்; அமுதமிதைப் பருகுபவர்\n    கவலையாவும் நீங்கிடுவார்; அடைந்திடுவார் முக்தியுமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ekashloki-bhagavatham/img_rId4.jpeg",
+        "images/pictures/ekashloki-bhagavatham/img_rId5.jpeg",
+        "images/pictures/ekashloki-bhagavatham/img_rId6.jpeg",
+        "images/pictures/ekashloki-bhagavatham/img_rId7.jpeg",
+        "images/pictures/ekashloki-bhagavatham/img_rId8.jpeg",
+        "images/pictures/ekashloki-bhagavatham/img_rId9.jpeg"
+      ]
+    }
+  ],
+  "categories": [
+    "ekashloki"
+  ],
+  "source_work": "",
+  "authors": [
+    {
+      "title": "பாரம்பரியம்",
+      "name": "வியாச மரபு"
+    }
+  ]
+}

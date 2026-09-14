@@ -1,0 +1,145 @@
+{
+  "id": "ramashtakam",
+  "title_ta": "ராமாஷ்டகம்",
+  "title_sa": "श्रीरामाष्टकम्",
+  "title_en": "Ramashtakam",
+  "category": "ashtakam",
+  "deity": "rama",
+  "original_author": "வியாச பகவான்",
+  "translator": "ரா.குருராஜ்",
+  "summary": "வியாச பகவான் அருளிய ரகுநாதனின் எட்டு திவ்ய சுலோகங்களும் அதன் பலச்ருதியும் எளிய தமிழில்.",
+  "icon": "images/icons/works/ramashtakam.svg",
+  "total_verses": 9,
+  "sections": [
+    "அஷ்டகம் (Ashtakam)",
+    "பலச்ருதி (Phala Shruti)"
+  ],
+  "verses": [
+    {
+      "id": 1,
+      "verse_num": "1",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "भजे विशेषसुन्दरं समस्तपापखण्डनम् ।\nस्वभक्तचित्तरञ्जनं सदैव राममद्वयम् ॥ १॥",
+      "tamil": "இணையிலாத சுந்தரன்; பிணைத்தபாவம் போக்குவன்;\n    இனியபக்தர் சிந்தையைத் தணிக்கும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t1_r2_rId6.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "verse_num": "2",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "जटाकलापशोभितं समस्तपापनाशकम् ।\nस्वभक्तभीतिभङ्जनं भजेऽहं राममद्वयम् ॥ २ ।।",
+      "tamil": "சடைமுடிந்த சந்திரன்; விடாதபாவம் விரட்டுவன்;\n    அடைந்தபக்தர் அகபயம் அகற்றும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t1_r3_rId7.jpeg",
+        "images/pictures/ramashtakam/t1_r3_rId8.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "verse_num": "3",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "निजस्वरूपबोधकं कृपाकरं भवापहम् ।\nसमं शिवं निरञ्जनं भजेऽहं राममद्वयम् ॥ ३॥",
+      "tamil": "உனையுனக்கு உணர்த்துவன்; தடைதகர்க்கும் தண்மையன்;\n    அனைத்துயிர்கள் ஒன்றென நினைக்கும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t1_r4_rId9.jpeg",
+        "images/pictures/ramashtakam/t1_r4_rId10.jpeg",
+        "images/pictures/ramashtakam/t1_r4_rId11.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "verse_num": "4",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "सहप्रपञ्चकल्पितं ह्यनामरूपवास्तवम् ।\nनिराकृतिं निरामयं भजेऽहं राममद्वयम् ॥ ४॥",
+      "tamil": "அண்டமாய்வி ரிந்தவன்; அநாமரூப விந்தையன்;\n    எந்தரூபம் எண்ணினும் எடுக்கும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t1_r5_rId12.jpeg",
+        "images/pictures/ramashtakam/t1_r5_rId13.jpeg",
+        "images/pictures/ramashtakam/t1_r5_rId14.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "verse_num": "5",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "निष्प्रपञ्चनिर्विकल्पनिर्मलं निरामयम् ।\nचिदेकरूपसन्ततं भजेऽहं राममद्वयम् ॥ ५॥",
+      "tamil": "குறைகளற்ற கோமகன்; கறைகளற்ற தூயவன்;\n    மறைகளுக்குள் மறைந்தமெய் ஞானராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t2_r1_rId15.png",
+        "images/pictures/ramashtakam/t2_r1_rId16.png"
+      ]
+    },
+    {
+      "id": 6,
+      "verse_num": "6",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "भवाब्धिपोतरूपकं ह्यशेषदेहकल्पितम् ।\nगुणाकरं कृपाकरं भजेऽहं राममद्वयम् ॥ ६॥",
+      "tamil": "இலட்சணத்தின் இலக்கணம்; இணையிலாத முழுமையும்\n    இலட்சம்கோடி குணங்களும் இணைந்தராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t2_r2_rId17.jpeg",
+        "images/pictures/ramashtakam/t2_r2_rId18.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "verse_num": "7",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "महावाक्यबोधकैर्विराजमनवाक्पदैः ।\nपरब्रह्म व्यापकं भजेऽहं राममद्वयम् ॥ ७॥",
+      "tamil": "வேதமேத்தும் நாயகன்; வேதியர்க்கு சாதகன்;\n    ஆதியந்தம் அற்றதாய் விளங்கும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t2_r3_rId19.jpeg",
+        "images/pictures/ramashtakam/t2_r3_rId20.png"
+      ]
+    },
+    {
+      "id": 8,
+      "verse_num": "8",
+      "section": "அஷ்டகம் (Ashtakam)",
+      "sanskrit": "शिवप्रदं सुखप्रदं भवच्छिदं भ्रमापहम् ।\nविराजमानदैशिकं भजेऽहं राममद्वयम् ॥ ८॥",
+      "tamil": "மங்களங்கள் நல்குவன்; மரணஜனனம் விலக்குவன்;\n    மதிமனம்பண் படுத்துநல் குருவும்ராம போற்றியே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t2_r4_rId21.png",
+        "images/pictures/ramashtakam/t2_r4_rId22.png"
+      ]
+    },
+    {
+      "id": 9,
+      "verse_num": "9",
+      "section": "பலச்ருதி (Phala Shruti)",
+      "sanskrit": "रामाष्टकं पठति यः सुकरं सुपुण्यं ।\nव्यासेन भाषितमिदं शृणुते मनुष्यः ।\nविद्यां श्रियं विपुलसौख्यमनन्तकीर्तिं ।\nसम्प्राप्य देहविलये लभते च मोक्षम् ।। ९",
+      "tamil": "வியாசதேவ ராலியற்றப் பட்டராம அஷ்டகம்\n    விரும்பிபக்தி யோடுகற்று கேட்டுசொல்லும் மனிதரும்\nவித்தைபுகழ் நித்யசுகம் வளங்களோடு வாழ்ந்துபின்\n    விண்ணுலகம் சென்றபின்னும் பெற்றிடுவார் முக்தியும்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ramashtakam/t3_r1_rId23.jpeg",
+        "images/pictures/ramashtakam/t3_r1_rId24.jpeg",
+        "images/pictures/ramashtakam/t3_r2_rId25.jpeg",
+        "images/pictures/ramashtakam/t3_r2_rId26.jpeg",
+        "images/pictures/ramashtakam/t3_r2_rId27.jpeg",
+        "images/pictures/ramashtakam/t3_r2_rId28.jpeg"
+      ],
+      "media_layout": "media-matrix-3x2"
+    }
+  ],
+  "categories": [
+    "ashtakam",
+    "stotra",
+    "ramayana"
+  ],
+  "source_work": "",
+  "authors": [
+    {
+      "title": "பகவான்",
+      "name": "வியாசர்"
+    }
+  ]
+}

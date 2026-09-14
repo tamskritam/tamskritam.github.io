@@ -1,0 +1,57 @@
+{
+  "id": "ekashloki-sundara-kandam",
+  "title_ta": "ஏகஸ்லோக சுந்தர காண்டம்",
+  "title_sa": "एकश्लोकी सुन्दरकाण्डम्",
+  "title_en": "Ekashloki Sundara Kandam",
+  "category": "ekashloki",
+  "deity": "hanuman",
+  "original_author": "ஸ்ரீ ராகவேந்திர ஸ்வாமி",
+  "translator": "ரா.குருராஜ்",
+  "summary": "சுந்தர காண்டத்தின் சமுத்திர லங்கனம், சீதா தரிசனம், லங்கா தகனம் அனைத்தையும் ஒற்றைப் பாசுரத்தில் விவரிக்கும் பாடல்.",
+  "icon": "images/icons/works/ekashloki-sundara-kandam.svg",
+  "total_verses": 1,
+  "sections": [
+    "ஏகஸ்லோகம் (Ekashloki)"
+  ],
+  "verses": [
+    {
+      "id": 1,
+      "verse_num": "1",
+      "section": "ஏகஸ்லோகம் (Ekashloki)",
+      "sanskrit": "यस्य श्री हनुमान् अनुग्रह बलात् तीर्णांबुधिर्लीलया\nलङ्कां प्राप्य निशाम्य रामदयितां भङ्क्त्वा वनं राक्षसान् |\nअक्षादीन् विनिहत्य वीक्ष्य दशकम् दघ्द्वा पुरीं तां पुन:\nतीर्णाब्धि: कपिभिर्युतो यमनमत् तं रामचन्द्रं भजे ||",
+      "tamil": "எவரருளால் பவனசுதன் உடலெழுப்பித் தடைதகர்த்து\n    உவர்கடலை மிகலகுவாய்க் கடந்திலங்கை கால்பதித்து\nஎவர்மனைக்கா றுதலளித்து வனமழித்து அக்ஷனொத்த\n    தவறிழைத்த அரக்கர்தமைத் தண்டித்தே தசமுகனுக்(கு)\nஎவர்சரணம் அடைந்திடவே நயமுரைத்து நகரனைத்தும்\n    சிவந்தெரியும் பெருவாலால் சுட்டெரித்து மீண்டுவந்து\nஎவரிடத்தில் நல்லசெய்தி சொல்லிசூடா மணியளித்து\n    உவகையுறச் செய்தனரோ அவர்நாமம் பற்றிடுவோம்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/ekashloki-sundara-kandam/t1_r2_rId4.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r2_rId5.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r2_rId6.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId7.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId8.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId9.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId10.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId11.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId13.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId14.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId15.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId16.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId17.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId19.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId20.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId22.png",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId23.jpeg",
+        "images/pictures/ekashloki-sundara-kandam/t1_r4_rId24.jpeg"
+      ]
+    }
+  ],
+  "categories": [
+    "ekashloki",
+    "ramayana"
+  ],
+  "source_work": "",
+  "authors": [
+    {
+      "title": "ஜகத்குரு",
+      "name": "ராகவேந்திர ஸ்வாமி"
+    }
+  ]
+}

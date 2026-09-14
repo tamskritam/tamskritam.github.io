@@ -1,0 +1,559 @@
+{
+  "id": "hanuman-chalisa",
+  "title_ta": "ஸ்ரீ ஹனுமான் சாலீஸா",
+  "title_sa": "हनुमान् चालीसा",
+  "title_en": "Hanuman Chalisa",
+  "category": "chalisa",
+  "deity": "hanuman",
+  "original_author": "துளசிதாசர் (அவதி மொழி மூலம்)",
+  "translator": "ரா.குருராஜ்",
+  "artist": "திரு. சுரேஷ் குப்புஸ்வாமி (தேவ்தத் பட்நாயக் ஓவியங்களைத் தழுவி)",
+  "illustrator": "சுரேஷ் குப்புஸ்வாமி (தேவ்தத் பட்நாயக் ஓவியங்களைத் தழுவி)",
+  "illustrator_name": "சுரேஷ் குப்புஸ்வாமி",
+  "illustrator_note": "தேவ்தத் பட்நாயக் ஓவியங்களைத் தழுவி",
+  "source_work": "அவதி மொழி மூலம்",
+  "authors": [
+    {
+      "title": "கோஸ்வாமி",
+      "name": "துளசிதாசர்"
+    }
+  ],
+  "summary": "துளசிதாசர் அருளிய ஹனுமான் சாலீஸாவின் இனிய தமிழாக்கமும் தேவ்தத் பட்நாயக் பாணியிலான 40 கைவண்ண ஓவியங்களும்.",
+  "icon": "images/icons/works/hanuman-chalisa.svg",
+  "total_verses": 43,
+  "sections": [
+    "பகுதி 1: ஆரம்ப தோஹா (Part I: Opening Doha)",
+    "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+    "பகுதி 3: மங்கள ஸ்லோகம் / நிறைவு தோஹா (Part III: Mangala Shlokam)"
+  ],
+  "verses": [
+    {
+      "id": 1,
+      "verse_num": "1",
+      "section": "பகுதி 1: ஆரம்ப தோஹா (Part I: Opening Doha)",
+      "sanskrit": "श्रीगुरु चरन सरोज रज निजमनु मुकुरु सुधारि।\nबरनउँ रघुबर बिमल जसु जो दायकु फल चारि।।",
+      "tamil": "குருமலர்ப் பததுகள் துடைத்திடுமே\nகுறைகளை என்மன ஆடியிலே!\nரகுகுல திலகனின் சரித்திரமே\nசுகந்தரும் நால்வகைப் பேறுடனே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t3_rId7.png"
+      ]
+    },
+    {
+      "id": 2,
+      "verse_num": "2",
+      "section": "பகுதி 1: ஆரம்ப தோஹா (Part I: Opening Doha)",
+      "sanskrit": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।\nबल बुधि बिद्या देहु मोहिं, हरहु कलेस बिकार।।",
+      "tamil": "குறையுடை யவனென எனையுணர்ந்தே\nகுருவென பவனகு மாரனையே\nதுதித்திடு வேன்பலம், புத்திபெற\nதூயநல் லறிவொடு குறையகல!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t3_rId8.png"
+      ]
+    },
+    {
+      "id": 3,
+      "verse_num": "1",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुं लोक उजागर।।",
+      "tamil": "ஞானகுண சாகரனே! வானரரில் சான்றோனே!\nஞாலமெலாம் ஒளிர்வோனே! அனுமனுனக் கேஜெயமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t4_r1_rId9.png"
+      ]
+    },
+    {
+      "id": 4,
+      "verse_num": "2",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "रामदूत अतुलित बल धामा ।\nअंजनि-पुत्र पवनसुत नामा ।।",
+      "tamil": "அண்ணலவன் தூதுவனே! அளப்பரிய பலவானே!\nஅஞ்சனையின் திருமகனே! அநிலனவன் புத்திரனே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t4_r3_rId10.png"
+      ]
+    },
+    {
+      "id": 5,
+      "verse_num": "3",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "महावीर विक्रम बजरंगी।\nकुमति निवार सुमति के संगी।।",
+      "tamil": "வீரமுடன் தைரியமும் பாறையுடலும் பெற்றவனே!\nவீணருக்குக் கூற்றுவனே! ஞானியர்க்கு உற்றவனே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t4_r5_rId11.png"
+      ]
+    },
+    {
+      "id": 6,
+      "verse_num": "4",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "कंचन वरन विराज सुवेसा।\nकानन कुण्डल कुंचित केसा।।",
+      "tamil": "காஞ்சனமாய் ஒளிருமுடல்; கவருமுடை அலங்காரம்;\nகாதுகுண்ட லங்கலுடன்  சுருள்முடியும் தெய்வீகம்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t5_r1_rId12.png"
+      ]
+    },
+    {
+      "id": 7,
+      "verse_num": "5",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "हाथ बज्र औ ध्वजा बिराजै ।\nकाँधे मूँज जनेऊ साजै ।।",
+      "tamil": "வஜ்ரகதை வெற்றிக்கொடி கரமிரண்டில் பரிமளிக்க\nவனப்புல்லால் முப்புரியும் மாரினிலே மிளிர்கிறதே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t5_r3_rId13.png"
+      ]
+    },
+    {
+      "id": 8,
+      "verse_num": "6",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "शंकर सुवन केसरीनंदन ।\nतेज प्रताप महा जग वन्दन ।।",
+      "tamil": "அரனருளோ டவதரித்து கேசரிக்கு மகிழ்வளித்த\nஅனுமனுனது பெருமைகளை அகிலமெலாம் புகழ்கிறதே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t5_r5_rId14.png"
+      ]
+    },
+    {
+      "id": 9,
+      "verse_num": "7",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "विद्यावान गुणी अति चातुर ।\nराम काज करिबे को आतुर ।।",
+      "tamil": "கொண்டஞானம் குணநலன்கள் கூரறிவில் இணையிலனே!\nஅண்ணலிட்ட பணிமுடிக்க ஆர்வமுடனே இருப்பவனே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t6_r1_rId15.png"
+      ]
+    },
+    {
+      "id": 10,
+      "verse_num": "8",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "प्रभु चरित्र सुनिबे को रसिया ।\nराम लखन सीता मन बसिया ।।",
+      "tamil": "எம்பிரானின் இனியகாதை செவியுறவே விழைவாயே;\nதம்பியோடு ராமர்சீதை உம்மிதயம் வாழ்வாரே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t6_r3_rId16.png"
+      ]
+    },
+    {
+      "id": 11,
+      "verse_num": "",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "is_refrain": true,
+      "sanskrit": "राम लक्ष्मण जानकी जय बोलो हनुमान की,  राम लक्ष्मण जानकी जय बोलो हनुमान की",
+      "tamil": "ராகவனை லக்குவனை ஜானகியைப் போற்றுவனை\nவாகைசூட வாழ்த்துவமே ஜெயமனுமா னுக்கெனவே!",
+      "meaning": "",
+      "images": []
+    },
+    {
+      "id": 12,
+      "verse_num": "9",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "सूक्ष्म रूप धरि सियहिं दिखावा ।\nविकट रूप धरि लंक जरावा ।।",
+      "tamil": "சிற்றுருவாய் சீதைகண்டு உற்றவிதம் தூதுரைத்தாய்;\nஅற்புதமாய் வளர்ந்திலங்கை அக்கினிக்கே இரைசெய்தாய்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t7_r1_rId17.png"
+      ]
+    },
+    {
+      "id": 13,
+      "verse_num": "10",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "भीम रूप धरि असुर संहारे ।\nरामचंद्र के काज संवारे ।।",
+      "tamil": "பயந்தருபெரு உருவெடுத்தே அசுரர்தமை அழித்தொழித்தாய்;\nபக்தனாக நாதன்பணி தக்கவிதம் நடத்திவிட்டாய்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t7_r3_rId18.png"
+      ]
+    },
+    {
+      "id": 14,
+      "verse_num": "11",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "लाय सजीवन लखन जियाये ।\nश्रीरघुबीर हरषि उर लाये ।।",
+      "tamil": "சஞ்சீவினி மூலிகையைக் கொணர்ந்திளவற் குயிரளித்தாய்;\nநெஞ்சுநிறை பேருவகை நாதனுக்கு நீயளித்தாய்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t7_r5_rId19.png"
+      ]
+    },
+    {
+      "id": 15,
+      "verse_num": "12",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "रघुपति कीन्ही बहुत बड़ाई ।\nतुम मम प्रिय भरतहि सम भाई ।।",
+      "tamil": "வரதனுமே உயிர்காத்த உனைப்புகழ்ந்து உரைத்தாரே:\nபரதனொப்ப நீயுமெந்தன் அன்புமிக்க இளவலென்றே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t8_r1_rId20.png"
+      ]
+    },
+    {
+      "id": 16,
+      "verse_num": "13",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "सहस बदन तुम्हरो जस गावैं ।\nअस कहि श्रीपति कंठ लगावैं ।।",
+      "tamil": "ஆயிரமா யிரம்வாயால் வாழ்த்தப்படு வாயெனவே\nஆரத்தழு வியபடியே அண்ணலுனை வாழ்த்தினரே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t8_r3_rId21.png"
+      ]
+    },
+    {
+      "id": 17,
+      "verse_num": "14",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "सनकादिक ब्रह्मादि मुनीशा ।\nनारद सारद सहित अहीसा ।।",
+      "tamil": "நான்முகசன காதியரும் ஆதிசேஷன் நாரதரும்\nநாமகளும் தேவர்களும் உனைப்புகழ்ந்து பாடுவரே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t8_r5_rId22.png"
+      ]
+    },
+    {
+      "id": 18,
+      "verse_num": "15",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जम कुबेर दिगपाल जहां ते ।\nकवि कोविद कहि सके कहाँ ते ।।",
+      "tamil": "எமகுபேரர் திக்குபாலர் உனைத்துதிக்க விரைவரன்றோ;\nதமதுபெருமை முழுதுபாட கவிஞரறிஞர் மலைப்பரன்றோ!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t9_r1_rId23.png"
+      ]
+    },
+    {
+      "id": 19,
+      "verse_num": "16",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "तुम उपकार सुग्रीवहिं कीन्हा ।\nराम मिलाय राज पद दीन्हा ।।",
+      "tamil": "கவிகுலசுக் ரீவனுக்கே புரிந்தாயே பேருதவி;\nரவிகுலத்தோன் அறிமுகத்தால் பெற்றானே அரசபதவி!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t9_r3_rId24.png"
+      ]
+    },
+    {
+      "id": 20,
+      "verse_num": "",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "is_refrain": true,
+      "sanskrit": "राम लक्ष्मण जानकी जय बोलो हनुमान की,  राम लक्ष्मण जानकी जय बोलो हनुमान की",
+      "tamil": "ராகவனை லக்குவனை ஜானகியைப் போற்றுவனை\nவாகைசூட வாழ்த்துவமே ஜெயமனுமா னுக்கெனவே!",
+      "meaning": "",
+      "images": []
+    },
+    {
+      "id": 21,
+      "verse_num": "17",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "तुम्हरो मंत्र विभीषन माना ।\nलंकेश्वर भये सब जग जाना ।।",
+      "tamil": "உனதாலோ சனைகேட்ட உத்தமராம் விபீஷணர்\nதனதாக்கித் தீவிலங்கை தனையாண்டார் தரணியறிய!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t10_r1_rId25.png"
+      ]
+    },
+    {
+      "id": 22,
+      "verse_num": "18",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जुग सहस्र योजन पर भानू ।\nलील्यो ताहि मधुर फल जानू ।।",
+      "tamil": "பல்லாயிரம் யோசனைகள் பறந்தாயே பகலவனைப்\nபழமென்றே பிடித்திடவே; பாலலீலை புரிந்திடவே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t10_r3_rId26.png"
+      ]
+    },
+    {
+      "id": 23,
+      "verse_num": "19",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "प्रभु मुद्रिका मेलि मुख माहीं ।\nजलधि लांघि गये अचरज नाहीं ।।",
+      "tamil": "ஆழிதாங்கி அற்புதமாய்த் தாவினாயே தீவினுக்கே;\nஆழிதாண்டித் தீவடைந்த ஆற்றலிலோர் ஐயமுண்டோ!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t10_r5_rId27.png"
+      ]
+    },
+    {
+      "id": 24,
+      "verse_num": "20",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "दुर्गम काज जगत के जेते ।\nसुगम अनुग्रह तुम्हरे तेते ।।",
+      "tamil": "கடினமென்று அகிலமக்கள் களைத்துவிடும் பணிகளுமே\nகணப்பொழுதில் நடந்துவிடும் உனதருளால் எளிதினிலே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t11_r1_rId28.png"
+      ]
+    },
+    {
+      "id": 25,
+      "verse_num": "21",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "राम दुआरे तुम रखवारे ।\nहोत न आज्ञा बिनु पैसारे ।।",
+      "tamil": "மெய்க்காவல் புரிவாயே அண்ணலவர் சன்னதியில்;\nதயங்காமல் நெருங்குவர்யார் உனதனுமதி இல்லையெனில்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t11_r3_rId29.png"
+      ]
+    },
+    {
+      "id": 26,
+      "verse_num": "22",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "सब सुख लहै तुम्हारी सरना ।\nतुम रक्षक काहू को डरना ।।",
+      "tamil": "உனைத்தஞ்சம் அடைந்திடினோ உள்ளமெலாம் இன்பமயம்;\nஎனைக்காக்க நீயிருக்க உள்ளத்திலே ஏதுபயம்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t11_r5_rId30.png"
+      ]
+    },
+    {
+      "id": 27,
+      "verse_num": "23",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "आपन तेज सम्हारो आपै ।\nतीनों लोक हांक तें कांपै ।।",
+      "tamil": "உனைக்கட்ட உனையன்றி யாருளரே மூவுலகும்;\nஉன்கர்ஜனை எதிரொலித்தால் உலகமெலாம் கதிகலங்கும்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t12_r1_rId31.png"
+      ]
+    },
+    {
+      "id": 28,
+      "verse_num": "24",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "भूत पिसाच निकट नहिं आवै ।\nमहाबीर जब नाम सुनावै ।।",
+      "tamil": "தீரமிக்க உன்நாமம் யாருமுச்ச ரித்திடினும்\nதீயசக்தி பேய்களுமே அண்டிடுமோ அவரருகும்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t12_r3_rId32.png"
+      ]
+    },
+    {
+      "id": 29,
+      "verse_num": "",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "is_refrain": true,
+      "sanskrit": "राम लक्ष्मण जानकी जय बोलो हनुमान की,  राम लक्ष्मण जानकी जय बोलो हनुमान की",
+      "tamil": "ராகவனை லக்குவனை ஜானகியைப் போற்றுவனை\nவாகைசூட வாழ்த்துவமே ஜெயமனுமா னுக்கெனவே!",
+      "meaning": "",
+      "images": []
+    },
+    {
+      "id": 30,
+      "verse_num": "25",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "नासै रोग हरै सब पीरा ।\nजपत निरंतर हनुमत बीरा ।।",
+      "tamil": "மாவீரன் உன்பேரை நாள்தோறும் உச்சரிக்க\nதீவினைகள் நோய்களெலாம் தூரவிலகி ஓடிடுமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t13_r1_rId33.png"
+      ]
+    },
+    {
+      "id": 31,
+      "verse_num": "26",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "संकट तें हनुमान छुड़ावै ।\nमन क्रम वचन ध्यान जो लावै ।।",
+      "tamil": "எத்தகுசங் கடமெனினும் வாழ்விலவை விடைபெறுமே\nஎண்ணம்சொல் செயல்களிலே அனுமனுனை நிறைத்திடினே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t13_r3_rId34.png"
+      ]
+    },
+    {
+      "id": 32,
+      "verse_num": "27",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "सब पर राम तपस्वी राजा ।\nतिनके काज सकल तुम साजा ।।",
+      "tamil": "மகரிஷியாம் ராமபிரான் மன்னனன்றோ யாவர்க்குமே;\nமகத்துவமாய் நிர்வகித்தாய் அவர்பணிகள் யாவையுமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t13_r5_rId35.png"
+      ]
+    },
+    {
+      "id": 33,
+      "verse_num": "28",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "और मनोरथ जो कोई लावै ।\nसोई अमित जीवन फल पावै ।।",
+      "tamil": "மனதினிலே விருப்பமுடன் யாருனையே நாடிடினும்\nமட்டிலாத நற்பலன்கள் மகிழ்வுடனே நல்குவையே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t14_r1_rId36.png"
+      ]
+    },
+    {
+      "id": 34,
+      "verse_num": "29",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "चारों युग परताप तुम्हारा ।\nहै परसिद्ध जगत उजियारा ।।",
+      "tamil": "ஈரிரண்டு யுகங்களிலும் ஒளிர்ந்திடுமே உன்மகிமை;\nஈரேழு உலகிலுமே எதிரொலிக்கும் உன்பெருமை!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t14_r3_rId37.png"
+      ]
+    },
+    {
+      "id": 35,
+      "verse_num": "30",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "साधु-संत के तुम रखवारे ।\nअसुर निकंदन राम दुलारे ।।",
+      "tamil": "சாதுமுனி ரிஷிகளுக்குக் காவலனாய் இருப்பவனே;\nதீதசுரரை வதைப்பதனால் மாதவனுக் கினியவனே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t14_r5_rId38.png"
+      ]
+    },
+    {
+      "id": 36,
+      "verse_num": "31",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "अष्ट सिद्धि नौ निधि के दाता ।\nअस वर दीन जानकी माता ।।",
+      "tamil": "எட்டுசித்தி நவநிதியும் பெற்றநீயுன் பக்தர்க்கவை\nகிட்டவரம் தருமருளைத் தந்தனளே சீதையன்னை!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t15_r1_rId39.png"
+      ]
+    },
+    {
+      "id": 37,
+      "verse_num": "32",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "राम रसायन तुम्हरे पासा ।\nसदा रहो रघुपति के दासा ।।",
+      "tamil": "ராமபக்தி சாரமதில் திளைப்பதுவே உன்விருப்பம்;\nராமபிரான் சேவகனாய்த் திகழ்கிறாயே என்றென்றும்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t15_r3_rId40.png"
+      ]
+    },
+    {
+      "id": 38,
+      "verse_num": "",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "is_refrain": true,
+      "sanskrit": "राम लक्ष्मण जानकी जय बोलो हनुमान की,  राम लक्ष्मण जानकी जय बोलो हनुमान की",
+      "tamil": "ராகவனை லக்குவனை ஜானகியைப் போற்றுவனை\nவாகைசூட வாழ்த்துவமே ஜெயமனுமா னுக்கெனவே!",
+      "meaning": "",
+      "images": []
+    },
+    {
+      "id": 39,
+      "verse_num": "33",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "तुम्हरे भजन राम को भावै ।\nजनम-जनम के दुख बिसरावै ।।",
+      "tamil": "உன்நாமம் உச்சரித்தே எம்பிரானை அடைந்திடலாம்;\nஜென்மஜென்மம் தொடர்ந்துவரும் துக்கமெலாம் துடைத்திடலாம்!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t16_r1_rId41.png"
+      ]
+    },
+    {
+      "id": 40,
+      "verse_num": "34",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "अन्त काल रघुबर पुर जाई ।\nजहाँ जन्म हरि-भक्त कहाई ।।",
+      "tamil": "வாழ்வெலாமும் ராமபக்தி தனிலாழ்ந்த அடியவரே\nவாழ்விறுதிக் காலமதில் ராமசரணம் அடைவர்களே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t16_r3_rId42.png"
+      ]
+    },
+    {
+      "id": 41,
+      "verse_num": "35",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "और देवता चित्त न धरई ।\nहनुमत सेई सर्व सुख करई ।।",
+      "tamil": "மனதிலுனைக் கொண்டிடவே மகிழ்ச்சிகளும் பொங்கிடுமே;\nமற்றதொரு தேவதையை வணங்கவென்ன அவசியமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t16_r5_rId43.png"
+      ]
+    },
+    {
+      "id": 42,
+      "verse_num": "36",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "संकट कटै मिटै सब पीरा ।\nजो सुमिरै हनुमत बलबीरा ।।",
+      "tamil": "மாபலவான் மாருதியை மனமுருகிட வேண்டிடவே\nஆபத்துகள் சங்கடங்கள் அண்டிடுமோ அருகினிலே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t17_r1_rId44.png"
+      ]
+    },
+    {
+      "id": 43,
+      "verse_num": "37",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जै जै जै हनुमान गोसाईं ।\nकृपा करहु गुरुदेव की नाईं ।।",
+      "tamil": "புலனடக்கிய புண்ணியனே! உனக்கென்றும் வெற்றிகளே!\nபுரிவாயே கருணையுமே குருவாக அருளியுமே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t17_r3_rId45.png"
+      ]
+    },
+    {
+      "id": 44,
+      "verse_num": "38",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जो सत बार पाठ कर कोई ।\nछूटहिं बंदि महा सुख होई ।।",
+      "tamil": "பாராயணம் இதைச்செய்ய நாள்நூறு முறைநூறு\nயாராயினும் அகமகிழ்ந்து பெற்றிடுவார் வீடுபேறு!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t17_r5_rId46.png"
+      ]
+    },
+    {
+      "id": 45,
+      "verse_num": "39",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "जो यह पढ़ै हनुमान चालीसा ।\nहोय सिद्धि साखी गौरीसा ।।",
+      "tamil": "மாருதிநாற் பதுபதிகம் யாரொருவர் படித்திடினும்\nசீருடனே செயல்முடிப்பார் சிவனாரின் சாட்சியாக!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t18_r1_rId47.png"
+      ]
+    },
+    {
+      "id": 46,
+      "verse_num": "40",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "sanskrit": "तुलसीदास सदा हरि चेरा।\nकीजै नाथ हृदय महँ डेरा ।।",
+      "tamil": "துளசிதாசன் என்றென்றும் எம்பிரானின் அடியனே!\nதூயவுள்ளம் நீயென்றும் உறைவிடமாய்க் கொள்வையே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t18_r3_rId48.png"
+      ]
+    },
+    {
+      "id": 47,
+      "verse_num": "",
+      "section": "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "is_refrain": true,
+      "sanskrit": "राम लक्ष्मण जानकी जय बोलो हनुमान की,  राम लक्ष्मण जानकी जय बोलो हनुमान की",
+      "tamil": "ராகவனை லக்குவனை ஜானகியைப் போற்றுவனை\nவாகைசூட வாழ்த்துவமே ஜெயமனுமா னுக்கெனவே!",
+      "meaning": "",
+      "images": []
+    },
+    {
+      "id": 48,
+      "verse_num": "",
+      "section": "பகுதி 3: மங்கள ஸ்லோகம் / நிறைவு தோஹா (Part III: Mangala Shlokam)",
+      "sanskrit": "पवनतनय संकट हरन, मंगल मूरति रूप।\nराम लखन सीता सहित, हृदय बसहु सुर भूप।।",
+      "tamil": "மங்கள வடிவன்! அமரரின் தலைவன்!\n    சங்கடம் போக்கும் அநிலனின் குமரன்!\nதங்குவன் அண்ணல் இலகுகுவ னோடும்\n    மங்கையவள் சீதையொடு எம்மிதயந் தனிலே!",
+      "meaning": "",
+      "images": [
+        "images/pictures/hanuman-chalisa/t19_rId49.png"
+      ]
+    }
+  ],
+  "no_indent": true,
+  "categories": [
+    "chalisa",
+    "stotra"
+  ]
+}

@@ -1,0 +1,3632 @@
+{
+  "id": "andhadhi-ramayanam",
+  "title_ta": "அந்தாதி ராமாயணம்",
+  "title_sa": "अन्तादि रामायणम्",
+  "title_en": "Andhadhi Ramayanam",
+  "category": "ramayana",
+  "deity": "rama",
+  "original_author": "வால்மீகி மகரிஷி (கதை மூலம்)",
+  "translator": "ரா.குருராஜ்",
+  "summary": "அந்தாதித் தொடையில் 45 அத்தியாயங்களில் ராம காவியம் முழுவதையும் சொல்லும் எழிலார்ந்த 302 தமிழ்ப் பாக்கள்.",
+  "icon": "images/icons/works/andhadhi-ramayanam.svg",
+  "total_verses": 303,
+  "is_andhadhi": true,
+  "index_chapters": [
+    {
+      "chapter_num": 1,
+      "title": "1) ஸ்ரீராம ஜனனம்"
+    },
+    {
+      "chapter_num": 2,
+      "title": "2) யாகம் காத்தல்"
+    },
+    {
+      "chapter_num": 3,
+      "title": "3) வைதேகி விவாகம்"
+    },
+    {
+      "chapter_num": 4,
+      "title": "4) கைகேயி வரம்"
+    },
+    {
+      "chapter_num": 5,
+      "title": "5) வனம் கிளம்புதல்"
+    },
+    {
+      "chapter_num": 6,
+      "title": "6) சித்திரகூடம்"
+    },
+    {
+      "chapter_num": 7,
+      "title": "7) தசரதன் மரணம்"
+    },
+    {
+      "chapter_num": 8,
+      "title": "8) பரதனின் தூய உள்ளம்"
+    },
+    {
+      "chapter_num": 9,
+      "title": "9) பாதுகை ஆட்சி"
+    },
+    {
+      "chapter_num": 10,
+      "title": "10) வனவாசமும், ரிஷிகள் சகவாசமும்"
+    },
+    {
+      "chapter_num": 11,
+      "title": "11) சூர்ப்பனகை"
+    },
+    {
+      "chapter_num": 12,
+      "title": "12) கரதூஷணர்கள்"
+    },
+    {
+      "chapter_num": 13,
+      "title": "13) லங்கேசன்"
+    },
+    {
+      "chapter_num": 14,
+      "title": "14) மாயமான்"
+    },
+    {
+      "chapter_num": 15,
+      "title": "15) சடாயு"
+    },
+    {
+      "chapter_num": 16,
+      "title": "16) அசோகவனம்"
+    },
+    {
+      "chapter_num": 17,
+      "title": "17) இராமன் கவலை"
+    },
+    {
+      "chapter_num": 18,
+      "title": "18) கபந்தன்"
+    },
+    {
+      "chapter_num": 19,
+      "title": "19) அனுமன், சுக்ரீவன் அறிமுகம்"
+    },
+    {
+      "chapter_num": 20,
+      "title": "20) சுக்ரீவன் கதை"
+    },
+    {
+      "chapter_num": 21,
+      "title": "21) வாலி நுழையா வனம்"
+    },
+    {
+      "chapter_num": 22,
+      "title": "22) இராமன் அபயம்"
+    },
+    {
+      "chapter_num": 23,
+      "title": "23) வாலி, சுக்ரீவன் போர்"
+    },
+    {
+      "chapter_num": 24,
+      "title": "24) வாலி வதம்"
+    },
+    {
+      "chapter_num": 25,
+      "title": "25) தேடும் பணி தொடங்குதல்"
+    },
+    {
+      "chapter_num": 26,
+      "title": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு"
+    },
+    {
+      "chapter_num": 27,
+      "title": "27) அனுமன் சமுத்திரம் தாண்டுதல்"
+    },
+    {
+      "chapter_num": 28,
+      "title": "28) அன்னையின் தரிசனம்"
+    },
+    {
+      "chapter_num": 29,
+      "title": "29) அன்னையின் அறிமுகம்"
+    },
+    {
+      "chapter_num": 30,
+      "title": "30) அனுமன் அட்டகாசம்"
+    },
+    {
+      "chapter_num": 31,
+      "title": "31) லங்கா தகனம்"
+    },
+    {
+      "chapter_num": 32,
+      "title": "32) அண்ணல் மகிழ்ச்சி"
+    },
+    {
+      "chapter_num": 33,
+      "title": "33) இராவண சபை"
+    },
+    {
+      "chapter_num": 34,
+      "title": "34) சரணாகதி"
+    },
+    {
+      "chapter_num": 35,
+      "title": "35) சமுத்திர பாலம்"
+    },
+    {
+      "chapter_num": 36,
+      "title": "36) போர்த் திட்டங்கள்"
+    },
+    {
+      "chapter_num": 37,
+      "title": "37) முற்றுகை"
+    },
+    {
+      "chapter_num": 38,
+      "title": "38) அங்கதன் தூது"
+    },
+    {
+      "chapter_num": 39,
+      "title": "39) ராவணன் மாயம்"
+    },
+    {
+      "chapter_num": 40,
+      "title": "40) போர்"
+    },
+    {
+      "chapter_num": 41,
+      "title": "41) கும்பகர்ணன்"
+    },
+    {
+      "chapter_num": 42,
+      "title": "42) இந்திரஜித்"
+    },
+    {
+      "chapter_num": 43,
+      "title": "43) இராம இராவண யுத்தம்"
+    },
+    {
+      "chapter_num": 44,
+      "title": "44) அயோத்தி திரும்புதல்"
+    },
+    {
+      "chapter_num": 45,
+      "title": "45) ராமராஜ்யம்"
+    }
+  ],
+  "sections": [
+    "பொருளடக்கம் (Index)",
+    "1) ஸ்ரீராம ஜனனம்",
+    "2) யாகம் காத்தல்",
+    "3) வைதேகி விவாகம்",
+    "4) கைகேயி வரம்",
+    "5) வனம் கிளம்புதல்",
+    "6) சித்திரகூடம்",
+    "7) தசரதன் மரணம்",
+    "8) பரதனின் தூய உள்ளம்",
+    "9) பாதுகை ஆட்சி",
+    "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+    "11) சூர்ப்பனகை",
+    "12) கரதூஷணர்கள்",
+    "13) லங்கேசன்",
+    "14) மாயமான்",
+    "15) சடாயு",
+    "16) அசோகவனம்",
+    "17) இராமன் கவலை",
+    "18) கபந்தன்",
+    "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+    "20) சுக்ரீவன் கதை",
+    "21) வாலி நுழையா வனம்",
+    "22) இராமன் அபயம்",
+    "23) வாலி, சுக்ரீவன் போர்",
+    "24) வாலி வதம்",
+    "25) தேடும் பணி தொடங்குதல்",
+    "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+    "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+    "28) அன்னையின் தரிசனம்",
+    "29) அன்னையின் அறிமுகம்",
+    "30) அனுமன் அட்டகாசம்",
+    "31) லங்கா தகனம்",
+    "32) அண்ணல் மகிழ்ச்சி",
+    "33) இராவண சபை",
+    "34) சரணாகதி",
+    "35) சமுத்திர பாலம்",
+    "36) போர்த் திட்டங்கள்",
+    "37) முற்றுகை",
+    "38) அங்கதன் தூது",
+    "39) ராவணன் மாயம்",
+    "40) போர்",
+    "41) கும்பகர்ணன்",
+    "42) இந்திரஜித்",
+    "43) இராம இராவண யுத்தம்",
+    "44) அயோத்தி திரும்புதல்",
+    "45) ராமராஜ்யம்"
+  ],
+  "verses": [
+    {
+      "verse_num": "1",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>கோசல</strong> மன்னன் தசரதன் மனைவியர்\n    கோசலை சுமித்திரை கைகேயி - அந்த\nமாசிலா தம்பதி புரிந்தார் சிறந்த\n    மைந்தரை வேண்டி <strong>ஒருவேள்வி</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t2_r2_rId9.png"
+      ],
+      "id": 1
+    },
+    {
+      "verse_num": "2",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>வேள்வியில்</strong> தோன்றிய பாயசத் தாலவர்\n    வேண்டிய வரமும் பெற்றார் - கல்வி\nகேள்வியில் சிறந்து விளங்கிட வல்ல\n    குமாரர் நால்வர் <strong>பிறந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 2
+    },
+    {
+      "verse_num": "3",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>பிறந்த</strong> புதல்வரும் வளர்ந்து வில்வாள்\n    பயிற்சிகள் பெற்றுத் தேர்ந்தார் - தமது\nசிறந்த குணங்கள் வீரம் அழகால்\n    சனங்களின் மனதுள் <strong>நிறைந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t2_r4_rId11.png"
+      ],
+      "id": 3
+    },
+    {
+      "verse_num": "4",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>நிறைந்த</strong> வடிவாய் விளங்கும் ராமன்\n    நால்வரில் மூத்த மகனே! - நான்கு\nமறைகளைக் காத்த மாலவன் எடுக்கும்\n    மற்றொரு வடிவினன் <strong>அவனே</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t2_r4_rId13.jpeg"
+      ],
+      "id": 4
+    },
+    {
+      "verse_num": "5",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>அவனது</strong> தம்பியர் பரதலக் குவனர்\n    அழகிய சத்ருக் கனராம் - அவரும்\nதவமுனி வசிட்ட ரிடத்தில் கல்வியும்\n    தக்கவி தத்தில் <strong>பெற்றார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t3_r1_rId14.png"
+      ],
+      "id": 5
+    },
+    {
+      "verse_num": "6",
+      "chapter_num": 1,
+      "section": "1) ஸ்ரீராம ஜனனம்",
+      "sanskrit": "",
+      "tamil": "<strong>பெற்றோர்</strong> பெருமை கொண்டே அவரைப்\n    பூரிப் புடனே வளர்த்தார் - ஒருநாள்\nகற்றோர் போற்றும் விசுவா மித்திர\n    கடுந்தவ முனிவரும் <strong>வந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 6
+    },
+    {
+      "verse_num": "7",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>வந்தவ</strong> ருக்கே பணிவுடன் மன்னன்\n    வந்தனம் பலவும் சொன்னான் - அவனின்\nமைந்தன் ராமனைத் தன்னுடன் அனுப்பிட\n    முனிவரும் வேண்டுதல் <strong>செய்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t4_r2_rId16.png"
+      ],
+      "id": 7
+    },
+    {
+      "verse_num": "8",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>\"செய்திடும்</strong> யாகம் அரக்கரின் தடையால்\n    எய்திட வில்லை முடிவும் - அவர்சிரம்\nகொய்தே யாகம் காத்திட நீயும்\n    கொடுஉன் மகனை\" <strong>என்றார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t4_r2_rId18.png"
+      ],
+      "id": 8
+    },
+    {
+      "verse_num": "9",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவர்</strong> மன்னன் தயங்குதல் கண்டு\n    எல்லையில் லாசினம் கொண்டார் - வசிட்டர்\n\"நன்றே நடந்திடும் நாதனை அனுப்பிடில்\"\n    என்றே ஊக்கமும் <strong>தந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 9
+    },
+    {
+      "verse_num": "10",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தேன்</strong> ராமனை என்றே மன்னனும்\n    தவமுனி தம்மிடம் பகன்றான் - ராமன்\nசந்தோ சத்துடன் லக்குவ னுடனே\n    தந்தையி டம்விடை <strong>பெற்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 10
+    },
+    {
+      "verse_num": "11",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>பெற்றார்</strong> பற்பல அற்புத அனுபவம்\n    போகும் வழியில் முனியிடம் - அவரும்\nகற்றுத் தந்தார் அஸ்திர வித்தைகள்\n    கனிவுடன் தந்திர <strong>மந்திரம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t5_r1_rId20.png"
+      ],
+      "id": 11
+    },
+    {
+      "verse_num": "12",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>மந்திர</strong> சக்திகள் மிக்கவ ரக்கர்\n    மாரிசன் சுபாகு தாடகி - மூவரும்\nவந்தனர் யாகம் குலைத்திட மேக\n    வண்ணனின் காவலை <strong>மீறி</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 12
+    },
+    {
+      "verse_num": "13",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>மீறிய</strong> அசுரரை சீரிய அம்பால்\n    மாலவன் தடுத்தே நிறுத்த - அவனுடன்\nமாறிமாறியே லக்குவன் தானும்\n    மாரியாய் அம்புகள் <strong>எய்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t5_r3_rId22.jpeg"
+      ],
+      "id": 13
+    },
+    {
+      "verse_num": "14",
+      "chapter_num": 2,
+      "section": "2) யாகம் காத்தல்",
+      "sanskrit": "",
+      "tamil": "<strong>எய்த</strong> அம்புகள் அரக்கர் சிரங்களைக்\n    கொய்தே தாக்கிக் கொல்லவும் - பெருமழை\nபெய்து ஓய்ந்ததைப் போல விளங்கிட\n    செய்தார் முனிவர் <strong>யாகமும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t5_r3_rId23.png"
+      ],
+      "id": 14
+    },
+    {
+      "verse_num": "15",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>யாகமும்</strong> நன்றே முடிந்தபின் முனிவரும்\n    போகநி னைத்தார் மிதிலை - மூவரும்\nபோகும் வழியில் ராகவன் பாதம்\n    பட்டகல் ஆனது <strong>அகலிகை</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t6_r2_rId25.jpeg"
+      ],
+      "id": 15
+    },
+    {
+      "verse_num": "16",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அகலிகை</strong> அண்ணலை வணங்கிவி டைபெற\n    அவர்களும் மிதிலை அடைந்தார் - அந்த\nநிகரிலா நகரத் தரசராம் ஜனகர்\n    நாதனை அன்புடன் <strong>அழைத்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 16
+    },
+    {
+      "verse_num": "17",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அழைத்துச்</strong> சென்றே அரியதோர் வில்லை\n    அவனிடம் காட்டிச் சொன்னார் - \"எனது\nஅழகுத் திருமகள் சீதையை அடைவார்\n    அவ்வில் நிறுத்தி <strong>வளைப்பார்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t6_r4_rId26.jpeg"
+      ],
+      "id": 17
+    },
+    {
+      "verse_num": "18",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>வளைத்திட</strong> வந்த வேந்தர் பலரும்\n    களைத்தே சோர்வுடன் திரும்பிட - சற்றும்\nசளைக்கா(து) அண்ணல் வளைத்தான் வில்லை;\n    சடசட வென்றே <strong>ஒடித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 18
+    },
+    {
+      "verse_num": "19",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஒடிந்த</strong> தனுசுடன் மைதிலி மனமும்\n    ஒன்றாய்க் கலந்தது அண்ணலில் - சுபமாய்\nநடந்த திருமண வைபவம் தன்னில்\n    நாதனும் சீதையும் <strong>சேர்ந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t7_r1_rId27.jpeg"
+      ],
+      "id": 19
+    },
+    {
+      "verse_num": "20",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>சேர்ந்தே</strong> யாவரும் வரும்வழி வந்து\n    சேர்ந்தார் பரசு ராமர் - தம்மைச்\nசார்ந்த நாரணன் தனுசினை வளைக்கும்\n    சோதனை அவரும் <strong>தந்தார்</strong>.",
+      "meaning": "",
+      "images": [],
+      "id": 20
+    },
+    {
+      "verse_num": "21",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்த</strong> முனிவரை வணங்கி அண்ணல்\n    தனுசினை நொடியில் முறித்தான் - முனியும்\nவந்த காரியம் முடிந்தது என்றே\n    வான்தொடும் இமயம் <strong>சென்றார்</strong>.",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t7_r3_rId28.jpeg"
+      ],
+      "id": 21
+    },
+    {
+      "verse_num": "22",
+      "chapter_num": 3,
+      "section": "3) வைதேகி விவாகம்",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றே</strong> ஊரும் சேர்ந்த ராமர்\n    சீதையும் சுகமாய் வாழ்ந்தார் - ராமன்\nஎன்றே பட்டம் ஏற்பான் என்று\n    ஏங்கியே ஜனங்கள் <strong>காத்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 22
+    },
+    {
+      "verse_num": "23",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>காத்திட</strong> இனியும் காலமில் லையென\n    கோமகன் நாளும் குறித்தான் - மகிழ்ச்சி\nபூத்திட நகரம் அலங்கரிக் கப்பட\n    பூரணன் விரதம் <strong>புரிந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t8_r2_rId29.jpeg"
+      ],
+      "id": 23
+    },
+    {
+      "verse_num": "24",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>புரியா</strong> தவளாய் மந்தரை கண்டாள்\n    புனிதநீர் வருவதை யெல்லாம் - செய்தி\nதெரிந்ததும் சினமிக வுடனே சென்றாள்\n    தாதியும் கேகயி <strong>இல்லம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 24
+    },
+    {
+      "verse_num": "25",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>இல்லந்</strong> தனிலே இனியகை கேயி\n    இன்பமாய் அமர்ந்தே இருந்தாள் - அவளிடம்\nஇல்லா ததெலாம் சொல்லிய கூனி\n    இராமனை இழிவாய்ப் <strong>பேசினாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t8_r4_rId30.jpeg"
+      ],
+      "id": 25
+    },
+    {
+      "verse_num": "26",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>பேசிய</strong> வார்த்தையில் பூசிய விடத்தால்\n    மாசிலா கேகயி மருண்டாள் - அவளும்\nவீசியெ றிந்தாள் அணிகலன் மன்னன்\n    வாசலில் வருவது <strong>கண்டே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 26
+    },
+    {
+      "verse_num": "27",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டான்</strong> தசரதன் கேகயி நிலையை;\n    கனிவுடன் யாதெனக் கேட்டான் - அவன்மனம்\nதுண்டா கும்படி இரண்டுவ ரங்களைத்\n    துணிவுடன் அவளும் <strong>கேட்டாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t9_r1_rId31.png"
+      ],
+      "id": 27
+    },
+    {
+      "verse_num": "28",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டவ</strong> ரத்தில் ஒன்றால் ராமன்\n    கானகம் ஏகிட வேண்டும் - தானும்\nபோட்டநி பந்தனை இரண்டால் பரதன்\n    போகமாய் ஆண்டிட <strong>வேண்டும்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 28
+    },
+    {
+      "verse_num": "29",
+      "chapter_num": 4,
+      "section": "4) கைகேயி வரம்",
+      "sanskrit": "",
+      "tamil": "<strong>வேண்டிய</strong> வரத்தை மாற்றிட மன்னன்\n    வேண்டினன்; கெஞ்சிக் கதறினன் - மந்தரை\nதூண்டிய குழப்பம் நீங்கா இளையவள்\n    கண்டிப் புடனே <strong>இருந்தாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 29
+    },
+    {
+      "verse_num": "30",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>இருந்தா</strong> லும்தான் இறந்தவன் என்று\n    இராமனின் தந்தையு ரைத்தான் - அவனை\nவருந்தா தேயென வரதனும் சொல்லி\n    வாக்கினை ஏற்பேன் <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t10_r2_rId33.jpeg"
+      ],
+      "id": 30
+    },
+    {
+      "verse_num": "31",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> சொன்னதும் மைதிலி தானும்\n    வனம்வர அனுமதி கேட்டாள் - அவருடன்\nசின்னவன் லக்குவன் தானும் வந்திட\n    சினமடங் கியபின் <strong>கேட்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 31
+    },
+    {
+      "verse_num": "32",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டவ</strong> ரெல்லாம் மனமிக வருந்தி\n    கேகயி யைமிக இகழ்ந்தார் - தேரும்\nபூட்டவே சீதை ராமலக் குவனரும்\n    பூரிப் புடன்வனம் <strong>போனார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t10_r4_rId34.jpeg"
+      ],
+      "id": 32
+    },
+    {
+      "verse_num": "33",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>போனவ</strong> ரின்பின் குடிகளெல் லோரும்\n    கானகம் போய்விட நினைத்தார் - ராமன்\nஆனவ ரையிலும் ஆறுதல் சொல்லி\n    அன்புடன் அவர்களை <strong>அனுப்பினான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 33
+    },
+    {
+      "verse_num": "34",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>அனுப்பிய</strong> பின்னர் அவர்களைச் சுமந்திரன்\n    அழைத்தே கங்கை சென்றான் - அங்கே\nஅன்பின் வடிவாய் குகனெனும் சோதரன்\n    அவரும் வாய்க்கப் <strong>பெற்றார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t11_r1_rId35.gif"
+      ],
+      "id": 34
+    },
+    {
+      "verse_num": "35",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பெற்றோர்</strong> வாக்கைக் காத்திடும் அண்ணலின்\n    பெருமை சொல்லிப் புகழ்ந்தான் - அன்புச்\nசொற்களால் அவர்களைத் தன்னுடன் தங்கிடச்\n    சொல்லிக் குகனும் <strong>அழைத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 35
+    },
+    {
+      "verse_num": "36",
+      "chapter_num": 5,
+      "section": "5) வனம் கிளம்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>அழைப்பை</strong> மறுத்தே அண்ணல் குகனின்\n    அன்பை மட்டும் ஏற்றான் - தம்மை\nஅழைத்தே வந்த சுமந்திர னுக்கும்\n    அன்புடன் நல்விடை <strong>தந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 36
+    },
+    {
+      "verse_num": "37",
+      "chapter_num": 6,
+      "section": "6) சித்திரகூடம்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தான்</strong> படகை குகனும் கங்கை\n    தக்கவி தத்தில் கடக்க - அவர்கள்\nவந்தனம் சொல்லி கங்கை கடந்து\n    வனத்திலோர் குடிலும் <strong>கண்டார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t12_r2_rId36.jpeg"
+      ],
+      "id": 37
+    },
+    {
+      "verse_num": "38",
+      "chapter_num": 6,
+      "section": "6) சித்திரகூடம்",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டனர்</strong> குடிலில் பரத்வா ஜமுனி\n    அண்ணலும் அன்னையும் இளவலும் - பின்னர்\nபுண்ணியர் ஆசியைப் பெற்றே மூவரும்\n    போயினர் சித்திர <strong>கூடம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 38
+    },
+    {
+      "verse_num": "39",
+      "chapter_num": 6,
+      "section": "6) சித்திரகூடம்",
+      "sanskrit": "",
+      "tamil": "<strong>சித்திர</strong> கூடம் எத்திசை நோக்கினும்\n    செழுமை நிறைந்து விளங்கிட - ஆங்கே\nபத்திர மாகவே தங்கிட ஒருகுடில்\n    பாங்காய் லக்குவன் <strong>கட்டினன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t12_r4_rId37.png"
+      ],
+      "id": 39
+    },
+    {
+      "verse_num": "40",
+      "chapter_num": 6,
+      "section": "6) சித்திரகூடம்",
+      "sanskrit": "",
+      "tamil": "<strong>கட்டிய</strong> குடிலில் மூவரும் மகிழ்வுடன்\n    காலம் கழித்திட லானார் - வனத்தில்\nகிட்டிய உணவைப் பகிர்ந்தே உண்டு\n    கடவுளை வணங்கி <strong>வாழ்ந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 40
+    },
+    {
+      "verse_num": "41",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>வாழ்வின்</strong> இறுதியில் தசரதன் இருக்க\n    வந்தான் தனியாய்ச் சுமந்திரன் - சோகச்\nசூழ்நிலை இடையே சோதரர் சீதையின்\n    சேதியை அவனும் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t13_r2_rId39.png"
+      ],
+      "id": 41
+    },
+    {
+      "verse_num": "42",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"சொன்னான்</strong> அண்ணல் சோகம் மறந்து\n    சுகமுடன் வாழ்வீர் என்றே\" - சுமந்திரன்\nசொல்லிச் சென்றதும் மன்னனும் முன்னாள்\n    சம்பவம் நினைவில் <strong>கொணர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 42
+    },
+    {
+      "verse_num": "43",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>கொணர்வாய்</strong> நீரெனப் புதல்வனை அனுப்பினர்\n    கண்ணிலா  முதுமைப் பெற்றோர் - அவனை\nஉணரா(து) எண்ணினன் விலங்கென; அம்பால்\n    உயிரைப் பறித்தான் <strong>மன்னன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t13_r4_rId41.png"
+      ],
+      "id": 43
+    },
+    {
+      "verse_num": "44",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>மன்னனின்</strong> செயலால் மருண்ட தம்பதி\n    மன்னித் திடவே மறுத்தார் - மன்னன்\nபின்னொரு காலம் பிள்ளைப் பிரிவால்\n    பெருந்துயர் பெற்றிடச் <strong>சபித்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t13_r4_rId43.png"
+      ],
+      "id": 44
+    },
+    {
+      "verse_num": "45",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>சபித்தவர்</strong> பிள்ளையின் சவத்துடன் தாமும்\n    சவமாய் விழுந்து எரிந்தார் - அன்றைய\nவிபத்தின் விளைவே துயராய்த் தன்னை\n    வாட்டுதல் உணர்ந்தான் <strong>மன்னன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t14_r1_rId45.jpeg"
+      ],
+      "id": 45
+    },
+    {
+      "verse_num": "46",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>மன்னனை</strong> அமைதி கொண்டிட வேண்டி\n    மனைவியர் கேட்டுக் கொண்டார் - அவனோ\nதன்னுயிர் ஒத்த அண்ணலை எண்ணித்\n    தாரையாய்க் கண்ணீர் <strong>வார்த்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 46
+    },
+    {
+      "verse_num": "47",
+      "chapter_num": 7,
+      "section": "7) தசரதன் மரணம்",
+      "sanskrit": "",
+      "tamil": "<strong>வார்த்தை</strong> பலவால் மூர்த்தியின் புகழை\n    வாயால் சொல்லித் தீர்த்தான் - மனைவியர்\nபார்த்துக் கண்ணீர் வார்த்திட மன்னன்\n    பாரை விட்டுயிர் <strong>நீத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 47
+    },
+    {
+      "verse_num": "48",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>நீத்தோ</strong> னுடலை பரதன் வரும்வரை\n    காத்திட லானார் அமைச்சர் - வந்ததும்\nஆத்திரத் துடனே அன்னையை எதிர்த்தான்\n    அனைத்தும் கேட்ட <strong>பரதன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t15_r2_rId46.jpeg"
+      ],
+      "id": 48
+    },
+    {
+      "verse_num": "49",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>பரதனும்</strong> இறந்த தந்தையை யெண்ணி\n    பாதியு டைந்தே போனான் - வரதன்\nமரவுரி யுடன்வன மேகிய தறிந்து\n    மீதியு முடைந்தே <strong>நின்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 49
+    },
+    {
+      "verse_num": "50",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>நின்றிடும்</strong> அரசுப் பணிகளும் தொடர\n    நீதியு ரைத்தார் வசிட்டர் - பரதன்\nமன்னரின் இறுதிச் சடங்குகள் முடித்தபின்\n    மன்னனாய் ஆகிடச் <strong>சொன்னார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t15_r4_rId47.png"
+      ],
+      "id": 50
+    },
+    {
+      "verse_num": "51",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னதை</strong> பரதன் அறவே மறுத்து\n    தன்னுடை எண்ணம் உரைத்தான் - அண்ணனை\nமன்னித் திடவே வேண்டியும் நாட்டை\n    மறுபடி அளிப்பேன் <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 51
+    },
+    {
+      "verse_num": "52",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> சொன்ன இரண்டாம் நாளே\n    அன்னைய ருடன்வனம் கிளம்பிட - அவருடன்\nசென்றனர் மக்களும் வசிட்டரும் யாவரும்\n    சேர்ந்தனர் கங்கைக் <strong>கரையும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t16_r1_rId49.jpeg"
+      ],
+      "id": 52
+    },
+    {
+      "verse_num": "53",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>கரையின்</strong> காவலன் குகனும் பரதனைக்\n    கறைபடிந் தவனாய்க் கண்டான் - ராமனைக்\nகானக மனுப்பியும் குறைதீ ராமல்\n    கொன்றிட வந்ததாய் <strong>நினைந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 53
+    },
+    {
+      "verse_num": "54",
+      "chapter_num": 8,
+      "section": "8) பரதனின் தூய உள்ளம்",
+      "sanskrit": "",
+      "tamil": "<strong>நினைப்பும்</strong> தவறென நேரில் பழகியே\n    நிர்மல உள்ளம் உணர்ந்தான் - தூய\nமனதினில் பரதன் மாலவன் போலவே\n    மதிப்பினில் உயர்வெனப் <strong>புகழ்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 54
+    },
+    {
+      "verse_num": "55",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>புகழ்மிகு</strong> பரதனும் பரிவா ரத்துடன்\n    புழுதிப றந்திட வந்தான் - இந்தத்\nதகவலைச் சினமுடன் லக்குவன் வந்து\n    தமையனி டத்தில் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t17_r2_rId50.jpeg"
+      ],
+      "id": 55
+    },
+    {
+      "verse_num": "56",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்லில்</strong> தனது ஐயம் தெரியச்\n    செய்தான் இளைய லக்குவன் - பரதன்\nநல்லெண் ணத்துடன் வரவில் லைதமைக்\n    கொல்லவ ருவதாய் <strong>எண்ணினன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 56
+    },
+    {
+      "verse_num": "57",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>எண்ணம்</strong> மாறினன் குகனைப் போலவே\n    எதிரில் பரதன் வந்தபின் - பரதன்\nஅண்ணலின் பாதம் சரணென விழவும்\n    அண்ணலும் தழுவினன் <strong>அன்புடன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t17_r4_rId51.png"
+      ],
+      "id": 57
+    },
+    {
+      "verse_num": "58",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>அன்புடைத்</strong> தந்தையின் ஆருயிர்ப் பிரிவை\n    அழுதே பரதன் சொன்னான் - உடனே\nதன்னுடன் நாடு திரும்பியே நாட்டின்\n    தலைமை ஏற்றிடக் <strong>கேட்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 58
+    },
+    {
+      "verse_num": "59",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டதும்</strong> ராமலக் குவனரும் தந்தையின்\n    கிரியைகள் செய்தே முடித்தார் - துயரம்\nவாட்டிட அன்னைய ருடனே அவர்களும்\n    வருத்தம் பகிர்ந்து <strong>கொண்டார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t18_r1_rId52.png"
+      ],
+      "id": 59
+    },
+    {
+      "verse_num": "60",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>கொண்டநி</strong> னைப்பைத் துறந்திடச் செய்தே\n    அண்ணலும் பரதனை அனுப்பிட - பரதன்\nதண்டனிட் டண்ணனின் தாளணி இரண்டும்\n    தலைமேல் சுமந்து <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 60
+    },
+    {
+      "verse_num": "61",
+      "chapter_num": 9,
+      "section": "9) பாதுகை ஆட்சி",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றதும்</strong> காலணி அரியணை ஏற்றி\n    செங்கோ லாட்சி தந்தான் - அண்ணன்\nஎன்றே வருவான் என்றே பரதன்\n    எல்லையில் விரதம் <strong>இருந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 61
+    },
+    {
+      "verse_num": "62",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>இருப்பிடம்</strong> மாற்றி வருத்தம் குறைத்திட\n    இராகவன் எண்ணம் கொண்டான் - தனது\nவிருப்ப முரைத்திட மூவரும் அத்தரி\n    பெருமுனி குடிலினை <strong>அடைந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t19_r2_rId54.png"
+      ],
+      "id": 62
+    },
+    {
+      "verse_num": "63",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தார்</strong> அன்பும் அறிவுரை பலவும்\n    அத்திரி மகரிஷி யிடத்தில் - பத்தினி\nஅனுசுயை அறுசுவை உணவினை அளித்தபின்\n    அங்கிருந் தேவிடை <strong>பெற்றார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 63
+    },
+    {
+      "verse_num": "64",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>பெறர்கரும்</strong> பேரென ராமனைக் காணவே\n    பேணினார் உயிரையு மொருவர் - அந்தப்\nபெருமுனி சரபங் கரரது ஆசியும்\n    பெற்றிடச் சென்றான் <strong>பெருமான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t19_r4_rId56.jpeg"
+      ],
+      "id": 64
+    },
+    {
+      "verse_num": "65",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>பெருமான்</strong> இளவல் மைதிலி மூவரின்\n    வரவால் உவந்தார் முனிவர் - பக்தி\nவிருந்தினைப் படைத்தபின் உயிரையும் விடுத்தே\n    விண்ணுல கத்தை <strong>அடைந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 65
+    },
+    {
+      "verse_num": "66",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தார்</strong> வழியில் ஆசிகள் பற்பல\n    ஆசிர மங்கள் தம்மில் - அங்கே\nஅரக்கர் செயலால் முனிகளின் துயரம்\n    அறிந்தே சினந்தான் <strong>அண்ணல்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 66
+    },
+    {
+      "verse_num": "67",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>அண்ணலும்</strong> இளவலும் அரக்கரை அழித்தே\n    அமைதியை நாட்டிட லானார் - அவருள்\nவிண்ணுல கடைந்தான் சாபம் நீங்கி\n    விராத னெனுமோர் <strong>அரக்கன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t20_r1_rId57.jpeg"
+      ],
+      "id": 67
+    },
+    {
+      "verse_num": "68",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>அரக்கரை</strong> அழித்தபின் அருமுனி களுடன்\n    அவர்களும் வாழ்ந்திட லானார் - வருடம்\nஆனது பத்தும்; போனார் தெற்கும்\n    அகத்திய முனிவரைப் <strong>பணிந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t20_r3_rId58.jpeg"
+      ],
+      "id": 68
+    },
+    {
+      "verse_num": "69",
+      "chapter_num": 10,
+      "section": "10) வனவாசமும், ரிஷிகள் சகவாசமும்",
+      "sanskrit": "",
+      "tamil": "<strong>பணிவுடன்</strong> குறுமுனி திருவுடை யவனிடம்\n    பற்பல அஸ்திரம் தந்தார் - தீராப்\nபாணம் நிறைந்த தூணியும் அளித்து\n    பாங்காய் ஓரிடம் <strong>சொன்னார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 69
+    },
+    {
+      "verse_num": "70",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்லிய</strong> இடமே பஞ்சவ டியெனும்\n    சோலைகள் நிறைந்த வனமாம் - இளையோன்\nமெல்லிய மைதிலி மாலவன் தங்கிட\n    மேலாய் அமைத்தான் <strong>குடிலாம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t21_r2_rId59.jpeg"
+      ],
+      "id": 70
+    },
+    {
+      "verse_num": "71",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>குடிலில்</strong> தங்கிய ஜானகி ராமரைக்\n    கருத்துடன் காத்தான் இளவல் - ஒருநாள்\nநெடிதாய் வளர்ந்த சூர்ப்பன கையும்\n    நெருங்கியே வந்தாள் <strong>அருகில்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 71
+    },
+    {
+      "verse_num": "72",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>அருகில்</strong> வந்தவள் அண்ணலைக் கண்டதும்\n    அக்கணம் மையல் கொண்டாள் - உருவில்\nஅழகிய பெண்ணாய் மாறியே வந்து\n    ஆசையை அவனிடம் <strong>சொன்னாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t21_r4_rId60.jpeg"
+      ],
+      "id": 72
+    },
+    {
+      "verse_num": "73",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்வது</strong> தகாத சொற்கள் என்றே\n    சொல்லிய னுப்பினன் அண்ணல் - அவளும்\nநல்லவ னிளையவன் தன்னை ஏற்றிட\n    நயமாய்ச் சென்றே <strong>கேட்டனள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 73
+    },
+    {
+      "verse_num": "74",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டதை</strong> இளவல் மறுத்திட அரக்கியும்\n    கோபம் மிகவும் கொண்டாள் - தன்னைக்\nகாட்டினள் யாரென; கோமகள் மீதே\n    கொன்றிட வெண்ணிப் <strong>பாய்ந்தனள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 74
+    },
+    {
+      "verse_num": "75",
+      "chapter_num": 11,
+      "section": "11) சூர்ப்பனகை",
+      "sanskrit": "",
+      "tamil": "<strong>பாய்ந்தே</strong> லக்குவன் ராட்சசி மூக்கினை\n    பாதிய றுத்தான் வாளால் - அவர்களைப்\nபழிதீர்ப் பேனென சபதம் செய்து\n    பாதகி யவளும் <strong>போனாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t22_r1_rId61.jpeg"
+      ],
+      "id": 75
+    },
+    {
+      "verse_num": "76",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>போனவள்</strong> தனதுச கோதரன் கரனிடம்\n    பாதகம் நேர்ந்தது என்றாள் - தனக்கு\nசானகி நாதனும் இளவலும் தந்த\n    சோதனை திரித்தே <strong>சொன்னாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t23_r2_rId62.jpeg"
+      ],
+      "id": 76
+    },
+    {
+      "verse_num": "77",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னது</strong> கேட்டு சினமுடன் கரனும்\n    சின்னதாய்ச் சேனை அனுப்பிட - அதனைச்\nசின்னா பின்னமாய்ச் சிதற அடித்து\n    சிதைத்தான் மேக <strong>வண்ணன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 77
+    },
+    {
+      "verse_num": "78",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>மேக</strong> வண்ணனின் வீர முணர்ந்ததும்\n    மேலும் திரட்டினன் படைகள் - அவற்றுடன்\nபோக திரிசரன் தூஷண ரோடே\n    புறப்பட்டவனும் <strong>வந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 78
+    },
+    {
+      "verse_num": "79",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>வந்த</strong> படைகளை அண்ணலும் தனியே\n    வதைத்திட எண்ணம் கொண்டான் - தனது\nசிந்தனை சிதறா திருக்கவே சீதையைச்\n    சின்னவன் காவலில் <strong>வைத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 79
+    },
+    {
+      "verse_num": "80",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>வைத்தனர்</strong> விழிகள் நாதனின் மீதில்\n    வானில் கூடிய தேவர் - இராமன்\nகைத்தள மிருந்து கிளம்பிய சரங்கள்\n    தைத்தன அரக்கரின் <strong>உடலில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t24_r1_rId63.png"
+      ],
+      "id": 80
+    },
+    {
+      "verse_num": "81",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>உடலில்</strong> உயிருடன் வந்தப டைகளைச்\n    சடலம் ஆக்கின சரங்கள் - அவருள்\nஅடங்குவர் தூஷணன் திரிசரன்; எஞ்சினர்\n    அகம்பனன் மற்றும் <strong>கரனும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t24_r1_rId65.jpeg"
+      ],
+      "id": 81
+    },
+    {
+      "verse_num": "82",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>கரனும்</strong> பெருமரக் கிளைகளை எறிந்து\n    கடும்போர் புரிந்திட லானான் - அவனது\nசிரமும் அறுக்கும் சரமும் தொடுத்து\n    சிதைத்தான் சீதா <strong>ராமன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 82
+    },
+    {
+      "verse_num": "83",
+      "chapter_num": 12,
+      "section": "12) கரதூஷணர்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>ராமனின்</strong> வீரம் போற்றிய தேவர்\n    பூமழை வானில் பொழிந்தார் - அவனது\nநாமமும் போற்றி தேவியும் இளவலும்\n    நாதனின் பாதமும் <strong>பணிந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 83
+    },
+    {
+      "verse_num": "84",
+      "chapter_num": 13,
+      "section": "13) லங்கேசன்",
+      "sanskrit": "",
+      "tamil": "<strong>பணிந்தான்</strong> பத்து சிரரா வணனைப்\n    போரினில் தப்பிய அகம்பனன் - பதற்றம்\nதணிந்தபின் நடந்தது பகிர்ந்திட இலங்கைத்\n    தலைவனும் மிகவும் <strong>சினந்தனன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t25_r2_rId66.png"
+      ],
+      "id": 84
+    },
+    {
+      "verse_num": "85",
+      "chapter_num": 13,
+      "section": "13) லங்கேசன்",
+      "sanskrit": "",
+      "tamil": "<strong>சினமடங்</strong> கியதும் அகம்பனன் அண்ணலின்\n    சீலம் எடுத்தே சொன்னான் - அவனது\nமனையவள் அழகினை அறிந்ததும் தனது\n    மதிதனை இழந்தனன் <strong>மன்னன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t25_r2_rId68.png"
+      ],
+      "id": 85
+    },
+    {
+      "verse_num": "86",
+      "chapter_num": 13,
+      "section": "13) லங்கேசன்",
+      "sanskrit": "",
+      "tamil": "<strong>மன்னனும்</strong> சென்று மாரீ சனிடம்\n    மனதின் ஆசையை மொழிந்தான் - மாற்றான்\nமனையிடம் மையல் கொள்ளல் தவறென\n    மதிபல மாரிசன் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 86
+    },
+    {
+      "verse_num": "87",
+      "chapter_num": 13,
+      "section": "13) லங்கேசன்",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னதை</strong> ஏற்றுத் திரும்பிய தமையனைச்\n    சினந்தாள் சூர்ப்ப நகையும் - சீதையின்\nமென்மையும் பொலிவும் சொல்லியே மன்னன்\n    மனதினில் ஏற்றினள் <strong>மோகம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 87
+    },
+    {
+      "verse_num": "88",
+      "chapter_num": 13,
+      "section": "13) லங்கேசன்",
+      "sanskrit": "",
+      "tamil": "<strong>மோகம்</strong> உந்திட ராவணன் மறுபடி\n    மாரீ சனிடம் சென்றான் - அவனது\nமதியுரை அவசிய மிலையென உரைத்து\n    உதவிட வேண்டிக் <strong>கொண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 88
+    },
+    {
+      "verse_num": "89",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>கொண்டான்</strong> மானின் உருமா ரீசன்\n    கொள்ளை அழகுடன் திகழ்ந்தான் - சீதை\nகண்ணில் படும்படி நடந்தான்; அவளைக்\n    கவர்ந்திட துள்ளியும் <strong>குதித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t26_r2_rId69.jpeg"
+      ],
+      "id": 89
+    },
+    {
+      "verse_num": "90",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>குதித்திடும்</strong> மானைப் பிடித்திடும் படியே\n    பதியிடம் மைதிலி பகர்ந்திட - அவனும்\nவிதிவலி யாலே பொன்மான் பின்னால்\n    சதியறி யாமல் <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 90
+    },
+    {
+      "verse_num": "91",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>செல்லுமுன்</strong> லக்குவ னிடத்தில் நன்றே\n    சீதையைக் காத்திடச் சொன்னான் - தானும்\nவில்லுடன் கிளம்பி மானும் சென்ற\n    வழியினைத் தொடர்ந்தே <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 91
+    },
+    {
+      "verse_num": "92",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றது</strong> மானும் வனத்தில் அடர்த்தி\n    செறிந்த பகுதிக ளூடே - நேரம்\nசென்றிட மானைத் தொடர்வதை விட்டு\n    கொன்றிட ராமன் <strong>நினைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t27_r1_rId70.png"
+      ],
+      "id": 92
+    },
+    {
+      "verse_num": "93",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>நினைத்த</strong> படியே அம்பினை எய்யவும்\n    நீசன் மடிந்து விழுந்தான் - விழுமுன்\nஎனைக்காப் பாற்று! லக்குவா! சீதா!\n    என்றே ஓலமும் <strong>வைத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 93
+    },
+    {
+      "verse_num": "94",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>வைத்த</strong> ஓலம் கேட்ட சீதை\n    விரட்டி னாளி லவலை - அண்ணல்\nவைத்த காவல் பணியை நீங்கி\n    விலகிட மறுத்தான் <strong>அவனும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t27_r3_rId72.png"
+      ],
+      "id": 94
+    },
+    {
+      "verse_num": "95",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>அவனும்</strong> தன்னை அடையநி னைப்பதாய்\n    அபலையும் குற்றம் சொன்னாள் - அண்ணலின்\nஆபத் தறிந்தும் செல்லா திருந்திட\n    அதுவே காரணம் <strong>என்றாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 95
+    },
+    {
+      "verse_num": "96",
+      "chapter_num": 14,
+      "section": "14) மாயமான்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றதும்</strong> லக்குவன் மனமிக வருந்தி\n    அண்ணலைத் தேடிச் சென்றான் - அவனும்\nசென்றதும் தசமுகன் முனிவரின் உருவினில்\n    சீதையைக் கவர்ந்திட <strong>வந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 96
+    },
+    {
+      "verse_num": "97",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>வந்தவன்</strong> அரக்கனென் றறியா அன்னை\n    விருந்துப சாரம் செய்தாள் - தீய\nசிந்தனை யுடனே அரக்கனும் ஆசையைச்\n    சீதையி டத்தில் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t28_r2_rId73.jpeg"
+      ],
+      "id": 97
+    },
+    {
+      "verse_num": "98",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னாள்</strong> சீதை அறிவுரை பலவும்;\n    மன்னன் கேட்டிட மறுத்தான் - முடிவில்\nஅன்னையைக் கவர்ந்து வான்வழி ஏகி\n    தன்னா டிலங்கை <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 98
+    },
+    {
+      "verse_num": "99",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>செல்லும்</strong> வழியில் சீதையின் அலறலை\n    எல்லா உயிர்களும் கேட்டன - அவற்றுள்\nவல்லமை உள்ள கழுகுச டாயு\n    வானில் பறந்தே <strong>எதிர்த்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t28_r4_rId74.jpeg"
+      ],
+      "id": 99
+    },
+    {
+      "verse_num": "100",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>எதிர்க்கும்</strong> கழுகை அன்னையும் கண்டு\n    யாரென உணர்ந்து கொண்டாள் - தனது\nபதியுடன் பஞ்ச வடிசெல உதவிய\n    முதியப ருந்தென <strong>அறிந்தாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 100
+    },
+    {
+      "verse_num": "101",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>அறிவாள்</strong> அன்னை தசரதர் அவனின்\n    ஆருயிர் நண்பர் என்றே - அவனும்\nஅரக்கனை வென்று அன்னையை மீட்க\n    எதிர்த்தான் பறந்து <strong>சென்றே</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t29_r1_rId75.jpeg"
+      ],
+      "id": 101
+    },
+    {
+      "verse_num": "102",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>செல்லவி</strong> டாமல் தடுக்கும் கழுகைக்\n    கொல்லநி னைத்தான் அரக்கன் - தனது\nவில்லில் அம்பும் தொடுக்குமுன் கழுகோன்\n    அலகால் குத்திக் <strong>கிழித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 102
+    },
+    {
+      "verse_num": "103",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>கிழிந்த</strong> தோலில் வழிந்த குருதி\n    கண்டே கொடியவன் வெகுண்டான் - கழுகை\nஅழித்திடும் அம்பை அரக்கனும் எய்ய\n    அலறிச டாயு <strong>துடித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t29_r3_rId76.png"
+      ],
+      "id": 103
+    },
+    {
+      "verse_num": "104",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>துடிப்புடன்</strong> சிறகால் அரக்கனை அடித்து\n    துவளச் செய்தான் கழுகோன் - அவனைத்\nதூக்கி எறிந்து சிறகினைப் பிய்த்து\n    துவம்சம் செய்தான் <strong>அரக்கன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 104
+    },
+    {
+      "verse_num": "105",
+      "chapter_num": 15,
+      "section": "15) சடாயு",
+      "sanskrit": "",
+      "tamil": "<strong>அரக்கன்</strong> கழுகைக் கொல்லா திருக்க\n    அன்னை கேட்டுக் கொண்டாள் - கழுகை\nஅன்புடன் தடவி அண்ணலை நாடி\n    அனைத்தும் சொல்லிடக் <strong>கேட்டாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 105
+    },
+    {
+      "verse_num": "106",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டனர்</strong> வானில் அன்னையின் அழுகை\n    காட்டினில் அமர்ந்த வானரர் - தேவியும்\nபோட்டனள் தனது நகைகளை முடிந்தொரு\n    மூட்டையாய்; வானரர் <strong>எடுத்தனர்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t30_r2_rId78.png"
+      ],
+      "id": 106
+    },
+    {
+      "verse_num": "107",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>எடுத்தவர்</strong> அண்ணலைக் கண்டால் சொல்லிட\n    ஏதுவாய் சீதையும் செய்தாள் - பின்னர்\nதடுப்பவர் இன்றியே அரக்கனின் பிடியில்\n    தீவாம் இலங்கை <strong>அடைந்தாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 107
+    },
+    {
+      "verse_num": "108",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"அடைவாய்</strong> மூவுல கென்னை ஏற்றால்\"\n    என்றான் தசமுகன் பணிவுடன் - \"சரணம்\nஅடைவாய் இராமனை; எனையொப் படைத்தே\"\n    என்றாள் அன்னை <strong>துணிவுடன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t30_r4_rId80.png"
+      ],
+      "id": 108
+    },
+    {
+      "verse_num": "109",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"துணிவில்</strong> லாமல் கவர்ந்தாய்\" என்று\n    தூற்றினள் சீதையும் அரக்கனை - அவனோ\n\"துர்க்கதி அடைவாய் எனையேற் காவிடில்\n    துன்பமே\" என்றான் <strong>சினத்துடன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 109
+    },
+    {
+      "verse_num": "110",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>சினத்தைக்</strong> காவல் அரக்கிய ரிடத்தில்\n    மன்னனும் காட்டிச் சொன்னான் - சீதையின்\nமனத்தை மாற்றப் பணித்தே அசோக\n    வனத்தில் காவல் <strong>வைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t31_r1_rId81.png"
+      ],
+      "id": 110
+    },
+    {
+      "verse_num": "111",
+      "chapter_num": 16,
+      "section": "16) அசோகவனம்",
+      "sanskrit": "",
+      "tamil": "<strong>வைத்தாள்</strong> மனதை அண்ணல் நினைவில்\n    வைதேகி அசோக வனத்தில் - அவளை\nவைதிடும் கோர அரக்கியர் நடுவே\n    வைராக் கியத்துடன் <strong>வாழ்ந்தாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t31_r1_rId82.png"
+      ],
+      "id": 111
+    },
+    {
+      "verse_num": "112",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>வாழ்க்கைத்</strong> துணையின் கதியை நினைத்து\n    வந்தான் அண்ணல் விரைந்து - எதிரில்\nவந்திடும் இளவலைக் கண்டதும் மேக\n    வண்ணனும் நின்றான் <strong>அதிர்ந்து</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t32_r2_rId83.jpeg"
+      ],
+      "id": 112
+    },
+    {
+      "verse_num": "113",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>அதிர்ந்த</strong> இளவலும் அண்ணலுக் கெதுவும்\n    ஆபத் துண்டோ என்றான் - நடந்த\nசதியினை அண்ணல் சொல்லிட இருவரும்\n    சடுதியில் குடிலினை <strong>அடைந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t32_r2_rId84.jpeg"
+      ],
+      "id": 113
+    },
+    {
+      "verse_num": "114",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தனர்</strong> துயரம் இருவரும் மிகவே\n    அன்னையும் குடிலில் இன்றி - தேடி\nஅலைந்தனர் எங்கும்; கண்டனர் கழுகு\n    அரசனை உடல்நலம் <strong>குன்றி</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t32_r4_rId85.jpeg"
+      ],
+      "id": 114
+    },
+    {
+      "verse_num": "115",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>குன்றிடும்</strong> உயிருடன் சடாயு உடைந்த\n    குரலினில் நடந்தது உரைத்தான் - தன்னை\nவென்றுவை தேகியைத் தசமுகன் தூக்கிச்\n    சென்றதி சையினைச் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 115
+    },
+    {
+      "verse_num": "116",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னவன்</strong> களைப்பால் சோர்ந்திட அண்ணல்\n    அன்புடன் தடவிக் கொடுத்தான் - சடாயு\nதன்னுடை கடமை முடித்த நினைவுடன்\n    இன்னுயிர் பிரிந்து <strong>இறந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t33_r1_rId86.jpeg"
+      ],
+      "id": 116
+    },
+    {
+      "verse_num": "117",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>இறந்தவ</strong> னுக்கே இறுதிச் சடங்குகள்\n    இருவரும் செய்தே முடித்தார் - இராமன்\nஇன்னுயிர் அன்னவள் நிலையினை எண்ணி\n    இடிந்தே சோர்ந்து <strong>அழுதான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 117
+    },
+    {
+      "verse_num": "118",
+      "chapter_num": 17,
+      "section": "17) இராமன் கவலை",
+      "sanskrit": "",
+      "tamil": "<strong>\"அழுவது</strong> நிறுத்து; அரக்கனை அழித்து\n    அன்னையை மீட்போம்\" என்றான் - இளவல்\nமொழிவது கேட்டு மாதவன் சற்றே\n    மனதினில் அமைதி <strong>கொண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 118
+    },
+    {
+      "verse_num": "119",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>கொண்ட</strong> உருவினால் கண்டவர் நடுங்கும்\n    முண்ட அசுரனாம் கபந்தன் - பெருஞ்சதைப்\nபிண்ட மொத்தவன் வயிற்றின் நடுவினில்\n    பெரிய வாயினை <strong>உடையன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t34_r2_rId87.png"
+      ],
+      "id": 119
+    },
+    {
+      "verse_num": "120",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>உடைய</strong> பசியுடன் அசுரன் வந்தனன்\n    இராம லக்குவர் பாதையில் - தம்மை\nஉண்ண நினைப்பதை அவனும் சொல்லிட\n    இருவரும் அவனுடன் <strong>மோதினர்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 120
+    },
+    {
+      "verse_num": "121",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>மோதிய</strong> போரில் கபந்தன் உயிரை\n    மாய்த்தனர் இராம லக்குவர் - அவனும்\nமோட்சம் அடைந்த மகிழ்வில் அவர்க்கு\n    மார்க்கம் ஒன்றை <strong>உரைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t34_r4_rId88.png"
+      ],
+      "id": 121
+    },
+    {
+      "verse_num": "122",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>உரைத்தான்</strong> \"உமக்கு தேவியைத் தேடிட\n    உண்மை நண்பர் தேவை - வானர\nஅரையன் சுக்ரிவன் நட்பை அடைவீர்\"\n    என்றே சொல்லிம <strong>றைந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 122
+    },
+    {
+      "verse_num": "123",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>மறைந்து</strong> வாழும் வானர மன்னனை\n    மாதவன் இளவலும் தேடினர் - அவர்களை\nமரங்கள் மறைவிலி ருந்துசுக் ரீவனும்\n    மனத்தில் பயத்துடன் <strong>பார்த்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t35_r1_rId90.png"
+      ],
+      "id": 123
+    },
+    {
+      "verse_num": "124",
+      "chapter_num": 18,
+      "section": "18) கபந்தன்",
+      "sanskrit": "",
+      "tamil": "<strong>\"பார்த்தால்</strong> மானிடர்; உடுப்பால் துறவியர்;\n    பரமனைப் போலும் உள்ளார் - அவர்கள்\nயார்தான் என்று அறிந்துவா\" வென்று\n    அனுமனி டத்தில் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t35_r1_rId92.jpeg"
+      ],
+      "id": 124
+    },
+    {
+      "verse_num": "125",
+      "chapter_num": 19,
+      "section": "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்லின்</strong> செல்வனும் பணிவுடன் அந்தண\n    சிறுவனின் உருவினில் சென்றான் - மெல்ல\nவில்லின் நாதனை வணங்கியே யாரென\n    வினயத் துடனே <strong>வினவினான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t36_r2_rId93.jpeg"
+      ],
+      "id": 125
+    },
+    {
+      "verse_num": "126",
+      "chapter_num": 19,
+      "section": "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>வினவிய</strong> அனுமனை இளவலும் அண்ணலும்\n    வியப்புடன் கண்டே சொன்னார் - தாமும்\nவானரர் கோனின் சினேகம் நாடி\n    வந்தோம் என்றே <strong>மொழிந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 126
+    },
+    {
+      "verse_num": "127",
+      "chapter_num": 19,
+      "section": "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>மொழிந்தார்</strong> மேலும் தமதுக தையினை\n    மொத்தமும் அனுமனி டத்தில் - மன்னனை\nஅழித்திட வந்தவ ரிலையென் றுணர்ந்து\n    அனுமனும் மகிழ்ச்சி <strong>கொண்டான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t36_r4_rId94.jpeg"
+      ],
+      "id": 127
+    },
+    {
+      "verse_num": "128",
+      "chapter_num": 19,
+      "section": "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>கொண்டான்</strong> பக்தியும் அண்ணலி டத்தில்\n    கொண்டான் உண்மை உருவும் - அண்ணல்\nகொண்டான் அன்பே அவனிடம்; நட்பு\n    கொண்டார் இளவலும் <strong>அனுமனும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t36_r4_rId95.png"
+      ],
+      "id": 128
+    },
+    {
+      "verse_num": "129",
+      "chapter_num": 19,
+      "section": "19) அனுமன், சுக்ரீவன் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அனுமனும்</strong> அவர்களை அழைத்துச் சென்று\n    அரசனுக் கறிமுகம் செய்தான் - இருவரும்\nஅன்புடன் தழுவி அமர்ந்திட அனுமன்\n    அண்ணலின் கதையினைச் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 129
+    },
+    {
+      "verse_num": "130",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>சொன்னான்</strong> சுக்ரிவன் ஆறுதல்; பின்னர்\n    தன்கதை கூறிட லானான் - \"வாலியைக்\nகொன்றிட மாயா வியெனும் அரக்கன்\n    நின்றான் கோட்டை <strong>வெளியில்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t37_r2_rId96.png"
+      ],
+      "id": 130
+    },
+    {
+      "verse_num": "131",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"வெளியில்</strong> சினத்துடன் வாலியும் வந்தே\n    வேங்கை போலவே நின்றான் - நிலவின்\nஒளியில் நடந்த போரில் தோற்றே\n    ஓடிச் சென்றான் <strong>அரக்கன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 131
+    },
+    {
+      "verse_num": "132",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"அரக்கனை</strong> அண்ணனும் நானும் துரத்த\n    அவனொரு குகைதனில் புகுந்தான் - வாயிலில்\nஇருப்பாய் காவல் என்றெனைப் பணித்து\n    அண்ணனும் உள்ளே <strong>நுழைந்தான்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t37_r4_rId98.png"
+      ],
+      "id": 132
+    },
+    {
+      "verse_num": "133",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"நுழைந்தே</strong> சென்று நாட்கள் கடந்தும்\n    நானும் காத்துக் கிடந்தேன் - ஒருநாள்\nநிறைந்த குருதி பெருக்கெடுத் தேவர\n    நானும் மிகவே <strong>பயந்தேன்\"</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 133
+    },
+    {
+      "verse_num": "134",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"பயந்தே</strong> நானும் வாலி மடிந்ததாய்\n    பதறியே முடிவும் செய்தேன் - உடனே\nபாறை ஒன்றால் குகையை மூடி\n    பாய்ந்தே ஊரும் <strong>அடைந்தேன்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t38_r1_rId99.png"
+      ],
+      "id": 134
+    },
+    {
+      "verse_num": "135",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"அடைந்தேன்</strong> அரச பதவியும் நானே\n    அமைச்சரின் அறிவுரைப் படியே - வந்து\nஅடைந்தான் நகரம் அண்ணனும்; சினமே\n    அடைந்தான் என்னைக் <strong>கண்டே\"</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 135
+    },
+    {
+      "verse_num": "136",
+      "chapter_num": 20,
+      "section": "20) சுக்ரீவன் கதை",
+      "sanskrit": "",
+      "tamil": "<strong>\"கண்டதும்</strong> என்னை அடித்தும் உதைத்தும்\n    கொன்றிட முனைந்தான் அண்ணன் - அவனது\nதண்டனை யிருந்தே தப்பித் திடவே\n    தலைமறை வானேன் நானும் \"!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t38_r3_rId100.png"
+      ],
+      "id": 136
+    },
+    {
+      "verse_num": "137",
+      "chapter_num": 21,
+      "section": "21) வாலி நுழையா வனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"நானும்</strong> வாலி நுழைந்திட இயலா\n    நந்தவ னத்தை அடைந்தேன் - எனது\nநண்பர் களுடன் இவ்வனம் தங்கி\n    நன்னாள் காத்துக் <strong>கிடந்தேன்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t39_r2_rId102.png"
+      ],
+      "id": 137
+    },
+    {
+      "verse_num": "138",
+      "chapter_num": 21,
+      "section": "21) வாலி நுழையா வனம்",
+      "sanskrit": "",
+      "tamil": "<strong>கிடந்தது</strong> மலைபோல் அங்கொரு சவமும்;\n    கதைசுக் ரீவனும் தொடர்ந்தான் - \"ஒருநாள்\nமடமையால் துந்துபி என்பான் வாலியை\n    மற்போர் செய்திட <strong>அழைத்தான்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t38_r3_rId101.png"
+      ],
+      "id": 138
+    },
+    {
+      "verse_num": "139",
+      "chapter_num": 21,
+      "section": "21) வாலி நுழையா வனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"அழைத்தவ</strong> னுக்கே அடிமேல் அடியுதை\n    அண்ணன் பரிசாய் அளித்தான் - முடிவில்\nஅரக்கனைக் கொன்று சுழற்றியெ றிந்திட\n    அவ்வுடல் இவ்விடம் <strong>விழுந்தது\"</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 139
+    },
+    {
+      "verse_num": "140",
+      "chapter_num": 21,
+      "section": "21) வாலி நுழையா வனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"விழுந்த</strong> உடலில் பெருகிய குருதி\n    வெளியில் சிதறிப் பரவ - இங்கே\nவீற்றி ருந்த மதங்க முனியும்\n    வெஞ்சி னத்தால் <strong>சபித்தார்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t39_r5_rId103.jpeg"
+      ],
+      "id": 140
+    },
+    {
+      "verse_num": "141",
+      "chapter_num": 21,
+      "section": "21) வாலி நுழையா வனம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"சாபப்</strong> படியிச் செயலைப் புரிந்தோன்\n    சாவான் இவ்வனம் புகுந்தால் - அதனால்\nஆபத் தின்றி வாழ்ந்திட இவ்வனம்\n    அரணா னதெனக்\" <strong>கென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 141
+    },
+    {
+      "verse_num": "142",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> முடித்ததும் அண்ணலும் அவனிடம்\n    ஆறுதல் சொன்னான் பலவும் - வாலியைக்\nகொன்றுனை மன்னன் ஆக்குவேன் என்று\n    கோமகன் செய்தான் <strong>சபதம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t40_r2_rId104.png"
+      ],
+      "id": 142
+    },
+    {
+      "verse_num": "143",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>சபதம்</strong> செய்கினும் அண்ணலின் ஆற்றலைச்\n    சந்தே கித்தான் கபிக்கோன் - திருமகன்\nசரமொன் றாலே மரங்கள் ஏழை\n    சடசட வென்றே <strong>ஒடித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 143
+    },
+    {
+      "verse_num": "144",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஒடித்த</strong> அம்பும் ஓடியே வந்து\n    அம்பறாத் தூணியில் அமர - ஐயம்\nவிடுத்த சுக்ரிவன் வாலியைப் பற்றி\n    விந்தை செய்தியும் <strong>தந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t40_r4_rId105.png"
+      ],
+      "id": 144
+    },
+    {
+      "verse_num": "145",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தான்</strong> இந்திரன் வாலியி னுக்கே\n    மந்திர மாலை ஒன்றை - அணிந்து\nவந்தால் எதிரியின் வலிமையில் பாதி\n    வந்திடும் வாலியி <strong>னிடத்தே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 145
+    },
+    {
+      "verse_num": "146",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>இடந்தெரி</strong> யாமல் மறைந்துபோ ரிட்டால்\n    இலகுவாய்க் கிட்டிடும் வெற்றி - என்றே\nஇங்கித மாகசுக் ரீவனும் உரைக்க\n    இராமனும் அதனை <strong>ஏற்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t41_r1_rId106.jpeg"
+      ],
+      "id": 146
+    },
+    {
+      "verse_num": "147",
+      "chapter_num": 22,
+      "section": "22) இராமன் அபயம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"ஏற்றேன்</strong> பொறுப்பை; மறைந்தே சரத்தை\n    எறிவேன் வாலியின் மீதே - நீயும்\nதோற்பதை மறந்து தைரிய மாகத்\n    தொடுத்திடு வாயே <strong>போரே\"</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 147
+    },
+    {
+      "verse_num": "148",
+      "chapter_num": 23,
+      "section": "23) வாலி, சுக்ரீவன் போர்",
+      "sanskrit": "",
+      "tamil": "<strong>போரிட</strong> சுக்ரிவன் அழைத்திட வாலியும்\n    பொல்லாச் சினத்துடன் பாய்ந்தான் - தம்பியை\nமாரினில் அடித்து மண்ணில் வீழ்த்திட\n    மருண்டசுக் ரீவனும் <strong>தோற்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t42_r2_rId107.jpeg"
+      ],
+      "id": 148
+    },
+    {
+      "verse_num": "149",
+      "chapter_num": 23,
+      "section": "23) வாலி, சுக்ரீவன் போர்",
+      "sanskrit": "",
+      "tamil": "<strong>தோற்றிடும்</strong> சமயம் இராமனும் அம்பைத்\n    தொடுப்பான் என்றே நினைத்தான் - தனது\nஆற்றல் ஒடுங்கியும் அம்புவ ராமல்\n    அடைந்தான் இருப்பிடம் <strong>அவனும்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 149
+    },
+    {
+      "verse_num": "150",
+      "chapter_num": 23,
+      "section": "23) வாலி, சுக்ரீவன் போர்",
+      "sanskrit": "",
+      "tamil": "<strong>அவனும்</strong> அண்ணல் அம்பெய் யாதது\n    ஏனெனச் சினமுடன் வினவ - அண்ணல்\n\"தவறாய் உன்னைக் கொல்லா திருக்கவே\n    தவிர்த்தேன் அம்பும்\" <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t42_r4_rId108.png"
+      ],
+      "id": 150
+    },
+    {
+      "verse_num": "151",
+      "chapter_num": 23,
+      "section": "23) வாலி, சுக்ரீவன் போர்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> தொடர்ந்தான், \"வாலியும் நீயும்\n    ஒன்றாய் இருந்தீர் உருவில்; தவறாய்க்\nகொன்றிடு வேனோ நண்பனை என்றே\n    அஞ்சினேன்\" என்றான் <strong>அண்ணல்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t42_r4_rId109.jpeg"
+      ],
+      "id": 151
+    },
+    {
+      "verse_num": "152",
+      "chapter_num": 23,
+      "section": "23) வாலி, சுக்ரீவன் போர்",
+      "sanskrit": "",
+      "tamil": "<strong>அண்ணலின்</strong> சொற்படி செடிகொடி மாலை\n    அணிந்தே சுக்ரிவன் சென்றான் - அவனது\nஅமைப்பைக் கேட்டே வாலியும் வியப்பும்\n    அடங்காச் சினமும் <strong>கொண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 152
+    },
+    {
+      "verse_num": "153",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>“கொண்டிடு</strong> வீரே தம்பியின் சினேகம்”\n    பெண்ணவள் தாரை சொன்னாள் - வாலி\n“கொன்றிடு வேனென் தம்பியை இன்றே”\n    என்றே சபதம் <strong>செய்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t43_r2_rId110.png"
+      ],
+      "id": 153
+    },
+    {
+      "verse_num": "154",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>செய்தனர்</strong> போரும் தீவிர மாக;\n    சோதரர் வாலிசுக் ரீவர் - அம்பை\nஎய்தனன் ராமன் மறைவி லிருந்தே;\n    அக்கணம் வாலியும் <strong>வீழ்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 154
+    },
+    {
+      "verse_num": "155",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>வீழ்ந்தவ</strong> னைத்தன் மடியினில் தாங்கி\n    வீறிட் டழுதான் சுக்ரிவன் - துயரில்\nஆழ்ந்தனள் தாரை; அவளைய ழைத்து\n    ஆறுதல் சொன்னான் <strong>வாலி</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t43_r4_rId111.png"
+      ],
+      "id": 155
+    },
+    {
+      "verse_num": "156",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>வாலியும்</strong> இராமன் செய்கை பற்றி\n    வருத்தம் மேலிட பேசினன் - தம்பியைத்\nதாலியி ழந்த தாரையங் கதனையும்\n    தயையுடன் காத்திடக் <strong>கேட்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 156
+    },
+    {
+      "verse_num": "157",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>கேட்டாள்</strong> தாரை தன்னையும் எரிக்க;\n    கனிவுடன் வாலியும் தடுத்தான் - நல்வழி\nநாட்டினை நடத்திட உதவியங் கதனையும்\n    காத்திடும் பொறுப்பும் <strong>கொடுத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t44_r1_rId112.png"
+      ],
+      "id": 157
+    },
+    {
+      "verse_num": "158",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>கொடுத்தான்</strong> அறிவுரை அங்கத னுக்கும்\n    படுத்துக் கொண்டே வாலி - உயிரை\nவிடுத்தே வீரசு வர்க்கம் அடைந்தான்;\n    வெடித்துக் கதறினள் <strong>தாரை</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 158
+    },
+    {
+      "verse_num": "159",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>தாரைக்</strong> காறுதல் கூறியே இறுதிக்\n    காரியம் செய்தான் சுக்ரிவன் - அரச\nமரியா தையுடன் வாலியின் உடலை\n    எரித்தே கிரியைகள் <strong>செய்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 159
+    },
+    {
+      "verse_num": "160",
+      "chapter_num": 24,
+      "section": "24) வாலி வதம்",
+      "sanskrit": "",
+      "tamil": "<strong>செய்தான்</strong> அங்கத னையிள வரசாய்;\n    சூடினன் பட்டம் தானும் - தாரையின்\nசொற்படி கிட்கிந் தாவினை சுக்ரிவன்\n    சுகமாய் ஆண்டிட <strong>லானான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t44_r3_rId113.png"
+      ],
+      "id": 160
+    },
+    {
+      "verse_num": "161",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>ஆனது</strong> மாதம் வந்தது வசந்தம்\n    அண்ணல் மனதினில் வருத்தம் - இன்னும்\nசானகி தேடும் முயற்சிக ளேதும்\n    செய்யா ததனால் <strong>கோபம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t45_r2_rId114.png"
+      ],
+      "id": 161
+    },
+    {
+      "verse_num": "162",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>கோபத்</strong> துடனே லக்குவன் வானரர்\n    கோனிடம் முறையிடச் சென்றான் - கையில்\nகோப்பை மதுவுடன் யாவரும் கிடக்க\n    கொதிப்புடன் வில்லை <strong>எடுத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 162
+    },
+    {
+      "verse_num": "163",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>எடுத்துச்</strong> சொன்னாள் தாரை வானர\n    அரசனி டத்தில் நிலையை - \"உடனே\nஎடுப்பாய் முயற்சி தேவியைத் தேடிட\"\n    என்றே விடுத்தாள் <strong>சொல்லை</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t45_r4_rId115.png"
+      ],
+      "id": 163
+    },
+    {
+      "verse_num": "164",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>சொற்களின்</strong> இனிமையால் லக்குவன் சினத்தைச்\n    சற்றே சுக்ரிவன் தணித்தான் - உடனே\nநாற்திசை சென்றே தேவியைத் தேடிட\n    நான்கு குழுக்களைப் <strong>பணித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 164
+    },
+    {
+      "verse_num": "165",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பணிவுடன்</strong> அண்ணலி டத்தில் சென்று\n    படைகளை அறிமுகம் செய்தான் - தனது\nஅணிகலன் ஒன்றை அனுமனி டத்தில்\n    அண்ணலும் தந்தே <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t46_r1_rId116.jpeg"
+      ],
+      "id": 165
+    },
+    {
+      "verse_num": "166",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>\"சொல்வாய்</strong> சீதையைக் கண்டே; அரக்கனை\n    வெல்வேன்; வந்துனை மீட்பேன் என்றே;\nசெல்வாய் உடனே; வெல்வாய் நீயே;\n    நல்லது சொல்வாய் <strong>வந்தே\"</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 166
+    },
+    {
+      "verse_num": "167",
+      "chapter_num": 25,
+      "section": "25) தேடும் பணி தொடங்குதல்",
+      "sanskrit": "",
+      "tamil": "<strong>வருவீர்</strong> வென்றென விடைகொடுத் தண்ணல்\n    வாழ்த்தினன் வானரர் தமையே - தெற்கே\nமாருதி அங்கதன் ஜாம்பவான் படைகள்\n    முனைப்புடன் செல்வதைக் <strong>கண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 167
+    },
+    {
+      "verse_num": "168",
+      "chapter_num": 26,
+      "section": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டார்</strong> தென்திசை சென்றோர் வனத்தில்\n    கண்ணுக் கினியநல் தோட்டம் - தமது\nகளைப்பும் தீர்ந்திட கனிவகை உண்டது\n    களிப்புடன் வானரர் <strong>கூட்டம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t47_r2_rId117.png"
+      ],
+      "id": 168
+    },
+    {
+      "verse_num": "169",
+      "chapter_num": 26,
+      "section": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+      "sanskrit": "",
+      "tamil": "<strong>கூட்டத்</strong> தினரும் கண்டனர் ஒருபெண்\n    குகையில்; அவள்சுயம் பிரபையாம் - அவளும்\nகாட்டிய வழியில் வானரர் சென்று\n    கண்டனர் கடலும் <strong>கரையும்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 169
+    },
+    {
+      "verse_num": "170",
+      "chapter_num": 26,
+      "section": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+      "sanskrit": "",
+      "tamil": "<strong>கரையில்</strong> சம்பா தியெனும் பெரிய\n    கழுகர சனுமே இருந்தான் - தம்பி\nகழுகுச டாயுவின் மரணம் பற்றி\n    கபிக்களின் பேச்சால் <strong>அறிந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t47_r4_rId118.png"
+      ],
+      "id": 170
+    },
+    {
+      "verse_num": "171",
+      "chapter_num": 26,
+      "section": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+      "sanskrit": "",
+      "tamil": "<strong>அறிந்ததும்</strong> வருந்தி அவர்களை அழைத்து\n    அனைத்து விவரமும் கேட்டான் - தனது\nஅரியபார் வையினால் அரக்கன் சிறையில்\n    அன்னை இருப்பதைக் <strong>கண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 171
+    },
+    {
+      "verse_num": "172",
+      "chapter_num": 26,
+      "section": "26) சுயம்பிரபா, சம்பாதி சந்திப்பு",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டதை</strong> வானர ரிடத்தில் சொல்லிப்\n    புண்ணியம் தேடிக் கொண்டான் - முன்னர்\nதுண்டாய்ப் போன சிறகுகள் மீண்டும்\n    துளிர்த்திட வானில் <strong>பறந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 172
+    },
+    {
+      "verse_num": "173",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பறந்தே</strong> கடலைக் கடந்தே இலங்கை\n    போவது பற்றிப் பேசினர் - வானரர்\nசிறையில் வாடும் அன்னையைக் காண\n    சிந்தனை பலவும் <strong>செய்தனர்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t48_r2_rId119.png"
+      ],
+      "id": 173
+    },
+    {
+      "verse_num": "174",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>செய்வது</strong> அறியா திருந்தான் அங்கதன்;\n    செய்தியொன் றுரைத்தான் ஜாம்பவான் - இதனைச்\nசெய்துமு டித்திட அனுமனை விடவும்\n    சிறந்தவர் இல்லை <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 174
+    },
+    {
+      "verse_num": "175",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> மேலும் அனுமனின் திறனை\n    எடுத்தே இயம்பிட லானான் - அனுமன்\nமுன்பொரு சாபத் தாலே மறந்த\n    முழுத்திறன் உணர்ந்து <strong>எழுந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t48_r4_rId121.png"
+      ],
+      "id": 175
+    },
+    {
+      "verse_num": "176",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>எழுந்தே</strong> மலைமேல் ஏறித் தன்னுடல்\n    எட்டா உயரம் வளர்த்திட - மலையில்\nவிழுந்தன மரங்கள்; பறந்தன பறவைகள்;\n    விண்ணுயர் நின்றவன் <strong>எடையால்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 176
+    },
+    {
+      "verse_num": "177",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>எடையை</strong> ஒருமுகப் படுத்திய அனுமன்\n    எண்ணினன் அண்ணலை மனதால் - பெரிய\nஉடலை எழுப்பி மலையை மிதித்துக்\n    கடலை நோக்கிப் <strong>பறந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r1_rId122.png"
+      ],
+      "id": 177
+    },
+    {
+      "verse_num": "178",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பறந்து</strong> செல்லும் வழியில் அவனும்\n    பற்பல தடைகள் கடந்தான் - வாயில்\nபுகுந்து வாவெனப் பகர்ந்த சுரசையைப்\n    புத்தியால் வெற்றி <strong>கொண்டான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r2_rId124.png"
+      ],
+      "id": 178
+    },
+    {
+      "verse_num": "179",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>கொண்டபே</strong> ருருவைச் சுண்டெலி அளவாய்க்\n    குறுக்கியே வாயில் புகுந்தான் - நொடியில்\nவந்தனன் வெளியே; வாழ்த்தினள் சுரசை;\n    வழியில் மேருவும் <strong>தடுத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r1_rId123.png"
+      ],
+      "id": 179
+    },
+    {
+      "verse_num": "180",
+      "chapter_num": 27,
+      "section": "27) அனுமன் சமுத்திரம் தாண்டுதல்",
+      "sanskrit": "",
+      "tamil": "<strong>தடுத்துப</strong> சரித்த மேரும லையினைத்\n    தடவிக் கொடுத்தே சென்றான் - கடலைத்\nதாவிக் கடந்து கரையை அடைந்து\n    தருணம் பார்த்து <strong>நின்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r4_rId126.png"
+      ],
+      "id": 180
+    },
+    {
+      "verse_num": "181",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>நின்றவன்</strong> தனது உருவினைச் சுருக்கி\n    நிலவின் ஒளியில் நகர்ந்தான் - இலங்கையின்\nநிகரிலா அழகில் மயங்கிய அனுமனை\n    நகரின் தேவதை <strong>தடுத்தாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t50_r2_rId129.png"
+      ],
+      "id": 181
+    },
+    {
+      "verse_num": "182",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>தடுத்தே</strong> யாரெனக் கேட்டவள் முகத்தில்\n    அடித்தான் ஓங்கி அனுமன் - குரங்கால்\nஅடிபடும் நாளே நாட்டின் அழிவென\n    அறிந்தே வழியும் <strong>விட்டாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r2_rId125.png"
+      ],
+      "id": 182
+    },
+    {
+      "verse_num": "183",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>விடவிலை</strong> அனுமன் ஓரிடம் நகரில்;\n    வீதிகள் தோறும் சென்றான் - நகரின்\nநடுவில மைந்த மாளிகை ஒன்றில்\n    நடுநிசி நேரம் <strong>நுழைந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t50_r4_rId131.png"
+      ],
+      "id": 183
+    },
+    {
+      "verse_num": "184",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>நுழைந்தான்</strong> ஒவ்வொரு அறையும்; அங்கே\n    நங்கையர் பலரையும் கண்டான் - பார்க்க\nவிழைந்த தேவியைக் காணா ததனால்\n    வருத்தம் மேலிடத் <strong>தொடர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t49_r4_rId127.png"
+      ],
+      "id": 184
+    },
+    {
+      "verse_num": "185",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>தொடரா</strong> தோரிடம் கண்டதும் வியந்து\n    தூணைப் பிடித்தே நின்றான் - பெருத்த\nஉடலோ டொருவன் உறங்கக் கண்டு\n    இலங்கேஸ் வரனெனத் <strong>தெளிந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t51_r1_rId132.jpeg"
+      ],
+      "id": 185
+    },
+    {
+      "verse_num": "186",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>தெளிவுடன்</strong> அனுமனும் அன்னையை இவ்விடம்\n    தேடுதல் வீணென உணர்ந்தான் - அரக்கனைக்\nகளிப்புறச் செய்யும் மங்கையர் நடுவில்\n    காண்பது தவறென <strong>விரைந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 186
+    },
+    {
+      "verse_num": "187",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>விரைவில்</strong> தோட்டம் ஒன்றினை அடைந்து\n    வெளிமதில் ஏறிய மர்ந்தான் - உள்ளே\nதரையில் சிம்சுபா மரத்தடி அமர்ந்த\n    தாய்நிகர்த் தேவியைக் <strong>கண்டான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t51_r3_rId133.png"
+      ],
+      "id": 187
+    },
+    {
+      "verse_num": "188",
+      "chapter_num": 28,
+      "section": "28) அன்னையின் தரிசனம்",
+      "sanskrit": "",
+      "tamil": "<strong>காண்பவர்</strong> கண்கள் கூசிடும் ஒளியாய்க்\n    கண்டான் தேவியை அனுமன் - நெருப்பும்\nதீண்டிட வியலா இவரே அண்ணலின்\n    தேவியென் றுணர்ந்தான் <strong>அனுமன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 188
+    },
+    {
+      "verse_num": "189",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அனுமன்</strong> அம்மர உச்சியை அடைந்து\n    அன்னையை நோக்கிட லானான் - மெல்ல\nஅல்லும் கரைந்து ஆதவன் உதித்திட\n    அவ்விடம் சேர்ந்தான் <strong>ராவணன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t52_r2_rId135.png"
+      ],
+      "id": 189
+    },
+    {
+      "verse_num": "190",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>ராவணன்</strong> பணிவாய்த் தேவியி டத்தில்\n    \"பாவியை ஏற்பாய்\" என்றான் - அவனைக்\nகேவல மாகவே தேவியும் பேசிட\n    கோபம் கொண்டான் <strong>அரக்கன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 190
+    },
+    {
+      "verse_num": "191",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அரக்கிய</strong> ரிடத்தில் அவள்மனம் மாற்ற\n    ஆணையு மிட்டே சென்றான் - அன்னையை\nமிரட்டினர் அரக்கியர்; மிரளா (து) அவளும்\n    மனதுள் இராமனை <strong>நினைத்தாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t52_r4_rId137.png"
+      ],
+      "id": 191
+    },
+    {
+      "verse_num": "192",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>நினைக்கவும்</strong> இராம நாமமொ லித்திட\n    நீங்கா வியப்பே கொண்டாள் -  மைதிலி\nஅனுமனி டத்திருந்(து) அவ்வொலி வருவதை\n    அறிந்ததும் அதிசயம் <strong>அடைந்தாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 192
+    },
+    {
+      "verse_num": "193",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தான்</strong> அனுமன் பாலகன் உருவை;\n    அன்னையை அணுகியே நின்றான் - அவளும்\nஅன்புடன் யாரென வினவிய றிந்தே\n    அளவிலா மகிழ்ச்சி <strong>உற்றாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t53_r1_rId139.png"
+      ],
+      "id": 193
+    },
+    {
+      "verse_num": "194",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>உற்ற</strong> துணைவன் இவனென எண்ணி\n    உடனே ஐயமும் கொண்டாள் - அரக்கனின்\nமற்றோர் உருவென அஞ்சிய வளுக்கு\n    மாருதி தைரியம் <strong>தந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t53_r1_rId140.png"
+      ],
+      "id": 194
+    },
+    {
+      "verse_num": "195",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தான்</strong> நாதனின் திருமோ திரமும்\n    தேவியி டத்தில் அவனும் - முழுதும்\nசந்தே கத்தை விட்டே அவனிடம்\n    சகலமும் கேட்டாள் <strong>அவளும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t53_r3_rId141.jpeg"
+      ],
+      "id": 195
+    },
+    {
+      "verse_num": "196",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>அவளும்</strong> தனது சூடா மணியினை\n    அனுமனி டத்தில் தந்தாள் - உடனே\nஅண்ணல் படையுடன் வந்தெனைக் காப்பது\n    அவசர மென்பதைச் <strong>சொன்னாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 196
+    },
+    {
+      "verse_num": "97",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்லின்</strong> செல்வனும் முதுகில் தேவியைச்\n    சுமந்து செல்வேன் என்றான் - அண்ணலின்\nவில்லால் அரக்கனைக் கொன்றெனை மீட்பதே\n    வீரமென் றன்னையும் <strong>மறுத்தாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t54_r1_rId142.png"
+      ],
+      "id": 197
+    },
+    {
+      "verse_num": "198",
+      "chapter_num": 29,
+      "section": "29) அன்னையின் அறிமுகம்",
+      "sanskrit": "",
+      "tamil": "<strong>மறுப்பும்</strong> இன்றி மாருதி பற்பல\n    ஆறுதல் அன்னைக் குரைத்தான் - பின்னர்\nமதில்மேல் ஏறிக் கர்ஜனை செய்து\n    மரங்களை வெட்டிச் <strong>சரித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 198
+    },
+    {
+      "verse_num": "199",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>சரிந்த</strong> மரங்களில் சிக்கிய அரக்கியர்\n    சிதறியே ஓடிச் சென்றார் - கூந்தல்\nவிரிந்த நிலையில் தசமுகன் காலில்\n    விழுந்து ஓலமும் <strong>இட்டார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t55_r2_rId143.png"
+      ],
+      "id": 199
+    },
+    {
+      "verse_num": "200",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>இட்டான்</strong> ஆணை இராவணன் அனுமனை\n    உடனே பிடித்து வரவே - விரட்டி\nவிட்டான் அனுமன் வந்தப டைகளை\n    வீரப் போரும் <strong>புரிந்தே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 200
+    },
+    {
+      "verse_num": "201",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>புரியா</strong> தவனாய் அரக்கன் மற்றொரு\n    புதுப்படை அனுப்பி வைத்தான் - அவர்க்கு\nசரியா னதொரு பாடம் புகட்டி\n    சடுதியில் துரத்தி <strong>அடித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t55_r4_rId144.png"
+      ],
+      "id": 201
+    },
+    {
+      "verse_num": "202",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>அடித்து</strong> நொறுக்கினன் மண்டபம் மதில்களை;\n    அடியுடன் பிடுங்கினன் மரங்களை - அன்னை\nஅமர்ந்த மரத்தடி விடுத்தே அனைத்தும்\n    அழித்தான் அனுமன் <strong>வனத்தில்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 202
+    },
+    {
+      "verse_num": "203",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>வனத்தைச்</strong> சிதைக்கும் குரங்கை வதைக்க\n    வந்தான் ஜம்பு மாலி - அனுமன்\nகனத்த பாறை மரங்கள் எறிந்து\n    கொன்றான் அரைக்கால் <strong>நாளில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t56_r1_rId145.png"
+      ],
+      "id": 203
+    },
+    {
+      "verse_num": "204",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>நாளின்</strong> துயரை மேலும் கூட்ட\n    இளமகன் அட்சனும் இறந்தான் - ராவணன்\nமீளாத் துயரில் ஆழ்ந்திட, வந்தான்\n    மகனாம் இந்திர <strong>ஜித்தன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 204
+    },
+    {
+      "verse_num": "205",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>சித்துகள்</strong> புரிந்தும் அம்புகள் பொழிந்தும்\n    சிக்கினன் இல்லை அனுமன் - இந்திர\nசித்தும் பிரம்ம அஸ்திரம் தொடுக்க\n    சிறிதே அனுமன் <strong>தளர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t56_r3_rId147.jpeg"
+      ],
+      "id": 205
+    },
+    {
+      "verse_num": "206",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>தளரா</strong> திருந்தான் மனதால் பிரம்மன்\n    தந்தவ ரத்தை நினைத்தே - வரத்தால்\nதளரும் அஸ்திரக் கட்டுகள் நாழிகைத்\n    தாமதம் ஆனதும் <strong>தானே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 206
+    },
+    {
+      "verse_num": "207",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>தானும்</strong> அரக்கரின் வேந்தனைக் காணவே\n    தருணம் இதுவென உணர்ந்தான் - அரக்கர்\nவானர வீரனைக் கயிற்றால் கட்டி\n    வீதியில் இழுத்துச் <strong>சென்றார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t57_r1_rId148.png"
+      ],
+      "id": 207
+    },
+    {
+      "verse_num": "208",
+      "chapter_num": 30,
+      "section": "30) அனுமன் அட்டகாசம்",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றது</strong> வீணாய் மந்திரக் கட்டும்\n    ஸ்தூலப் பொருளின் கட்டால் - அனுமன்\nமன்னனைக் காண அரக்கரின் படையுடன்\n    மறுப்பில் லாமல் <strong>வந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 208
+    },
+    {
+      "verse_num": "209",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>வந்தவ</strong> னுக்கே ஆசனம் தராது\n    வேந்தன் கேள்விகள் எழுப்ப - அனுமன்\nவாலால் ஆசனம் எழுப்பிய மர்ந்து\n    வந்ததன் காரணம் <strong>உரைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t58_r2_rId151.png"
+      ],
+      "id": 209
+    },
+    {
+      "verse_num": "210",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>உரைத்தான்</strong> உபதே சங்கள் அண்ணலை\n    உடனே சரணடைந் திடவும் - துன்பம்\nகரைத்தே நாட்டைக் காத்திட அன்னையைக்\n    கனிவுடன் ஒப்படைத் <strong>திடவும்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 210
+    },
+    {
+      "verse_num": "211",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>இட்டான்</strong> ஆணை இராவணன், \"அனுமனை\n    வெட்டிச் சாய்ப்பீர்\" என்றே - வீடணன்\nதட்டிக் கேட்டு தூதனைக் கொல்லல்\n    மட்டச் செயலென <strong>இடித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t58_r4_rId152.png"
+      ],
+      "id": 211
+    },
+    {
+      "verse_num": "212",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>இடிச்சிரிப்</strong> புடனே ஆணையை மாற்றினன்\n    இராவணன் அடங்காக் கொழுப்பினால் - அரக்கர்\nஇழிவாய் நடந்து அனுமன் வாலில்\n    பழந்துணி சுற்றிக் <strong>கொளுத்தினார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 212
+    },
+    {
+      "verse_num": "213",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>கொளுத்திய</strong> பந்தம் வாலைச் சுடாது\n    குளிர்வதை அனுமன் உணர்ந்தான் - வாயுவின்\nகுமாரன் என்றே அக்கினி தனக்குக்\n    குளிர்கிறான் என்று <strong>தெளிந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t59_r1_rId154.png"
+      ],
+      "id": 213
+    },
+    {
+      "verse_num": "214",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>தெளிந்தான்</strong> இலங்கை தீக்கிரை யாகும்\n    தருணம் இதுவென அனுமன் - கட்டுகள்\nதளர்ந்திட உருவைச் சுருக்கியே தப்பித்\n    தாவினன் ஒருமதிற் <strong>சுவரில்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 214
+    },
+    {
+      "verse_num": "215",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>சுவர்கள்</strong> மாளிகை நந்த வனங்கள்\n    சுற்றிலும் தீயினை வைத்தான் - தன்னை\nஅவமதித் தோரை அலறிடச் செய்தபின்\n    அனுமனும் வாலினை <strong>நனைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t59_r3_rId156.jpeg"
+      ],
+      "id": 215
+    },
+    {
+      "verse_num": "216",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>நனைத்தபின்</strong> அனுமன் அன்னையின் கதியை\n    நினைத்தே வருத்தம் கொண்டான் - நந்த\nவனத்தினை அடைந்து அன்னையும் சுடர்போல்\n    வீற்றிருப் பதனைக் <strong>கண்டான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t59_r3_rId157.png"
+      ],
+      "id": 216
+    },
+    {
+      "verse_num": "217",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டான்</strong> நெருப்பும் தேவியி டத்தில்\n    அண்டா திருப்பதை அனுமன் - அவளது\nகற்புச் சுடரால் தன்வால் தீயில்\n    கருகா திருந்ததை <strong>உணர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t60_r1_rId158.png"
+      ],
+      "id": 217
+    },
+    {
+      "verse_num": "218",
+      "chapter_num": 31,
+      "section": "31) லங்கா தகனம்",
+      "sanskrit": "",
+      "tamil": "<strong>உணர்ந்தாள்</strong> சீதையும் அனுமனின் ஆற்றலை\n    உளமகிழ் வுடன்விடை கொடுத்தாள் - அணங்கை\nவணங்கிய அனுமன் வானில் ஏகியே\n    வானர சேனையை <strong>அடைந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t60_r1_rId160.jpeg"
+      ],
+      "id": 218
+    },
+    {
+      "verse_num": "219",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தனர்</strong> மகிழ்ச்சி அங்கதன் குழுவினர்\n    அனுமனின் செயல்களை அறிந்தே - அனைவரும்\nஅரசனை நாடிச் சென்றார் வழியில்\n    ஆரவா ரங்கள் <strong>புரிந்தே</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t61_r2_rId161.png"
+      ],
+      "id": 219
+    },
+    {
+      "verse_num": "220",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>புரிந்தது</strong> வானரர் வெற்றியும் தொலைவில்\n    இருந்தே சுக்ரீ வனுக்கே - அதனை\nஅரியினி டத்தில் இயம்பிடும் போதே\n    அனைவரும் வந்தே <strong>சேர்ந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 220
+    },
+    {
+      "verse_num": "221",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>சேர்த்தான்</strong> தேவியின் சூடா மணியை\n    சேவித்(து) அனுமன் அரியிடம் - அதனைப்\nபார்த்தே அண்ணல் துயரும் மகிழ்வும்\n    சேர்ந்திடக் கேட்டான் <strong>அனைத்தும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t61_r4_rId163.jpeg"
+      ],
+      "id": 221
+    },
+    {
+      "verse_num": "222",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>அனைத்தும்</strong> அனுமன் சொல்லி முடிக்க\n    அண்ணலும் வியப்பே அடைந்தான் - அனுமனின்\nஆற்றலைப் புகழ்ந்து அணைத்துக் கொண்டு\n    'அடைவோம் வெற்றி' <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 222
+    },
+    {
+      "verse_num": "223",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>என்றா</strong> லுமவன் சிறிதே சோர்வுடன்\n    மந்தியர் கோனிடம் கேட்டான் - கடலை\nஅனுமன் போல அனைவரும் தாண்ட\n    இயலுமோ சந்தே <strong>கித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t62_r1_rId164.png"
+      ],
+      "id": 223
+    },
+    {
+      "verse_num": "224",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>சந்தே</strong> கத்தைக் களைந்திட வேண்டினன்\n    வந்தனத் துடனே சுக்ரிவன் - இராமன்\nதந்தான் ஆணை படைபுறப் படவே;\n    சந்தோ சத்துடன் <strong>கிளம்பினர்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 224
+    },
+    {
+      "verse_num": "225",
+      "chapter_num": 32,
+      "section": "32) அண்ணல் மகிழ்ச்சி",
+      "sanskrit": "",
+      "tamil": "<strong>கிளம்பினர்</strong> பங்குனி உத்திர நாளில்\n    அளவிலா வானர கரடியர் - அவரிடம்\nவிளம்பினன் அண்ணல் வீரமொ ழிகளும்;\n    விரைந்தே அடைந்தார் <strong>கடலும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t62_r3_rId166.png"
+      ],
+      "id": 225
+    },
+    {
+      "verse_num": "226",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>கடல்சூழ்</strong> இலங்கைக் கோமகன் சபையில்\n    கருத்துகள் பலவும் கேட்டான் - பலரும்\nமடத்தன மாகவே மதியுரை கூறியே\n    மாதவன் எதிர்ப்பை <strong>விரும்பினர்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t63_r2_rId168.jpeg"
+      ],
+      "id": 226
+    },
+    {
+      "verse_num": "227",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>\"விருப்பம்</strong> தவிர்ப்பீர் வைதேகி யிடத்தில்;\n    விஷ்ணுவைச் சரணம் அடைவீர்\" - என்றே\nவீடணன் மட்டும் யோசனை கூறிட\n    வெகுண்டான் இலங்கை <strong>வேந்தன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 227
+    },
+    {
+      "verse_num": "228",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>வேந்தனும்</strong> மைந்தன் இந்திர ஜித்தும்\n    வைதனர் வீபீஷ ணனையே - வில்வாள்\nஏந்திடப் பயந்தே சோர்ந்தவ னென்று\n    ஏளனம் பலவும் <strong>செய்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t63_r4_rId169.png"
+      ],
+      "id": 228
+    },
+    {
+      "verse_num": "229",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>செய்தான்</strong> முடிவும் வீடணன் உடனே\n    'சேர்வேன் இராமனை' என்றே - 'அரசன்\nசெய்திடும் தவறால் அரக்கரின் குலமே\n    சேதம் ஆகுமென் <strong>றுரைத்தே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 229
+    },
+    {
+      "verse_num": "230",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>உரைத்தான்</strong> இளவல் கும்பகர் ணனுமே\n    உபதே சங்கள் பலவும் -  எனினும்\nஉமைவிட் டகலேன்; உண்டக டனென\n    உறுதியும் அளித்தான் <strong>தீர்வாய்</strong>;",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t64_r1_rId170.jpeg"
+      ],
+      "id": 230
+    },
+    {
+      "verse_num": "231",
+      "chapter_num": 33,
+      "section": "33) இராவண சபை",
+      "sanskrit": "",
+      "tamil": "<strong>தீர்த்தான்</strong> கலக்கம் மேகநா தனுமே\n    போர்தான் முடிவனெச் சொல்லி - இதனால்\nநீர்சூழ் தீவின் வேந்தனும் மகிழ்ந்து\n    போர்ப்பணி துவங்கிடப் <strong>பணித்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 231
+    },
+    {
+      "verse_num": "232",
+      "chapter_num": 34,
+      "section": "34) சரணாகதி",
+      "sanskrit": "",
+      "tamil": "<strong>பணிந்திட</strong> வந்தவி பீஷணன் குழுவினைப்\n    பார்த்தனர் வானரர் வானில் - அவரைத்\nதுணிவுடன் எதிர்த்திட கற்களும் ஏந்தியே\n    துரிதமாய்த் திரண்டது <strong>சேனை</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t65_r2_rId171.jpeg"
+      ],
+      "id": 232
+    },
+    {
+      "verse_num": "233",
+      "chapter_num": 34,
+      "section": "34) சரணாகதி",
+      "sanskrit": "",
+      "tamil": "<strong>சேனையின்</strong> நடுவினில் வீடணன் இறங்கி\n    சேர்ந்தனன் நாதனின் பாதம் - அவன்பால்\nவானரர் தலைவனும் ஐயம் நிறைந்த\n    வார்த்தை சிலவும் <strong>சொன்னான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 233
+    },
+    {
+      "verse_num": "234",
+      "chapter_num": 34,
+      "section": "34) சரணாகதி",
+      "sanskrit": "",
+      "tamil": "<strong>சொல்லின்</strong> செல்வனும் அண்ணலி டத்தில்\n    நல்லவ னிவனென மொழிந்தான் - சிறையில்\nமெல்லிய மைதிலிக்(கு) அருந்துணை வீடணன்\n    மகளே இருப்பதும் <strong>உரைத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t65_r4_rId172.jpeg"
+      ],
+      "id": 234
+    },
+    {
+      "verse_num": "235",
+      "chapter_num": 34,
+      "section": "34) சரணாகதி",
+      "sanskrit": "",
+      "tamil": "<strong>உரைத்தான்</strong> ராமன் \"ஏற்பேன் இவனை\n    உண்மை எதுவா யிருப்பினும்\" - வீடணன்\nஅரக்கனின் அவையில் நடந்தவை நவின்றே\n    அடக்கமாய்க் கேட்டான் <strong>அபயம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 235
+    },
+    {
+      "verse_num": "236",
+      "chapter_num": 34,
+      "section": "34) சரணாகதி",
+      "sanskrit": "",
+      "tamil": "<strong>அபயம்</strong> அளித்தே அவனை இலங்கை\n    அதிபதி ஆக்குவேன் என்றான் - அண்ணல்\nஅபாய மின்றி அலைகடல் தாண்ட\n    ஆலோ சித்திட <strong>முனைந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 236
+    },
+    {
+      "verse_num": "237",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>முனைப்புடன்</strong> பலரும் யோசனை சொல்ல\n    முடிவாய் ஒன்றைத் தேர்ந்தனர் - அதன்படி\nவினயமாய்ப் பரமனும் விரதம் இருந்தான்;\n    வரவிலை சமுத்திர <strong>வேந்தன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t66_r2_rId173.png"
+      ],
+      "id": 237
+    },
+    {
+      "verse_num": "238",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>வேந்தன்</strong> விரதம் ஏற்கா ததனால்\n    வேதன் வில்லை எடுத்தான் - உடனே\nபாந்தமாய்க் கடலோன் வந்துப ணிந்தே\n    சாந்தமாய்ச் சொற்கள் <strong>தொடுத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t66_r2_rId175.png"
+      ],
+      "id": 238
+    },
+    {
+      "verse_num": "239",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"தொடுத்திடும்</strong> பாணம் தவிர்ப்பீர்; என்மேல்\n    அடுக்குவீர் பாறை, மரங்கள் - உமக்குக்\nகிடைத்திடும் பாலம்; அதன்மேல் சென்றே\n    எடுத்த காரியம் <strong>முடிப்பீர்\"</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t66_r4_rId177.png"
+      ],
+      "id": 239
+    },
+    {
+      "verse_num": "240",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"முடிப்பான்</strong> இதனை வானரன் நளனே \"\n    கடலோன் கூறிம றைந்தான் - உடனே\nதுடிப்புடன் வானரர் மரம்பா றைகளைக்\n    கடல்மேல் குவித்திட <strong>லானார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 240
+    },
+    {
+      "verse_num": "240",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"முடிப்பான்</strong> இதனை வானரன் நளனே \"\n    கடலோன் கூறிம றைந்தான் - உடனே\nதுடிப்புடன் வானரர் மரம்பா றைகளைக்\n    கடல்மேல் குவித்திட <strong>லானார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t66_r6_rId178.jpeg"
+      ],
+      "id": 241
+    },
+    {
+      "verse_num": "241",
+      "chapter_num": 35,
+      "section": "35) சமுத்திர பாலம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஆனது</strong> பாலம் வானரர் தம்மால்\n    அமரரும் கண்டிட லானார் - சேதுவில்\nசேனையும், இராம, லக்குவ, அனுமனும்\n    சேர்ந்தே இலங்கை <strong>போனார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t66_r6_rId179.png"
+      ],
+      "id": 242
+    },
+    {
+      "verse_num": "242",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>போனார்</strong> அரக்கர் ஒற்றறிந் திடவே\n    வானர சேனையின் நடுவே - வீடணன்\nதானாய்ச் சிக்கிய அவர்களைப் பிடித்துத்\n    தந்தான் இராமன் <strong>எதிரில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t67_r2_rId180.png"
+      ],
+      "id": 243
+    },
+    {
+      "verse_num": "243",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>எதிரிக</strong> ளாயினும் மன்னித் தருளிட\n    மைதிலி நாதன் விழைந்தான் - வந்தவர்\nபுதிரென வியந்தே புண்ணியன் இவனெனப்\n    புகழ்ந்தே இலங்கை <strong>விரைந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 244
+    },
+    {
+      "verse_num": "244",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>விரைந்தே</strong> இலங்கைக் காவல் பணிகளை\n    வேந்தன் அமைத்திட லானான் - மேற்குக்\nகரைதனில் மேக நாதனை வைத்துக்\n    காத்தான் வடக்கைத் <strong>தானே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 245
+    },
+    {
+      "verse_num": "245",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>தன்னுடை</strong> அமைச்சன் பிரகஸ் தனையே\n    தலைவன் ஆக்கினன் கிழக்கில் - தனக்கே\nஇன்னுயிர் நல்கிடும் இருவரைத் தெற்கிலும்\n    இலங்கை நடுவிலும் <strong>வைத்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 246
+    },
+    {
+      "verse_num": "246",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>வைத்தான்</strong> படைகளைச் சுவேலை மலையில்\n    வைதேகி நாதன் ஓய்வாய் - விழிகளை\nவைத்தான் இலங்கை மீதினில்; கண்டான்\n    வலிமிகு அரக்கரின் <strong>அரணை</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t68_r1_rId181.png"
+      ],
+      "id": 247
+    },
+    {
+      "verse_num": "247",
+      "chapter_num": 36,
+      "section": "36) போர்த் திட்டங்கள்",
+      "sanskrit": "",
+      "tamil": "<strong>அரண்களை</strong> உடைத்து அரக்கரை அழிக்க\n    அண்ணல் வழிமுறை சொன்னான் - மாய\nஅரக்கரை எதிர்க்கும் துணிவினை அளிக்கும்\n    அற்புத உரையும் <strong>தந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t68_r2_rId187.jpeg"
+      ],
+      "id": 248
+    },
+    {
+      "verse_num": "248",
+      "chapter_num": 37,
+      "section": "37) முற்றுகை",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தான்</strong> வியப்பைச் சட்டென வானரர்\n    தலைவனும் தசமுக னுக்கே - தாவி\nவந்தே ராவணன் மகுடம் உதைத்து\n    வான்வழி திருப்பிச் <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t69_r2_rId188.png"
+      ],
+      "id": 249
+    },
+    {
+      "verse_num": "249",
+      "chapter_num": 37,
+      "section": "37) முற்றுகை",
+      "sanskrit": "",
+      "tamil": "<strong>செல்லுமுன்</strong> அறிவுரை சொல்லினன்; அரக்கனை\n    நல்வழி செலுத்திட முயன்றனன் - தசமுகன்\nகல்நெஞ் சறிந்தபின் அவன்மகு டத்தைக்\n    காலால் உதைத்தே <strong>திரும்பினன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t68_r1_rId183.png"
+      ],
+      "id": 250
+    },
+    {
+      "verse_num": "250",
+      "chapter_num": 37,
+      "section": "37) முற்றுகை",
+      "sanskrit": "",
+      "tamil": "<strong>திரும்பிய</strong> அரசனைப் பெரும்புகழ் செய்து\n    திருமகள் தலைவனும் மொழிந்தான் - \"சாகசம்\nவிரும்பினும் வேந்தன் விபத்தில் சிக்குதல்\n    விவேகம் அன்று\" <strong>என்றான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t69_r4_rId190.jpeg"
+      ],
+      "id": 251
+    },
+    {
+      "verse_num": "251",
+      "chapter_num": 37,
+      "section": "37) முற்றுகை",
+      "sanskrit": "",
+      "tamil": "<strong>என்றவன்</strong> நான்கு வாயிலும் தகர்க்க\n    எல்லா ருடனும் கலந்தான் - அதன்படி\nசென்றான் நீலன் கிழக்கில்; வந்தே\n    சேர்ந்தான் அங்கதன் <strong>தெற்கில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t68_r1_rId185.png"
+      ],
+      "id": 252
+    },
+    {
+      "verse_num": "252",
+      "chapter_num": 37,
+      "section": "37) முற்றுகை",
+      "sanskrit": "",
+      "tamil": "<strong>தென்திசை</strong> வேந்தனுக் கெதிரிள வலுடன்\n    நின்றான் வடதிசை பெருந்தகை - மேற்கில்\nசென்றிட அஞ்ஜனை மைந்தனை அனுப்பிச்\n    செய்தான் இலங்கை <strong>முற்றுகை</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 253
+    },
+    {
+      "verse_num": "253",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>முற்றிலும்</strong> கவலையில் மூழ்கிய ராவணன்\n    சுற்றிலும் படைகளைக் கண்டான் - அவர்கள்\nநிற்பதில் கடலும் மறைந்தது கண்டே\n    நிச்சயம் தோல்வியென் <strong>றுணர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t70_r2_rId191.png"
+      ],
+      "id": 254
+    },
+    {
+      "verse_num": "254",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>\"உணர்வாய்</strong> போரின் தீமையை; தேவியை\n    உடனே ஒப்படைத் திடுவாய்\" - என்றே\nதுணிவாய் அண்ணலின் செய்தியை அங்கதன்\n    தூதனாய்க் கொண்டே <strong>சென்றான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 255
+    },
+    {
+      "verse_num": "255",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றவன்</strong> சொன்ன செய்தியில் இலங்கை\n    மன்னவன் சினமிக அடைந்தான் - தூதனைக்\nகொன்றிடு வீரென அரக்கர் இருவரை\n    சின்னவன் மீதினில் <strong>ஏவினான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t70_r4_rId193.png"
+      ],
+      "id": 256
+    },
+    {
+      "verse_num": "256",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>ஏவப்</strong> பட்டோர் அங்கதன் மீதே\n    தாவிப் பிடித்தார் காலை - அவனோ\nபாவிகள் பிடியிலி ருந்தே விலகிப்\n    பாய்ந்தே காட்டினன் <strong>வேலை</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 257
+    },
+    {
+      "verse_num": "257",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>வேலைப்</strong> பாடுடன் கூடிய மாளிகை\n    விமான மொன்றை உதைத்தான் - பின்னர்\nமாலனை நாடி வானில் தாவி\n    மகிழ்வுடன் வந்தே <strong>குதித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t71_r1_rId195.jpeg"
+      ],
+      "id": 258
+    },
+    {
+      "verse_num": "258",
+      "chapter_num": 38,
+      "section": "38) அங்கதன் தூது",
+      "sanskrit": "",
+      "tamil": "<strong>குதித்தார்</strong> வானர கரடியர் வாலி\n    குமாரன் செயலைப் புகழ்ந்தே - விமானம்\nஉதைபடும் நிகழ்வும் துர்நிமித் தமென\n    உரைத்தது தசமுகன் <strong>தனக்கே</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 259
+    },
+    {
+      "verse_num": "259",
+      "chapter_num": 39,
+      "section": "39) ராவணன் மாயம்",
+      "sanskrit": "",
+      "tamil": "<strong>தனக்கெதிர்</strong> நிற்கும் படைகளைக் காண\n    தசமுகன் மதில்மேல் நின்றான் - அங்கதன்\nஅனுமசுக் ரீவன் ஜாம்பவா னுடனே\n    அண்ணலும் இளவலும் <strong>கண்டான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t72_r2_rId196.jpeg"
+      ],
+      "id": 260
+    },
+    {
+      "verse_num": "260",
+      "chapter_num": 39,
+      "section": "39) ராவணன் மாயம்",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டான்</strong> வீரமும் திண்மையும் ஆண்மையும்\n    கருமுகில் வண்ணன் உருவில் - அச்சம்\nகொண்டே மைதிலி இருப்பிடம் சென்றிட\n    கொண்டான் எண்ணமும் <strong>மனதில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t72_r2_rId197.jpeg"
+      ],
+      "id": 261
+    },
+    {
+      "verse_num": "261",
+      "chapter_num": 39,
+      "section": "39) ராவணன் மாயம்",
+      "sanskrit": "",
+      "tamil": "<strong>மனதினை</strong> மைதிலி மாற்றிட மாதவன்\n    மடிந்ததாய்ப் பொய்யும் உரைத்தான் - மன்னன்\nமாயத் தாலொரு ராகவன் முகமும்\n    மைதிலி முன்னால் <strong>கொணர்ந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t72_r4_rId198.jpeg"
+      ],
+      "id": 262
+    },
+    {
+      "verse_num": "262",
+      "chapter_num": 39,
+      "section": "39) ராவணன் மாயம்",
+      "sanskrit": "",
+      "tamil": "<strong>\"கொணர்ந்தார்</strong> அரக்கருன் கணவன் சிரமும்\n    கொய்தே என்றான் கொடியோன்- தேவி\nஉணர்ந்தாள் இனிதன் உயிரைத் துறத்தல்\n    உகந்தது என்றே <strong>மனதுள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 263
+    },
+    {
+      "verse_num": "263",
+      "chapter_num": 39,
+      "section": "39) ராவணன் மாயம்",
+      "sanskrit": "",
+      "tamil": "<strong>மனதினில்</strong> துணிவும் கொண்டிட வீடணன்\n    மனைவி சரமை சொன்னாள் - அரக்கன்\nமறைந்ததும் மாயமும் அகன்றே சிரமும்\n    மறைவதை மைதிலி <strong>கண்டாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 264
+    },
+    {
+      "verse_num": "264",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>கண்டவர்</strong> நடுங்கும் போரே புரிந்தார்\n    கரடியர் வானரர் சேனை - பாறைத்\nதுண்டுகள் மரங்கள் தூக்கி எறிந்து\n    துரத்திய டித்தார் <strong>அரக்கரை</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t73_r2_rId199.jpeg"
+      ],
+      "id": 265
+    },
+    {
+      "verse_num": "265",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>அரக்கர்</strong> பலரை அழித்தார் அனுமன்\n    அங்கதன் சுக்ரிவன் ஜாம்பவான் - இராம\nசரத்தால் ஆயிரக் கணக்கில் அரக்கர்\n    சருகுகள் போலச் <strong>சாய்ந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 266
+    },
+    {
+      "verse_num": "266",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>சாய்த்திடும்</strong> சர்ப்ப அஸ்திரம் இந்திர\n    சித்தன் மறைந்தே தொடுத்தான் - இராமனை\nமாய்த்தே னென்றே மன்னனுக் குரைத்து\n    மகிழ்ச்சியில் ஆழ்த்திடப் <strong>பறந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t73_r4_rId200.jpeg"
+      ],
+      "id": 267
+    },
+    {
+      "verse_num": "267",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>பறந்தே</strong> கருடன் வானில் வரவும்\n    பாம்பின் கட்டுகள் தளர்ந்திட - மீண்டும்\nபிறந்தது போலே புத்துணர் வுடனே\n    பிரானும் யாவரும் <strong>எழுந்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 268
+    },
+    {
+      "verse_num": "268",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>எழுந்தவர்</strong> ராவணன் தளபதி அமைச்சர்\n    எனப்பல பேரை அழித்தார் - அரக்கனின்\nகொழுந்துகள் சிலரும் கொல்லப் படவும்\n    கொற்றவன் நேரே <strong>வந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t74_r1_rId201.png"
+      ],
+      "id": 269
+    },
+    {
+      "verse_num": "269",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>வந்தவன்</strong> புரிந்த கடும்போ ராலே\n    வானரர் சிறிதே பிந்திட - அஞ்ஜனை\nமைந்தன் தோளில் மாலவன் அமர்ந்து\n    மயக்கும் பதிலடி <strong>தந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 270
+    },
+    {
+      "verse_num": "270",
+      "chapter_num": 40,
+      "section": "40) போர்",
+      "sanskrit": "",
+      "tamil": "<strong>தந்தான்</strong> அதிர்ச்சி தேரை உடைத்தே\n    திருமகன் தசரத னுக்கே - அவனின்\nதங்கம குடத்தைத் தள்ளினன் மண்ணில்;\n    தளர்ந்தே திரும்பினன் <strong>அரக்கன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 271
+    },
+    {
+      "verse_num": "271",
+      "chapter_num": 41,
+      "section": "41) கும்பகர்ணன்",
+      "sanskrit": "",
+      "tamil": "<strong>அரக்கனின்</strong> இளவல் கும்பகர் ணனையே\n    உறக்கத் திருந்தே எழுப்பினர் - அவனும்\nஉரைத்தான் நீதி; இருப்பினும் போரில்\n    உயிரைத் துறந்திட <strong>விரைந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t75_r2_rId203.jpeg"
+      ],
+      "id": 272
+    },
+    {
+      "verse_num": "272",
+      "chapter_num": 41,
+      "section": "41) கும்பகர்ணன்",
+      "sanskrit": "",
+      "tamil": "<strong>விரைவில்</strong> வானர வேந்தனைப் பிடித்து\n    வீம்பாய் நகரினுள் நடந்தான் - அவனது\nவிரல்செவி களையே கடித்தசுக் ரீவன்\n    விண்ணில் பறந்தே <strong>திரும்பினான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 273
+    },
+    {
+      "verse_num": "273",
+      "chapter_num": 41,
+      "section": "41) கும்பகர்ணன்",
+      "sanskrit": "",
+      "tamil": "<strong>திரும்பவும்</strong> கும்ப கர்ணனும் வந்தே\n    பெருஞ்சே தத்தைத் தந்தான் - அவனைத்\nதிருமகன் எதிர்த்து இருசரம் தொடுத்து\n    இருகரம் அவனுடல் <strong>பிரித்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t75_r4_rId204.jpeg"
+      ],
+      "id": 274
+    },
+    {
+      "verse_num": "274",
+      "chapter_num": 41,
+      "section": "41) கும்பகர்ணன்",
+      "sanskrit": "",
+      "tamil": "<strong>பிரிந்து</strong> சென்ற சக்கர பாணம்\n    பெருங்கால் இரண்டையும் அறுக்க - இராமன்\nசிறந்த பாணம் ஒன்றால் அரக்கன்\n    சிரத்தை அறுத்தே <strong>எறிந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t75_r4_rId205.png"
+      ],
+      "id": 275
+    },
+    {
+      "verse_num": "275",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>எறிந்தான்</strong> மேக நாதனும் பிரம்ம\n    எந்திரம் யாவரின் மீதும் - சக்தி\nசெறிந்த கட்டில் இராமலக் குவருடன்\n    சேனையும் சிக்கினர் <strong>முழுதும்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t76_r2_rId207.jpeg"
+      ],
+      "id": 276
+    },
+    {
+      "verse_num": "276",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>முழுதாய்த்</strong> தப்பிய மாருதி மட்டும்\n    முனைப்புடன் பறந்தான் இமயம் - மூலிகை\nவிழுதுகள் நிறைந்த சஞ்சீவி மலையுடன்\n    விரைந்தான் தக்க <strong>சமயம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 277
+    },
+    {
+      "verse_num": "277",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>சமயம்</strong> வந்து சேர்ந்தம ருந்தால்\n    சுகமாய் யாவரும் எழுந்தார் - வானில்\nஅமரர் கண்டு வியக்கும் யுத்தம்\n    அண்ணல் லக்குவன் <strong>புரிந்தார்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t76_r4_rId208.jpeg"
+      ],
+      "id": 278
+    },
+    {
+      "verse_num": "278",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>புரிந்தான்</strong> இந்திர ஜித்தும் மறைவாய்\n    புதிதாய் வேள்வியு மொன்று - கண்ணில்\nபுலப்ப டாமல் போரிடும் ஆற்றல்\n    பெற்றிட வேண்டியே <strong>நின்று</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t77_r1_rId209.png"
+      ],
+      "id": 279
+    },
+    {
+      "verse_num": "279",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>நின்றே</strong> போகும் யாகம் என்று\n    நின்றார் அரக்கர் காவல் - அவரைக்\nகொன்றே அனுமன் தோளில் ஏறி\n    நின்றான் போரிட <strong>இளவல்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t77_r2_rId210.jpeg"
+      ],
+      "id": 280
+    },
+    {
+      "verse_num": "280",
+      "chapter_num": 42,
+      "section": "42) இந்திரஜித்",
+      "sanskrit": "",
+      "tamil": "<strong>இளவல்</strong> போரில் இந்திர ஜித்தனை\n    இடியைப் போலவே அடித்தான் - முடிவில்\nஇந்திர சக்தி ஆயுத மெய்து\n    அரக்கனின் கதையை <strong>முடித்தார்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 281
+    },
+    {
+      "verse_num": "281",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>முடிவைக்</strong> கேட்ட மன்னன் புலம்பி\n    மூர்க்கம் மிகவே கொண்டான் - அவனும்\nமூலசை னியமெனும் லட்சம் பேரை\n    மாலவன் படைமீ <strong>தேவினன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t78_r2_rId211.jpeg"
+      ],
+      "id": 282
+    },
+    {
+      "verse_num": "282",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஏவினன்</strong> ராமன் கந்தர் வாஸ்திரம்\n    எங்கும் தெரிந்தனன் ராமனே - லட்சமாய்த்\nதாவிய படைக்குக் கோடியாய்த் தோன்றி\n    தானே எமனாய் <strong>ஆகினன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 283
+    },
+    {
+      "verse_num": "283",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஆகினன்</strong> ராவணன் தனியனாய்; தானே\n    ராகவன் எதிர்வரத் துணிந்தனன் - கிளம்பிப்\nபோகிற வழியில் சகுனத் தடைகளைப்\n    பொருட்படுத் தாமல் <strong>சென்றனன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t78_r4_rId212.png"
+      ],
+      "id": 284
+    },
+    {
+      "verse_num": "284",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>சென்றனன்</strong> அண்ணலின் சாரதி யாக\n    இந்திரன் தேருடன் மாதலி - அதனில்\nவென்றிடும் நோக்குடன் ஆயுதம் தாங்கியே\n    வேதனும் வேகமாய் <strong>ஏறினன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 285
+    },
+    {
+      "verse_num": "285",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஏறினர்</strong> வானில் தேவரும் ராமன்\n    போரினைக் காணும் ஆவலில் - சொல்லில்\nகூறிட இயலா கடும்போர் கண்டனர்\n    ஆரியன் அரக்கன் <strong>மோதலில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t79_r1_rId214.jpeg"
+      ],
+      "id": 286
+    },
+    {
+      "verse_num": "286",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>மோதலின்</strong> போதில் நாதனும் தீயோன்\n    சாதலை நினைந்துமு னைந்தான் - தனது\nகோதண் டத்திருந் தெய்திய சரத்தால்\n    கொடியவன் சிரங்களை <strong>அறுத்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t79_r1_rId215.png"
+      ],
+      "id": 287
+    },
+    {
+      "verse_num": "287",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>அறுத்திட</strong> அறுத்திட அரக்கனும் சிரம்பல\n    அடுத்தடுத் தேபெற லானான் - யாரும்\nநிறுத்திட இயலா ராமபா ணத்தை\n    நிர்மலன் தொடுத்தே <strong>விட்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 288
+    },
+    {
+      "verse_num": "288",
+      "chapter_num": 43,
+      "section": "43) இராம இராவண யுத்தம்",
+      "sanskrit": "",
+      "tamil": "<strong>விட்டான்</strong> உயிரை மார்பைத் துளைத்த\n    வீரிய சரத்தால் அரக்கன் - மலர்கள்\nஇட்டார் வானிருந் தமரரும் மகிழ்வுடன்\n    இனியவன் ராமனின் <strong>சிரத்தில்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t79_r4_rId217.jpeg"
+      ],
+      "id": 289
+    },
+    {
+      "verse_num": "289",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>சிரத்தில்</strong> மகுடம் சூடிய வீடணன்\n    சீர்மிகு வேந்தன் ஆயினன் - அனுமன்\nசீதையைக் கண்டே சேதியைச் சொல்லிச்\n    சிறப்புடன் அழைத்தே <strong>வந்தனன்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t80_r2_rId218.png"
+      ],
+      "id": 290
+    },
+    {
+      "verse_num": "290",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>வந்தவள்</strong> கற்பினை வையகம் உணர்ந்திட\n    வைதேகி மணாளன் விரும்பினன் - இளவல்\nபந்தம் கொண்டே அக்கினி மூட்டிட\n    பாவையும் அதனுள் <strong>நுழைந்தனள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t80_r3_rId220.jpeg"
+      ],
+      "id": 291
+    },
+    {
+      "verse_num": "291",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>நுழைந்த</strong> கணமே அக்கினி அலறினன்\n    நங்கையின் கற்புத் தீயால் - இந்த\nநானிலம் மகிழ்வுற சானகி வெளிவர\n    நாயக னோடவள் <strong>சேர்ந்தாள்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 292
+    },
+    {
+      "verse_num": "292",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>சேர்ந்தே</strong> யாவரும் விமான மேறி\n    ஊர்திரும் பிடலா னாராம் - நினைவு\nகூர்ந்தனர் நாதனும் சீதையும் கானகம்\n    சார்ந்தவி டங்களை <strong>எல்லாம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t81_r1_rId221.png"
+      ],
+      "id": 293
+    },
+    {
+      "verse_num": "293",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>எல்லோர்</strong> வருகிற சேதியை அனுமன்\n    எடுத்துச் சென்றான் முன்னால் - தவிப்புடன்\nநல்லவன் பரதன் காத்துக் கிடந்த\n    நந்திகி ராமம் <strong>அடைந்தான்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t81_r1_rId222.png"
+      ],
+      "id": 294
+    },
+    {
+      "verse_num": "294",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>அடைந்தனர்</strong> மகிழ்ச்சி பரதசத் ருக்கனர்\n    அனைத்து விஷயமும் அறிந்து - அவ்விடம்\nஅண்ணலும் அன்னையும் யாவரும் சேர்ந்தார்\n    ஆகாய மார்க்கம் <strong>பறந்து</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t81_r3_rId223.jpeg"
+      ],
+      "id": 295
+    },
+    {
+      "verse_num": "295",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பறந்தே</strong> வந்த பரிவா ரங்களைப்\n    பரதனன் புடன்வர வேற்றான் - தனது\nசிறந்த பக்தியால் ராமனின் தாளடி\n    சிரத்தை வைத்துப் <strong>பணிந்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 296
+    },
+    {
+      "verse_num": "296",
+      "chapter_num": 44,
+      "section": "44) அயோத்தி திரும்புதல்",
+      "sanskrit": "",
+      "tamil": "<strong>பணிவுடைத்</strong> தம்பியை தமையனும் எழுப்பிப்\n    பாசம் பொங்கிட அணைத்தான் - தன்னுடன்\nஅணிவகுத் திருந்த வீடணன் சுக்ரிவன்\n    அனைவரை அறிமுகம் <strong>செய்தான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 297
+    },
+    {
+      "verse_num": "297",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>செய்தார்</strong> ஏற்பா டுகளும் ராமன்\n    சிரசில் மகுடம் சூடிட - அழகு\nசெய்தார் நகரை அயோத்தி மக்கள்\n    சிறப்புடன் மகிழ்ச்சியும் <strong>கூடிட</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t82_r2_rId224.png"
+      ],
+      "id": 298
+    },
+    {
+      "verse_num": "298",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>கூடினர்</strong> ரிஷிகள்; ஓதினர் வேதம்;\n    கொணர்ந்தார் புனித நீரும் - மலர்கள்\nசூடிய மாதரும் பெரியோர் சிறுவரும்\n    சூழ்ந்தனர் அயோத்தி <strong>நகரம்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 299
+    },
+    {
+      "verse_num": "299",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>நகரம்</strong> மகிழ்வுற வசிட்டரின் கரத்தால்\n    நாயகன் மகுடம் சூடினன் - உயர்ந்த\nநவரத் தினசிம் மாசனம் அமர்ந்து\n    நாயகி யுடனே <strong>அருளினன்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 300
+    },
+    {
+      "verse_num": "300",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>அருள்நிறை</strong> ராம ராஜ்ஜிய மக்கள்\n    அமைதியும் செழுமையும் அடைந்தார் - பொன்னும்\nபொருளும் தானிய வகைகளும் செழித்திட\n    திருமகள் திருவருள் <strong>புரிந்தாள்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t83_r1_rId226.jpeg"
+      ],
+      "id": 301
+    },
+    {
+      "verse_num": "301",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>புரிந்தான்</strong> ஆட்சி நேர்மை நீதி\n    நெறிதவ றாமல் ராமன் - அனுமன்\nபரதசத் ருக்கன லக்குவர் உதவிட\n    பன்னெடுங் காலம் <strong>ஆண்டான்</strong>!",
+      "meaning": "",
+      "images": [],
+      "id": 302
+    },
+    {
+      "verse_num": "302",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஆண்டவன்</strong> அரியின் அருள்மிகு ராம\n    அவதா ரக்கதை அறிந்தோம் - பக்தி\nபூண்டுநல் ராமனின் நாமமு ரைத்தே\n    புனிதனின் தாள்சரண் <strong>புகுவோம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t84_r1_rId227.jpeg"
+      ],
+      "id": 303
+    },
+    {
+      "verse_num": "303",
+      "chapter_num": 45,
+      "section": "45) ராமராஜ்யம்",
+      "sanskrit": "",
+      "tamil": "<strong>ஓம்ஸ்ரீ</strong> சீதா ராமா! மங்களம் !\n    ஒப்பிலா பக்தனே அனுமனே! மங்களம்!\nஉம்கதை மாந்தர் யாவர்க்கும் மங்களம்!\n    உம்கதை அறிவோர் யாவர்க்கும் <strong>மங்களம்</strong>!",
+      "meaning": "",
+      "images": [
+        "images/pictures/andhadhi-ramayanam/t84_r2_rId228.png"
+      ],
+      "id": 304
+    }
+  ],
+  "categories": [
+    "ramayana"
+  ],
+  "source_work": "கதை மூலம்",
+  "authors": [
+    {
+      "title": "மகரிஷி",
+      "name": "வால்மீகி"
+    }
+  ]
+}

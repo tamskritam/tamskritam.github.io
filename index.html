@@ -1,13 +1,521 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="ta">
 <head>
-    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tamskritam - Classical Sanskrit Stotras Adapted into Metered Tamil Poetry by Sri R. Gururaj with rare illustrations and artwork.">
+  <meta name="keywords" content="Tamskritam, Sanskrit to Tamil, Tamil Slokas, Sri R Gururaj, Venkatesha Suprabhatam, Hanuman Chalisa, Vishnu Sahasranamam, Samkshepa Ramayanam, Bhaja Govindam, Meenakshi Pancharatnam, Lakshmi Narasimha Karavalambam, Maneesha Panchakam, Tamil Adaptation, Tamil Translation, Sanskrit Stotras, Tamil Poetry, Devotional Literature, Spiritual Texts, Sacred Hymns, Vedantic Scriptures">
+  <meta name="author" content="Sri R. Gururaj (ரா. குருராஜ்)">
+  <meta name="robots" content="index, follow">
+
+  <title>Tamskritam | Sanskrit ➔ Tamil Stotras</title>
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://tamskritam.github.io/">
+
+  <!-- Google Site Verification -->
+  <meta name="google-site-verification" content="WBLjyOFlBDM4lh2a0-AgJQqgpCwLH5-hiAJiq1aWtL0" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://tamskritam.github.io/">
+  <meta property="og:title" content="Tamskritam | Sanskrit ➔ Tamil Stotras">
+  <meta property="og:description" content="Classical Sanskrit Stotras adapted into metered Tamil poetry by Sri R. Gururaj — 18 sacred works, 900+ verses, and 970+ illustrations.">
+  <meta property="og:image" content="https://tamskritam.github.io/images/pictures/author-ilayaraja.jpg">
+  <meta property="og:locale" content="ta_IN">
+  <meta property="og:site_name" content="Tamskritam">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tamskritam | Sanskrit ➔ Tamil Stotras">
+  <meta name="twitter:description" content="Classical Sanskrit Stotras adapted into metered Tamil poetry by Sri R. Gururaj — 18 sacred works, 900+ verses, and 970+ illustrations.">
+  <meta name="twitter:image" content="https://tamskritam.github.io/images/pictures/author-ilayaraja.jpg">
+
+  <!-- Structured Data: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Tamskritam",
+    "url": "https://tamskritam.github.io/",
+    "description": "Classical Sanskrit Stotras adapted into metered Tamil poetry by Sri R. Gururaj — 18 sacred works, 900+ verses, and 970+ illustrations.",
+    "inLanguage": ["ta", "sa"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://tamskritam.github.io/#search={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Sri R. Gururaj",
+      "alternateName": "ரா. குருராஜ்"
+    }
+  }
+  </script>
+
+  <!-- Structured Data: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Tamskritam",
+        "item": "https://tamskritam.github.io/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Works Catalog",
+        "item": "https://tamskritam.github.io/#catalog"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Zero-FOUC Theme Initialization -->
+  <script>
+    (function() {
+      const savedTheme = localStorage.getItem('tamskritam-theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
+
+  <!-- Font Awesome 6 for Accessible UI Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪷</text></svg>">
 </head>
-
 <body>
-    <h1>
-        சுபம்
-    </h1>
-</body>
 
+  <!-- Site Navigation Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#catalog" class="brand-logo" title="Tamskritam Home">
+        <div class="brand-icon">🪷</div>
+        <div class="brand-text">
+          <span class="brand-title">Tamskritam</span>
+          <span class="brand-subtitle">Sanskrit ➔ Tamil</span>
+        </div>
+      </a>
+
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#catalog" class="nav-link active">Works</a></li>
+          <li><a href="#about" class="nav-link">About Author</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <!-- Global Search Button -->
+        <button class="search-trigger-btn" aria-label="Search verses and works" title="Search verses and works">
+          <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+          <span style="font-size: 0.875rem;">Search...</span>
+          <kbd class="search-kbd">Ctrl K</kbd>
+        </button>
+
+        <!-- Bookmarks Drawer Button -->
+        <button id="bookmarks-btn" class="icon-btn" aria-label="Saved Verses & Bookmarks" title="Saved Verses & Bookmarks">
+          <i class="fa-regular fa-star" aria-hidden="true"></i>
+          <span id="bookmarks-count-badge" class="badge-count" style="display:none;">0</span>
+        </button>
+
+        <!-- Theme Toggle Button -->
+        <button id="theme-toggle-btn" class="icon-btn" aria-label="Switch Theme" title="Switch Theme">
+          <i class="fa-solid fa-sun" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main>
+    <!-- Catalog / Home View -->
+    <div id="catalog-view">
+      <!-- Hero Banner -->
+      <section class="hero-section">
+        <div class="container hero-content">
+          <div class="om-symbol">ॐ</div>
+          <h1 class="hero-title">
+            Classical Sanskrit Stotras <br>
+            <span class="hero-title-highlight">Adapted into Metered Tamil Poetry</span>
+          </h1>
+          <p class="hero-subtitle">
+            Ancient sacred hymns, epics, and Vedantic scriptures rendered into melodious, rhythmic Tamil poetry while preserving original meter, spirit, and philosophical depth.
+          </p>
+
+          <div class="author-tribute-pill">
+            <span>Poetic Adaptation & Tamil Translation:</span>
+            <strong>Sri R. Gururaj (ரா. குருராஜ்)</strong>
+          </div>
+
+          <div class="hero-stats">
+            <div class="stat-item">
+              <span class="stat-value">18</span>
+              <span class="stat-label">Sacred Works</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value">900+</span>
+              <span class="stat-label">Verses & Poems</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value">970+</span>
+              <span class="stat-label">Illustrations & Artworks</span>
+            </div>
+          </div>
+
+          <!-- Featured Daily Shloka Card Container -->
+          <div id="daily-shloka-container" class="container-narrow"></div>
+        </div>
+      </section>
+
+      <!-- Category & Deity Filter Bar -->
+      <section id="filter-section" class="filter-section">
+        <div class="container">
+          <!-- Category Filters -->
+          <div class="filter-group">
+            <span class="filter-label">Category:</span>
+            <button class="filter-chip cat-chip active" data-cat="all">All Works</button>
+            <button class="filter-chip cat-chip" data-cat="ramayana">Ramayanam</button>
+            <button class="filter-chip cat-chip" data-cat="mahabharata">Mahabharata</button>
+            <button class="filter-chip cat-chip" data-cat="ekashloki">Ekashloki</button>
+            <button class="filter-chip cat-chip" data-cat="panchakam">Panchakams</button>
+            <button class="filter-chip cat-chip" data-cat="ashtakam">Ashtakams</button>
+            <button class="filter-chip cat-chip" data-cat="chalisa">Chalisa</button>
+            <button class="filter-chip cat-chip" data-cat="analysis">Analysis</button>
+          </div>
+
+          <!-- Deity Filters -->
+          <div class="filter-group">
+            <span class="filter-label">Deity:</span>
+            <button class="filter-chip deity-chip filter-chip-accent active" data-deity="all">
+              <img src="images/icons/deities/all.svg" alt="All Deities" class="deity-svg-icon" />
+              <span>All Deities</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="vishnu">
+              <img src="images/icons/deities/vishnu.svg" alt="Vishnu" class="deity-svg-icon" />
+              <span>Vishnu</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="rama">
+              <img src="images/icons/deities/rama.svg" alt="Sri Rama" class="deity-svg-icon" />
+              <span>Sri Rama</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="krishna">
+              <img src="images/icons/deities/krishna.svg" alt="Krishna" class="deity-svg-icon" />
+              <span>Krishna</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="hanuman">
+              <img src="images/icons/deities/hanuman.svg" alt="Hanuman" class="deity-svg-icon" />
+              <span>Hanuman</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="devi">
+              <img src="images/icons/deities/devi.svg" alt="Deviyar" class="deity-svg-icon" />
+              <span>Deviyar</span>
+            </button>
+            <button class="filter-chip deity-chip" data-deity="shiva">
+              <img src="images/icons/deities/shiva.svg" alt="Shiva" class="deity-svg-icon" />
+              <span>Shiva</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Works Catalog Grid -->
+      <section class="catalog-section">
+        <div class="container">
+          <div class="section-header-row">
+            <div>
+              <h2 class="section-title">Collection of Works</h2>
+              <p style="color:var(--text-secondary); font-size:0.95rem; margin-top:0.25rem;">
+                Select a work below to begin reading with Sanskrit text, Tamil adaptation, and illustrations
+              </p>
+            </div>
+          </div>
+
+          <div id="works-grid" class="works-grid">
+            <!-- Dynamically Populated by app.js -->
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Interactive Reader View -->
+    <div id="reader-view" class="reader-view">
+      <!-- Sticky Reader Toolbar -->
+      <div class="reader-toolbar">
+        <div class="container toolbar-inner">
+          <div class="toolbar-left">
+            <a href="#catalog" class="back-btn" title="Back to Works Catalog" aria-label="Back to Works Catalog">
+              <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+              <span>Works</span>
+            </a>
+            <span id="reader-toolbar-title" class="reader-work-pill"></span>
+          </div>
+
+          <div class="toolbar-right">
+            <!-- Section Quick Jump Dropdown Menu with Num Icons -->
+            <div id="reader-section-dropdown" class="custom-section-dropdown" style="display:none;">
+              <button id="reader-section-toggle" class="section-dropdown-btn" aria-haspopup="true" aria-expanded="false" title="Jump to section" aria-label="Jump to section">
+                <span class="dropdown-btn-label">
+                  <i class="fa-solid fa-list-ol" aria-hidden="true" style="color:var(--accent);"></i>
+                  <span id="reader-section-toggle-text">Jump to Section...</span>
+                </span>
+                <i class="fa-solid fa-chevron-down dropdown-arrow" aria-hidden="true"></i>
+              </button>
+              <div id="reader-section-popover" class="section-dropdown-popover" role="menu" aria-label="Sections"></div>
+            </div>
+
+            <!-- Script Toggle Control -->
+            <div class="segmented-control" title="Script display mode" role="group" aria-label="Script display mode">
+              <button class="segment-btn active" data-script="both">Both</button>
+              <button class="segment-btn" data-script="tamil">Tamil</button>
+              <button class="segment-btn" data-script="sanskrit">संस्कृतम्</button>
+            </div>
+
+            <!-- Reading Mode Control -->
+            <div class="segmented-control" title="Reading mode" role="group" aria-label="Reading mode">
+              <button class="segment-btn active" data-mode="cards">Cards</button>
+              <button class="segment-btn" data-mode="chanting">Chanting</button>
+            </div>
+
+            <!-- Font Size Adjuster -->
+            <div class="segmented-control" title="Adjust font size" role="group" aria-label="Adjust font size">
+              <button id="font-decrease-btn" class="segment-btn" title="Smaller text" aria-label="Decrease font size">
+                <span style="font-weight:700;">A</span><i class="fa-solid fa-minus" style="font-size:0.7em; margin-left:2px;" aria-hidden="true"></i>
+              </button>
+              <button id="font-increase-btn" class="segment-btn" title="Larger text" aria-label="Increase font size">
+                <span style="font-weight:700;">A</span><i class="fa-solid fa-plus" style="font-size:0.7em; margin-left:2px;" aria-hidden="true"></i>
+              </button>
+            </div>
+
+            <!-- Print / PDF Action Button -->
+            <button id="reader-print-btn" class="icon-btn" aria-label="Print / Save as PDF" title="Print / Save as PDF">
+              <i class="fa-solid fa-print" aria-hidden="true"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Reader Header Banner -->
+      <div class="container reader-header">
+        <div id="reader-sa-title" class="reader-title-sa"></div>
+        <h1 id="reader-ta-title" class="reader-title-ta"></h1>
+        <div id="reader-en-title" class="reader-title-en"></div>
+        <div id="reader-credits-container" class="reader-credits"></div>
+      </div>
+
+      <!-- Verses Stream Container -->
+      <div class="container-narrow">
+        <div id="verses-container" class="verses-container">
+          <!-- Dynamically Populated by app.js -->
+        </div>
+
+        <!-- Next / Previous Work Navigation -->
+        <div id="reader-nav-footer" class="reader-nav-footer"></div>
+      </div>
+    </div>
+
+    <!-- About Section -->
+    <section id="about-section" class="about-section">
+      <div class="container-narrow">
+        <div class="about-card">
+          <h2 class="about-title">About the Author</h2>
+          
+          <div class="tribute-highlight">
+            "Rendering timeless Sanskrit stotras, philosophical treatises, and devotional epics into mellifluous, metered Tamil poetry for spiritual seekers and devotees worldwide."
+          </div>
+
+          <!-- Author Bio and Photo Presentation -->
+          <div class="about-author-grid">
+            <div class="about-author-bio">
+              <p>
+                <strong>Sri R. Gururaj (திரு. ரா. குருராஜ்)</strong>, a Group A Officer in the Operating Branch of Indian Railways, has a profound lifelong devotion to Tamil and Sanskrit spiritual literature. Although a Mathematics graduate by formal training, his deep love for Tamil was nurtured from childhood by his mother, <strong>Late Smt. S. Rajam</strong>, who was a graduate in Tamil. He acquired foundational knowledge of Sanskrit through courses offered by <em>Samskrita Bharati</em>.
+              </p>
+
+              <p>
+                His literary journey began with the publication of <strong>“Arusuvai Ramayanam”</strong>, a creative work rendering the Ramayana in Tamil poetry across six distinct classical forms (including <em>Samkshepa Ramayanam</em>, <em>Andhadhi Ramayanam</em>, and more). A copy of this book was presented to Maestro <strong>Ilaiyaraaja</strong> on <strong>09.04.2025</strong>. The book was subsequently expanded and republished under the title <strong>“Sapta Ramayanam”</strong>, incorporating a seventh poetic rendition.
+              </p>
+            </div>
+
+            <div class="about-author-photo-card">
+              <div class="about-photo-frame">
+                <img src="images/pictures/author-ilayaraja.jpg" alt="Sri R. Gururaj presenting Arusuvai Ramayanam to Maestro Ilaiyaraaja on 09.04.2025" class="about-author-img" loading="lazy">
+              </div>
+              <div class="about-photo-caption">
+                <i class="fa-solid fa-camera" aria-hidden="true"></i>
+                <span>Sri R. Gururaj presenting <em>Arusuvai Ramayanam</em> to Maestro Ilaiyaraaja (09.04.2025)</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="about-section-divider"></div>
+
+          <!-- The Poetic Adaptation Endeavour -->
+          <h3 class="about-heading"><i class="fa-solid fa-book-open-reader" aria-hidden="true"></i> The Poetic Adaptation Endeavour</h3>
+          
+          <p>
+            With a devotional commitment to share sacred texts with seekers and devotees, Sri R. Gururaj has undertaken the monumental endeavour of adapting 18 classical Sanskrit stotras, philosophical treatises, and epics into metered, rhyming Tamil poetry.
+          </p>
+
+          <p>
+            His corpus includes Valmiki’s <em>Samkshepa Ramayanam</em>, the expansive 300+ verse <em>Andhadhi Ramayanam</em>, Sri <em>Venkatesha Suprabhatam</em>, Sri <em>Vishnu Sahasranamam</em>, and Goswami Tulsidas’s <em>Hanuman Chalisa (Maruthi Naarpathu)</em>.
+          </p>
+
+          <p>
+            Though a follower of the Madhwa tradition (Dvaita), his universal reverence for spiritual wisdom led him to translate several of Adi Shankaracharya’s profound Advaitic masterpieces - such as <em>Bhaja Govindam</em>, <em>Lakshmi Narasimha Karavalambam</em>, and <em>Maneesha Panchakam</em> - inspired by the insightful audio discourses of his Sanskrit Guru, <strong>Dr. Uma Maheshwari</strong>.
+          </p>
+
+          <div class="about-section-divider"></div>
+
+          <!-- Digital Portal Features -->
+          <h3 class="about-heading"><i class="fa-solid fa-compass-drafting" aria-hidden="true"></i> Presentation & Portal Features</h3>
+
+          <p>
+            Each work is presented with strict fidelity to the original Sanskrit texts alongside poetic Tamil adaptations formatted for daily <em>parayanam</em> (recitation), contemplation, and study, enriched by expressive hand-drawn illustrations.
+          </p>
+
+          <div class="about-feature-card">
+            <div class="about-feature-title">
+              <i class="fa-solid fa-dharmachakra" aria-hidden="true"></i>
+              <span>Sri Vishnu Sahasranamam Special Analysis</span>
+            </div>
+            <p class="about-feature-desc">
+              A distinctive highlight of this portal is the comprehensive classification and cross-referencing of the thousand sacred names of Lord Vishnu - categorizing repeating names (occurring twice or thrice), opposite names, twin names, names associated with the Dashavatara, and the Keshavadi Namas. Every entry is directly linked to its corresponding shloka and nama, complete with individual word meanings and Tamil poetic commentary.
+            </p>
+          </div>
+
+          <div class="about-section-divider"></div>
+
+          <!-- Family & Acknowledgements -->
+          <h3 class="about-heading"><i class="fa-solid fa-heart" aria-hidden="true"></i> Acknowledgements & Dedication</h3>
+
+          <p>
+            The author is whole-heartedly encouraged and supported in this literary mission by his wife, <strong>Smt. A. Meenakshi</strong>.
+          </p>
+
+          <p>
+            The conception, architectural design, and development of this web portal were crafted by his son, <strong>Sri G. Pranav</strong>, bringing a serene, aesthetic, and user-friendly digital reading experience to spiritual seekers across the globe.
+          </p>
+
+          <div class="about-prayer-card">
+            <p class="about-prayer-text">
+              May these humble poetic works bring peace, joy, and spiritual upliftment to all who chant these sacred shlokas in Sanskrit and Tamil. We pray for the divine grace and blessings of Lord Vishnu upon all devotees.
+            </p>
+            <div class="about-prayer-sanskrit">॥ सर्वं श्रीकृष्णार्पणमस्तु ॥</div>
+          </div>
+
+          <div class="about-card-footer">
+            <a href="#catalog" class="back-btn" aria-label="Back to Works Catalog">
+              <i class="fa-solid fa-arrow-left" aria-hidden="true"></i>
+              <span>Back to Works Catalog</span>
+            </a>
+            <span class="about-shubham">॥ शुभं भवतु ॥</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Global Live Search Modal -->
+  <div id="search-modal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="search-modal-title">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 id="search-modal-title" class="modal-title">Search Verses & Works</h3>
+        <button id="search-close-btn" class="modal-close-btn" aria-label="Close dialog (Esc)" title="Close (Esc)">
+          <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div class="search-input-wrapper">
+        <i class="fa-solid fa-magnifying-glass" aria-hidden="true" style="color:var(--text-tertiary);"></i>
+        <input type="text" id="search-query-input" class="search-input" placeholder="Type a Sanskrit shloka, Tamil verse line, or keyword..." autocomplete="off" aria-label="Search query">
+      </div>
+      <div id="search-results-list" class="search-results-list">
+        <div style="text-align: center; color: var(--text-tertiary); padding: 2rem 0;">
+          Type a word, deity name, or verse line to search across all texts...
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bookmarks Modal -->
+  <div id="bookmarks-modal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="bookmarks-modal-title">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 id="bookmarks-modal-title" class="modal-title">
+          <i class="fa-solid fa-star" style="color:var(--accent-gold); margin-right:0.4rem;" aria-hidden="true"></i> Saved Verses & Bookmarks
+        </h3>
+        <button id="bookmarks-close-btn" class="modal-close-btn" aria-label="Close dialog (Esc)" title="Close (Esc)">
+          <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div id="bookmarks-list" class="search-results-list">
+        <!-- Populated by app.js -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Image Zoom Lightbox Modal -->
+  <div id="lightbox-modal" class="modal-backdrop lightbox-modal" role="dialog" aria-modal="true" aria-labelledby="lightbox-caption">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3 id="lightbox-caption" class="modal-title">Artwork & Illustration View</h3>
+        <button id="lightbox-close-btn" class="modal-close-btn" aria-label="Close dialog (Esc)" title="Close (Esc)">
+          <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div class="lightbox-img-container">
+        <img id="lightbox-img" src="" alt="Expanded artwork view">
+      </div>
+    </div>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <h4>Tamskritam (தம்ஸ்கிருதம்)</h4>
+        <p>
+          Classical Sanskrit hymns adapted into melodious Tamil poetry. A dedicated spiritual portal for chanting, reading, and contemplating ancient sacred texts in Tamil.
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <h5>Quick Links</h5>
+        <ul>
+          <li><a href="#catalog">All Works</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-links">
+        <h5>Information</h5>
+        <ul>
+          <li><a href="#about">About the Author</a></li>
+          <li><a href="https://github.com/tamskritam/tamskritam.github.io" target="_blank" rel="noopener">GitHub Repository</a></li>
+          <li><a href="#" onclick="window.scrollTo({top:0, behavior:'smooth'}); return false;">Back to Top <i class="fa-solid fa-arrow-up" style="margin-left:4px;" aria-hidden="true"></i></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <div class="footer-license">
+        <div>
+          This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width: 1em;max-height:1em;margin-left: .2em; vertical-align: -0.12em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width: 1em;max-height:1em;margin-left: .2em; vertical-align: -0.12em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="max-width: 1em;max-height:1em;margin-left: .2em; vertical-align: -0.12em;">
+        </div>
+        <div class="footer-license-explainer">
+          Free to share, copy, and adapt with attribution to Sri R. Gururaj under the same license.
+        </div>
+      </div>
+      <div class="footer-prayer">
+        ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
 </html>

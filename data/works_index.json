@@ -1,0 +1,582 @@
+[
+  {
+    "id": "venkatesha-suprabhatam",
+    "title_ta": "வேங்கடேச சுப்ரபாதம்",
+    "title_sa": "श्रीवेङ्कटेशसुप्रभातम",
+    "title_en": "Sri Venkatesha Suprabhatam",
+    "category": "stotra",
+    "categories": [
+      "stotra"
+    ],
+    "deity": "vishnu",
+    "total_verses": 70,
+    "sections": [
+      "பாகம் 1 - சுப்ரபாதம் (Suprabhatam)",
+      "பாகம் 2 - ஸ்தோத்ரம் (Stotram)",
+      "பாகம் 3 - ப்ரபத்தி (Prapatti)",
+      "பாகம் 4 - மங்களாசாஸனம் (Mangalasasanam)"
+    ],
+    "icon": "images/icons/works/venkatesha-suprabhatam.svg",
+    "summary": "திருவேங்கடமுடையானின் காலைத் துயிலெழுப்பும் சுப்ரபாதம், ஸ்தோத்ரம், பிரபத்தி, மங்களாசாசனம் அடங்கிய நான்கு பகுதிகளின் எளிய தமிழாக்கம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "பிரதிவாதி பயங்கரம் அண்ணங்கராச்சாரியார்",
+    "illustrator": "",
+    "author_title": "பிரதிவாதி பயங்கரம்",
+    "author_name": "அண்ணங்கராச்சாரியார்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பிரதிவாதி பயங்கரம்",
+        "name": "அண்ணங்கராச்சாரியார்"
+      }
+    ]
+  },
+  {
+    "id": "mahalakshmi-ashtakam",
+    "title_ta": "மஹாலக்ஷ்மி அஷ்டகம்",
+    "title_sa": "महालक्ष्म्यष्टकम्",
+    "title_en": "Mahalakshmi Ashtakam",
+    "category": "ashtakam",
+    "categories": [
+      "ashtakam",
+      "stotra"
+    ],
+    "deity": "devi",
+    "total_verses": 10,
+    "sections": [
+      "அஷ்டகம் (Ashtakam)",
+      "பலச்ருதி (Phala Shruti)"
+    ],
+    "icon": "images/icons/works/mahalakshmi-ashtakam.svg",
+    "summary": "அஷ்ட ஐஸ்வர்யங்களையும் மங்களத்தையும் அருளும் அலைமகள் மஹாலக்ஷ்மியின் எட்டு சுலோகங்களின் இனிய தமிழ் வடிவம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "இந்திரன் (பத்ம புராணம்)",
+    "illustrator": "",
+    "author_title": "தேவராஜன்",
+    "author_name": "இந்திரன்",
+    "source_work": "பத்ம புராணம்",
+    "authors": [
+      {
+        "title": "தேவராஜன்",
+        "name": "இந்திரன்"
+      }
+    ]
+  },
+  {
+    "id": "samkshepa-ramayanam",
+    "title_ta": "சம்க்ஷேப ராமாயணம்",
+    "title_sa": "सङ्क्षेपरामायणम्",
+    "title_en": "Samkshepa Ramayanam",
+    "category": "ramayana",
+    "categories": [
+      "ramayana",
+      "stotra"
+    ],
+    "deity": "rama",
+    "total_verses": 129,
+    "sections": [
+      "பகுதி 1: தியானச் சுலோகங்கள் (Part I: Dhyana Shlokas)",
+      "பகுதி 2: ஸ்ரீராம தியானம் (Part II: Shri Rama Dhyanam)",
+      "பகுதி 3: ஆஞ்சநேய தியானம் (Part III: Anjaneya Dhyanam)",
+      "பகுதி 4: ஸ்வஸ்தி வாசகம் (Part IV: Swasti Vachakam)",
+      "பகுதி 5: சம்க்ஷேப ராமாயணம் (Part V: Samkshepa Ramayanam)",
+      "பகுதி 6: மங்களச் சுலோகங்கள் (Part VI: Mangala Shlokas)"
+    ],
+    "icon": "images/icons/works/samkshepa-ramayanam.svg",
+    "summary": "வால்மீகி முனிவருக்கு நாரதர் உபதேசித்த 100 சுலோகங்களைக் கொண்ட ராம காவியத்தின் சுருக்கம் - ஆறு பகுதிகளாக எளிய தமிழில்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "வால்மீகி மகரிஷி (ஸ்ரீமத் ராமாயணம் - பால காண்டம்)",
+    "illustrator": "",
+    "author_title": "மகரிஷி",
+    "author_name": "வால்மீகி",
+    "source_work": "ஸ்ரீமத் ராமாயணம் (பால காண்டம்)",
+    "authors": [
+      {
+        "title": "மகரிஷி",
+        "name": "வால்மீகி"
+      }
+    ]
+  },
+  {
+    "id": "andhadhi-ramayanam",
+    "title_ta": "அந்தாதி ராமாயணம்",
+    "title_sa": "अन्तादि रामायणम्",
+    "title_en": "Andhadhi Ramayanam",
+    "category": "ramayana",
+    "categories": [
+      "ramayana"
+    ],
+    "deity": "rama",
+    "total_verses": 303,
+    "sections": [
+      "பொருளடக்கம் (Index)",
+      "1) ஸ்ரீராம ஜனனம்",
+      "2) யாகம் காத்தல்",
+      "3) வைதேகி விவாகம்",
+      "4) கைகேயி வரம்",
+      "5) வனம் கிளம்புதல்",
+      "6) சித்திரகூடம்"
+    ],
+    "icon": "images/icons/works/andhadhi-ramayanam.svg",
+    "summary": "அந்தாதித் தொடையில் 45 அத்தியாயங்களில் ராம காவியம் முழுவதையும் சொல்லும் எழிலார்ந்த 302 தமிழ்ப் பாக்கள்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "வால்மீகி மகரிஷி (கதை மூலம்)",
+    "illustrator": "",
+    "author_title": "மகரிஷி",
+    "author_name": "வால்மீகி",
+    "source_work": "கதை மூலம்",
+    "authors": [
+      {
+        "title": "மகரிஷி",
+        "name": "வால்மீகி"
+      }
+    ]
+  },
+  {
+    "id": "hanuman-chalisa",
+    "title_ta": "ஸ்ரீ ஹனுமான் சாலீஸா",
+    "title_sa": "हनुमान् चालीसा",
+    "title_en": "Hanuman Chalisa",
+    "category": "chalisa",
+    "categories": [
+      "chalisa",
+      "stotra"
+    ],
+    "deity": "hanuman",
+    "total_verses": 43,
+    "sections": [
+      "பகுதி 1: ஆரம்ப தோஹா (Part I: Opening Doha)",
+      "பகுதி 2: ஸ்ரீ ஹனுமான் சாலீஸா (Part II: Hanuman Chalisa)",
+      "பகுதி 3: மங்கள ஸ்லோகம் / நிறைவு தோஹா (Part III: Mangala Shlokam)"
+    ],
+    "icon": "images/icons/works/hanuman-chalisa.svg",
+    "summary": "துளசிதாசர் அருளிய ஹனுமான் சாலீஸாவின் இனிய தமிழாக்கமும் தேவ்தத் பட்நாயக் பாணியிலான 40 கைவண்ண ஓவியங்களும்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "துளசிதாசர் (அவதி மொழி மூலம்)",
+    "illustrator": "சுரேஷ் குப்புஸ்வாமி (தேவ்தத் பட்நாயக் ஓவியங்களைத் தழுவி)",
+    "illustrator_name": "சுரேஷ் குப்புஸ்வாமி",
+    "author_title": "கோஸ்வாமி",
+    "author_name": "துளசிதாசர்",
+    "source_work": "அவதி மொழி மூலம்",
+    "authors": [
+      {
+        "title": "கோஸ்வாமி",
+        "name": "துளசிதாசர்"
+      }
+    ]
+  },
+  {
+    "id": "lakshmi-nrusimha-karavalambam",
+    "title_ta": "லக்ஷ்மி நரசிம்ம கராவலம்ப ஸ்தோத்ரம்",
+    "title_sa": "लक्ष्मीनृसिंहकरावलम्बस्तोत्रम्",
+    "title_en": "Lakshmi Nrusimha Karavalambam",
+    "category": "stotra",
+    "categories": [
+      "stotra"
+    ],
+    "deity": "vishnu",
+    "total_verses": 17,
+    "sections": [
+      "ஸ்தோத்ரம் (Stotram)"
+    ],
+    "icon": "images/icons/works/lakshmi-nrusimha-karavalambam.svg",
+    "summary": "சம்சாரப் பெருங்கடலில் அல்லலுறும் ஆன்மாவைக் காக்க நரசிம்மப் பெருமானின் திருக்கரங்களை இறைஞ்சும் 17 அருள்சுலோகங்கள்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஆதி சங்கராச்சாரியார்",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு",
+    "author_name": "ஆதி சங்கரர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ஆதி சங்கரர்"
+      }
+    ]
+  },
+  {
+    "id": "bhaja-govindam",
+    "title_ta": "பஜ கோவிந்தம் (மோஹ முத்கரம்)",
+    "title_sa": "भज गोविन्दम्",
+    "title_en": "Bhaja Govindam",
+    "category": "stotra",
+    "categories": [
+      "stotra"
+    ],
+    "deity": "krishna",
+    "total_verses": 31,
+    "sections": [
+      "ஸ்தோத்ரம் (Stotram)"
+    ],
+    "icon": "images/icons/works/bhaja-govindam.svg",
+    "summary": "மாயை அகற்றி மெய்ஞானம் ஊட்டும் ஆதிசங்கரரின் 31 மெய்யறிவுப் பாக்கள் - ஒவ்வொரு சுலோகத்திலும் சீடர்களின் பெயர்களுடன்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஆதி சங்கராச்சாரியார் & சீடர்கள்",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு",
+    "author_name": "ஆதி சங்கரர் & சீடர்கள்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ஆதி சங்கரர்"
+      },
+      {
+        "title": "",
+        "name": "சீடர்கள்"
+      }
+    ]
+  },
+  {
+    "id": "annapoornashtakam",
+    "title_ta": "அன்னபூரணி அஷ்டகம்",
+    "title_sa": "अन्नपूर्णाष्टकम्",
+    "title_en": "Annapoornashtakam",
+    "category": "ashtakam",
+    "categories": [
+      "ashtakam",
+      "stotra"
+    ],
+    "deity": "devi",
+    "total_verses": 12,
+    "sections": [
+      "ஸ்தோத்ரம் (Stotram)"
+    ],
+    "icon": "images/icons/works/annapoornashtakam.svg",
+    "summary": "காசி விசாலாட்சி அன்னபூரணியின் திருவருளையும் ஞான வைராக்கியத்தையும் வேண்டுதற்கான 12 அருள்சுலோகங்கள்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஆதி சங்கராச்சாரியார்",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு",
+    "author_name": "ஆதி சங்கரர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ஆதி சங்கரர்"
+      }
+    ]
+  },
+  {
+    "id": "meenakshi-pancharatnam",
+    "title_ta": "மீனாக்ஷி பஞ்சரத்னம்",
+    "title_sa": "मीनाक्षीपञ्चरत्नम्",
+    "title_en": "Meenakshi Pancharatnam",
+    "category": "panchakam",
+    "categories": [
+      "panchakam",
+      "stotra"
+    ],
+    "deity": "devi",
+    "total_verses": 5,
+    "sections": [
+      "ஸ்தோத்ரம் (Stotram)"
+    ],
+    "icon": "images/icons/works/meenakshi-pancharatnam.svg",
+    "summary": "மதுரை மீனாட்சி சுந்தரேஸ்வரரின் தேவியைப் போற்றும் ஆதிசங்கரரின் ஐந்து நவரத்தினச் சுலோகங்கள்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஆதி சங்கராச்சாரியார்",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு",
+    "author_name": "ஆதி சங்கரர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ஆதி சங்கரர்"
+      }
+    ]
+  },
+  {
+    "id": "maneesha-panchakam",
+    "title_ta": "மனிஷா பஞ்சகம்",
+    "title_sa": "मनीषापञ्चकम्",
+    "title_en": "Maneesha Panchakam",
+    "category": "panchakam",
+    "categories": [
+      "panchakam",
+      "stotra"
+    ],
+    "deity": "shiva",
+    "total_verses": 9,
+    "sections": [
+      "பகுதி 1: காசியில் வழிப்போக்கரின் வினாக்கள் (Part I: Questions by a Passerby in Kashi)",
+      "பகுதி 2: ஆதி சங்கரரின் அருளுரை (Part II: Answers by Adhi Shankara)"
+    ],
+    "icon": "images/icons/works/maneesha-panchakam.svg",
+    "summary": "காசி நகரில் சிவனடியாரான சண்டாளரின் கேள்வியும் அதற்கு ஆதிசங்கரரின் அத்வைத ஞான விளக்கமும் கொண்ட இருபகுதிப் படைப்பு.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஆதி சங்கராச்சாரியார் & சிவபெருமான்",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு & மஹாதேவன்",
+    "author_name": "ஆதி சங்கரர் & சிவபெருமான்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ஆதி சங்கரர்"
+      },
+      {
+        "title": "மஹாதேவன்",
+        "name": "சிவபெருமான்"
+      }
+    ]
+  },
+  {
+    "id": "ramashtakam",
+    "title_ta": "ராமாஷ்டகம்",
+    "title_sa": "श्रीरामाष्टकम्",
+    "title_en": "Ramashtakam",
+    "category": "ashtakam",
+    "categories": [
+      "ashtakam",
+      "stotra",
+      "ramayana"
+    ],
+    "deity": "rama",
+    "total_verses": 9,
+    "sections": [
+      "அஷ்டகம் (Ashtakam)",
+      "பலச்ருதி (Phala Shruti)"
+    ],
+    "icon": "images/icons/works/ramashtakam.svg",
+    "summary": "வியாச பகவான் அருளிய ரகுநாதனின் எட்டு திவ்ய சுலோகங்களும் அதன் பலச்ருதியும் எளிய தமிழில்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "வியாச பகவான்",
+    "illustrator": "",
+    "author_title": "பகவான்",
+    "author_name": "வியாசர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பகவான்",
+        "name": "வியாசர்"
+      }
+    ]
+  },
+  {
+    "id": "shyamala-dandakam",
+    "title_ta": "ஷ்யாமளா தண்டகம்",
+    "title_sa": "श्यामलादण्डकम्",
+    "title_en": "Shyamala Dandakam",
+    "category": "stotra",
+    "categories": [
+      "stotra"
+    ],
+    "deity": "devi",
+    "total_verses": 10,
+    "sections": [
+      "பகுதி 1: ஸ்தோத்ரம் (Part I: Stotram)",
+      "பகுதி 2: தண்டகம் (Part II: Dandakam)",
+      "பகுதி 3: மங்களம் (Part III: Mangalam)"
+    ],
+    "icon": "images/icons/works/shyamala-dandakam.svg",
+    "summary": "வாக்தேவி ராஜஷ்யாமளையின் பேரழகையும் இசைக்கலை நயத்தையும் பாடும் காளிதாசனின் ஒப்பற்ற தண்டகப் பிரபந்தம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "மகாகவி காளிதாசன்",
+    "illustrator": "",
+    "author_title": "மகாகவி",
+    "author_name": "காளிதாசன்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "மகாகவி",
+        "name": "காளிதாசன்"
+      }
+    ]
+  },
+  {
+    "id": "ekashloki-ramayanam",
+    "title_ta": "ஏகஸ்லோக ராமாயணம்",
+    "title_sa": "एकश्लोकी रामायणम्",
+    "title_en": "Ekashloki Ramayanam",
+    "category": "ekashloki",
+    "categories": [
+      "ekashloki",
+      "ramayana"
+    ],
+    "deity": "rama",
+    "total_verses": 1,
+    "sections": [
+      "ஏகஸ்லோகம் (Ekashloki)"
+    ],
+    "icon": "images/icons/works/ekashloki-ramayanam.svg",
+    "summary": "ஒரே சுலோகத்தில் ராமாயணத்தின் ஏழு காண்டங்களையும் முழுமையாக உணர்த்தும் அற்புதத் தமிழ் வடிவம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "பாரம்பரிய சுலோகம்",
+    "illustrator": "",
+    "author_title": "பாரம்பரியம்",
+    "author_name": "வால்மீகி மரபு",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பாரம்பரியம்",
+        "name": "வால்மீகி மரபு"
+      }
+    ]
+  },
+  {
+    "id": "ekashloki-bhagavatham",
+    "title_ta": "ஏகஸ்லோக பாகவதம்",
+    "title_sa": "एकश्लोकी भागवतम्",
+    "title_en": "Ekashloki Bhagavatham",
+    "category": "ekashloki",
+    "categories": [
+      "ekashloki"
+    ],
+    "deity": "krishna",
+    "total_verses": 1,
+    "sections": [
+      "ஏகஸ்லோகம் (Ekashloki)"
+    ],
+    "icon": "images/icons/works/ekashloki-bhagavatham.svg",
+    "summary": "கண்ணனின் அவதாரம், பூதனை வதம், கோவர்த்தன தாரணம், கீதோபதேசம் ஆகிய அனைத்தையும் கூறும் ஒரே பாடல் பாகவதம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "பாரம்பரிய சுலோகம்",
+    "illustrator": "",
+    "author_title": "பாரம்பரியம்",
+    "author_name": "வியாச மரபு",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பாரம்பரியம்",
+        "name": "வியாச மரபு"
+      }
+    ]
+  },
+  {
+    "id": "ekashloki-bharatham",
+    "title_ta": "ஏகஸ்லோக பாரதம்",
+    "title_sa": "एकश्लोकी महाभारतम्",
+    "title_en": "Ekashloki Bharatham",
+    "category": "mahabharata",
+    "categories": [
+      "mahabharata",
+      "ekashloki"
+    ],
+    "deity": "krishna",
+    "total_verses": 1,
+    "sections": [
+      "ஏகஸ்லோகம் (Ekashloki)"
+    ],
+    "icon": "images/icons/works/ekashloki-bharatham.svg",
+    "summary": "பாண்டவர் கௌரவர் பிறப்பு முதல் குருக்ஷேத்திர யுத்தம் வரையிலான மகாபாரதக் கதையை 10 வரிகளில் உரைக்கும் பத்துவரிப் பாரதம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "பாரம்பரிய சுலோகம்",
+    "illustrator": "",
+    "author_title": "பாரம்பரியம்",
+    "author_name": "வியாச மரபு",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பாரம்பரியம்",
+        "name": "வியாச மரபு"
+      }
+    ]
+  },
+  {
+    "id": "ekashloki-sundara-kandam",
+    "title_ta": "ஏகஸ்லோக சுந்தர காண்டம்",
+    "title_sa": "एकश्लोकी सुन्दरकाण्डम्",
+    "title_en": "Ekashloki Sundara Kandam",
+    "category": "ekashloki",
+    "categories": [
+      "ekashloki",
+      "ramayana"
+    ],
+    "deity": "hanuman",
+    "total_verses": 1,
+    "sections": [
+      "ஏகஸ்லோகம் (Ekashloki)"
+    ],
+    "icon": "images/icons/works/ekashloki-sundara-kandam.svg",
+    "summary": "சுந்தர காண்டத்தின் சமுத்திர லங்கனம், சீதா தரிசனம், லங்கா தகனம் அனைத்தையும் ஒற்றைப் பாசுரத்தில் விவரிக்கும் பாடல்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஸ்ரீ ராகவேந்திர ஸ்வாமி",
+    "illustrator": "",
+    "author_title": "ஜகத்குரு",
+    "author_name": "ராகவேந்திர ஸ்வாமி",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "ஜகத்குரு",
+        "name": "ராகவேந்திர ஸ்வாமி"
+      }
+    ]
+  },
+  {
+    "id": "vishnu-sahasranamam",
+    "title_ta": "ஸ்ரீ விஷ்ணு சஹஸ்ரநாமம் - ஹரிநாமம் ஆயிரம்",
+    "title_sa": "श्रीविष्णुसहस्रनामस्तोत्रम्",
+    "title_en": "Sri Vishnu Sahasranamam",
+    "category": "stotra",
+    "categories": [
+      "stotra",
+      "mahabharata"
+    ],
+    "deity": "vishnu",
+    "total_verses": 171,
+    "sections": [
+      "பகுதி 1: ஆரம்ப ஸ்தோத்ரம் (Part I: Initial Stotram)",
+      "பகுதி 2: பீஷ்ம - யுதிஷ்டிரர் உரையாடல் (Part II: Bheeshma - Yudhishthira Samvadam)",
+      "பகுதி 3: பூர்வ நியாஸம் (Part III: Poorva Nyaasam)",
+      "பகுதி 4: தியான ஸ்லோகங்கள் (Part IV: Dhyana Shlokas)",
+      "பகுதி 5: ஸ்ரீ விஷ்ணு சஹஸ்ரநாம ஸ்தோத்ரம் (Part V: 108 Shlokas & 1000 Divya Namas)",
+      "பகுதி 6: பலச்ருதி (Part VI: Phala Shruti / Benefits of Recitation)"
+    ],
+    "icon": "images/icons/works/vishnu-sahasranamam.svg",
+    "summary": "மகாபாரத சாந்தி பர்வத்தில் பீஷ்மர் தருமருக்கு அருளிய எம்பெருமான் விஷ்ணுவின் 1000 திருநாமங்களும், 108 அருள்சுலோகங்களும், உரையாடல், நியாஸம், தியானம், பலச்ருதி, நாம விளக்கங்களுடன் முழுமையான தமிழ் வடிவம்.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "வியாச பகவான் & பீஷ்மர்",
+    "illustrator": "",
+    "author_title": "மகரிஷி & பிதாமகர்",
+    "author_name": "வியாசர் & பீஷ்மர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "மகரிஷி",
+        "name": "வியாசர்"
+      },
+      {
+        "title": "பிதாமகர்",
+        "name": "பீஷ்மர்"
+      }
+    ]
+  },
+  {
+    "id": "vishnu-sahasranamam-analysis",
+    "title_ta": "விஷ்ணு சஹஸ்ரநாமம் சிறப்புப் பகுப்பாய்வு",
+    "title_sa": "विष्णुसहस्रनाम विशेष विश्लेषणम्",
+    "title_en": "Vishnu Sahasranamam Special Analysis",
+    "category": "analysis",
+    "categories": [
+      "analysis",
+      "mahabharata"
+    ],
+    "deity": "vishnu",
+    "total_verses": 30,
+    "sections": [
+      "1) Repeated Twice",
+      "2) Repeated Thrice",
+      "3) Repeated Four times",
+      "4) Two Names repeating as twins",
+      "5) Repeated very closely",
+      "6) Shlokas starting with same Word [or] Letters",
+      "7) Opposites in Adjacent Names"
+    ],
+    "icon": "images/icons/works/vishnu-sahasranamam-analysis.svg",
+    "summary": "ஸ்ரீ விஷ்ணு சஹஸ்ரநாமத்தில் அமைந்துள்ள 1000 திருநாமங்களின் 30 அத்தியாய விரிவான சிறப்புப் பகுப்பாய்வு (Special Analysis). மீண்டும் வரும் திருநாமங்கள், ஜோடிப் பெயர்கள், எதிர்ச்சொற்கள், கேசவாதி திருநாமங்கள், அவதாரங்கள், ஆயுதங்கள், எண்கள், தத்துவ முன்னொட்டுகள் மற்றும் விகுதி அமைப்புகள் உள்ளிட்ட 179-க்கும் மேற்பட்ட அட்டவணைகளின் முழுமையான தொகுப்பு.",
+    "translator": "ரா.குருராஜ்",
+    "original_author": "ஸ்ரீ பீஷ்மர் / பாரம்பரிய பகுப்பாய்வு",
+    "illustrator": "",
+    "author_title": "பிதாமகர்",
+    "author_name": "பீஷ்மர்",
+    "source_work": "",
+    "authors": [
+      {
+        "title": "பிதாமகர்",
+        "name": "பீஷ்மர்"
+      }
+    ]
+  }
+]
