@@ -396,6 +396,11 @@ img {
   display: none;
 }
 
+/* Hide search text label on small screens — icon-only search button */
+.search-trigger-btn-text {
+  display: inline;
+}
+
 /* --- Hero Section --- */
 .hero-section {
   position: relative;
@@ -736,7 +741,7 @@ img {
 
 .works-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   gap: 1.75rem;
 }
 
@@ -2035,7 +2040,7 @@ img {
 
 .names-breakdown-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
   gap: 0.85rem;
   padding: 1rem;
   background: var(--bg-surface-subtle);
@@ -2564,7 +2569,7 @@ img {
 
 .andhadhi-index-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr));
   gap: 0.65rem;
 }
 
@@ -3149,6 +3154,128 @@ img {
   .toolbar-left, .toolbar-right {
     justify-content: space-between;
   }
+  /* About section */
+  .about-card {
+    padding: 1.5rem 1.25rem;
+  }
+  /* Names breakdown grid: single col on very small screens */
+  .names-breakdown-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Andhadhi index grid: single col */
+  .andhadhi-index-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Section dropdown: don't force a min-width */
+  .section-dropdown-btn {
+    min-width: 0;
+  }
+}
+
+/* Ultra-small screens (≤ 480px) */
+@media (max-width: 480px) {
+  /* Collapse search button to icon-only */
+  .search-trigger-btn-text,
+  .search-trigger-btn span[style] {
+    display: none;
+  }
+  .search-trigger-btn {
+    gap: 0;
+    padding: 0.45rem 0.65rem;
+  }
+  /* Reduce header gap so all items fit */
+  .header-inner {
+    gap: 0.5rem;
+  }
+  .header-actions {
+    gap: 0.4rem;
+  }
+  /* Reduce icon button size slightly */
+  .icon-btn {
+    width: 36px;
+    height: 36px;
+  }
+  /* Toolbar right: allow wrapping and smaller segments */
+  .toolbar-right {
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    row-gap: 0.4rem;
+  }
+  .segmented-control {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+  .segment-btn {
+    flex: 1;
+    font-size: 0.75rem;
+    padding: 0.3rem 0.45rem;
+  }
+  /* Section dropdown: allow shrinking */
+  .section-dropdown-btn {
+    min-width: 0;
+    max-width: 100%;
+  }
+  /* Filter chip row: allow smaller chips */
+  .filter-chip {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.65rem;
+  }
+  /* Hero subtitle: reduce font size */
+  .hero-subtitle {
+    font-size: 1.05rem;
+  }
+  /* Author tribute pill: allow wrapping */
+  .author-tribute-pill {
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+  }
+  /* Works grid min-width guard (ensure cards never force overflow) */
+  .works-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Verse media containers: full width on tiny screens */
+  .verse-media-container.media-single,
+  .verse-media-container.media-pair,
+  .verse-media-container.media-gallery-small,
+  .verse-media-container.media-gallery-large,
+  .verse-media-container.media-vertical,
+  .verse-media-container.media-matrix-3x2,
+  .verse-media-container.media-matrix-5x3,
+  .verse-media-container.media-grid-3cols,
+  .verse-media-container.media-matrix-2x2,
+  .verse-media-container.media-2rows,
+  .verse-media-container.media-matrix-3-3-1,
+  .verse-media-container.media-matrix-2-2-1 {
+    width: 100%;
+  }
+  /* Section dropdown popover: full width so it doesn't bleed off screen */
+  .section-dropdown-popover {
+    left: 0;
+    right: auto;
+    min-width: min(270px, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+  }
+  /* Names breakdown grid */
+  .names-breakdown-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Andhadhi index grid: single column */
+  .andhadhi-index-grid {
+    grid-template-columns: 1fr;
+  }
+  /* About card */
+  .about-card {
+    padding: 1.25rem 1rem;
+  }
+  /* Reader nav footer: stack vertically */
+  .reader-nav-footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .reader-nav-btn {
+    justify-content: center;
+  }
 }
 
 /* ==========================================================================
@@ -3217,7 +3344,7 @@ img {
 
 .about-author-grid {
   display: grid;
-  grid-template-columns: 1fr 340px;
+  grid-template-columns: 1fr minmax(min(280px, 100%), 340px);
   gap: 2.5rem;
   align-items: start;
   margin-bottom: 1rem;
