@@ -61,6 +61,7 @@
   --accent-gold: #CA8A04;
   --sanskrit-color: #800000; /* Thick Maroon */
   --tamil-color: #001F3F; /* Navy Blue */
+  --meaning-poem-color: #7C2D12; /* Deep maroon */
   --badge-bg: #FEF3C7;
   --badge-text: #92400E;
   --header-bg: rgba(250, 248, 245, 0.85);
@@ -95,6 +96,7 @@
   --accent-gold: #FCD34D;
   --sanskrit-color: #FF8A80; /* Radiant Coral Maroon for Dark Mode */
   --tamil-color: #93C5FD; /* Radiant Navy Blue for Dark Mode */
+  --meaning-poem-color: #FDBA74;
   --badge-bg: #2C2210;
   --badge-text: #FBBF24;
   --header-bg: rgba(11, 15, 23, 0.88);
@@ -129,6 +131,7 @@
   --accent-gold: #A16207;
   --sanskrit-color: #7B1113; /* Deep Thick Maroon */
   --tamil-color: #0A2240; /* Deep Navy Blue */
+  --meaning-poem-color: #7F1D1D;
   --badge-bg: #EAD5A8;
   --badge-text: #78350F;
   --header-bg: rgba(244, 236, 216, 0.88);
@@ -1621,6 +1624,15 @@ img {
   font-size: 0.925rem;
   color: var(--text-secondary);
   line-height: 1.6;
+}
+
+/* Meaning/notes set like the Tamil poetry (no indentation), in a distinct colour */
+.verse-meaning-poem {
+  font-family: var(--font-tamil);
+  font-size: var(--verse-font-size);
+  line-height: var(--verse-line-height);
+  font-weight: 500;
+  color: var(--meaning-poem-color);
 }
 
 /* Verse Media / Drawings Responsive Layouts */
