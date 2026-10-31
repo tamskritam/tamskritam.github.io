@@ -671,7 +671,7 @@ const ReaderView = {
                   ${v.sanskrit_refrain ? `<div class="sanskrit-refrain-line">${v.sanskrit_refrain}</div>` : ''}
                 </div>
               ` : ''}
-              ${v.tamil ? `<div class="verse-tamil">${formattedTamilHtml}</div>` : ''}
+              ${v.intro_html ? `<div class="verse-tamil verse-intro-prose">${v.intro_html}</div>` : (v.tamil ? `<div class="verse-tamil">${formattedTamilHtml}</div>` : '')}
               ${v.shloka_author ? `<div class="verse-shloka-author">${v.shloka_author}</div>` : ''}
               ${v.chorus ? `<div class="verse-chorus-line"><i class="fa-solid fa-om" style="margin-right:0.35rem;"></i> ${v.chorus}</div>` : ''}
               ${v.meaning ? `<div class="verse-meaning ${state.currentWork.meaning_style === 'poem' ? 'verse-meaning-poem' : ''}">${state.currentWork.meaning_style === 'poem' ? '' : '<strong>Notes / Meaning:</strong> '}${v.meaning}</div>` : ''}

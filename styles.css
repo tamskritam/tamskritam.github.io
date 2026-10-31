@@ -3588,3 +3588,43 @@ img {
     padding: 2rem 1.5rem;
   }
 }
+
+/* Narayaneeyam: justified prose, prologue paragraphs/bullets, 8.2 table second part */
+.verse-meaning-poem {
+  text-align: justify;
+}
+
+.verse-intro-prose {
+  text-align: justify;
+}
+
+.verse-intro-prose p {
+  margin: 0 0 1.5em;
+}
+
+.verse-intro-prose ul {
+  margin: 0 0 1.5em;
+  padding-left: 1.5rem;
+}
+
+.verse-intro-prose li {
+  margin-bottom: 1.5em;
+  padding-left: 0.25rem;
+}
+
+.analysis-table tbody tr.table-part-2 td {
+  background: #FEF3C7;
+}
+
+[data-theme="dark"] .analysis-table tbody tr.table-part-2 td {
+  background: #3B2F14;
+}
+
+[data-theme="sepia"] .analysis-table tbody tr.table-part-2 td {
+  background: #F1E2B8;
+}
+
+.about-card p,
+.about-author-bio p {
+  text-align: justify;
+}
