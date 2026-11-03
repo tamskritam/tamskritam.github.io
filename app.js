@@ -715,10 +715,11 @@ const ReaderView = {
             
             ${hasImages ? `
               <div class="verse-media-container ${mediaLayoutClass}">
-                ${v.images.map(img => `
+                ${v.images.map((img, imgIdx) => `
                   <div class="verse-image-wrapper" onclick="Lightbox.open('${img}', '${state.currentWork.title_ta} - Verse ${v.verse_num || 'Introduction'}')" title="Click to view image in high-resolution">
                     <img src="${img}" alt="Illustration for ${state.currentWork.title_ta} verse ${v.verse_num || ''}" loading="lazy" onerror="this.parentElement.style.display='none'">
                     <span class="verse-zoom-hint"><i class="fa-solid fa-magnifying-glass-plus" aria-hidden="true"></i> Zoom</span>
+                    ${v.image_captions && v.image_captions[imgIdx] ? `<span class="verse-image-caption">${v.image_captions[imgIdx]}</span>` : ''}
                   </div>
                 `).join('')}
               </div>
