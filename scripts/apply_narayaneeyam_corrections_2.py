@@ -68,7 +68,7 @@ CROPS[("81.10", 1)] = (0.12, 0, 0.72, 1)
 #   box   - everything in the box
 INPAINT = {
     ("20.5", 1): [("box", (0.33, 0.90, 0.63, 0.935))],
-    ("19.6", 1): [("box", (0.015, 0.785, 0.115, 0.865))],
+    ("19.6", 1): [("box", (0.0, 0.76, 0.17, 0.866))],
     ("31.5", 1): [("dark", (0.14, 0, 0.49, 0.08))],
     ("31.9", 1): [("dark", (0, 0, 0.265, 0.075))],
     ("31.10", 1): [("dark", (0, 0, 0.452, 0.37)), ("dark", (0, 0.37, 0.222, 0.425))],
@@ -139,23 +139,32 @@ def inpaint(path, specs):
             gray = arr.astype(int).mean(axis=2)
             fig = cv2.dilate(((sat >= 45) | (gray < 150)).astype(np.uint8), np.ones((9, 9), np.uint8)) > 0
             m = ((sat[y0:y1, x0:x1] < 45) & (gray[y0:y1, x0:x1] > 150) & ~fig[y0:y1, x0:x1]).astype(np.uint8) * 255
+        elif mode == "white":
+            m = ((sat[y0:y1, x0:x1] < 28) & (region.min(axis=2) > 222)).astype(np.uint8) * 255
         elif mode == "yellow":
             m = ((region[:, :, 0] > 190) & (region[:, :, 1] > 150) & (region[:, :, 2] < 120)).astype(np.uint8) * 255
         else:
             raise ValueError(mode)
         if mode != "box":
-            m = cv2.dilate(m, np.ones((3 if mode == "dark" else 5,) * 2, np.uint8))
+            m = cv2.dilate(m, np.ones(({"dark": 3, "white": 9}.get(mode, 5),) * 2, np.uint8))
         mask[y0:y1, x0:x1] |= m
     out = cv2.inpaint(arr[:, :, ::-1], mask, 5, cv2.INPAINT_TELEA)
     save_webp(Image.fromarray(out[:, :, ::-1]), path)
 
 
-def trim_white(path, thresh=238):
+def trim_white(path, thresh=240, frac=0.4, run=6):
+    """Trim white margins; a margin ends where `run` consecutive rows/columns are mostly picture."""
     im = Image.open(path).convert("RGB")
     a = np.array(im).min(axis=2) < thresh
-    cols = np.where(a.mean(axis=0) > 0.02)[0]
-    rows = np.where(a.mean(axis=1) > 0.02)[0]
-    save_webp(im.crop((cols[0], rows[0], cols[-1] + 1, rows[-1] + 1)), path)
+
+    def span(q):
+        ok = np.convolve(q.astype(int), np.ones(run, int), "valid") == run
+        idx = np.where(ok)[0]
+        return idx[0], idx[-1] + run
+
+    c0, c1 = span(a.mean(axis=0) > frac)
+    r0, r1 = span(a.mean(axis=1) > frac)
+    save_webp(im.crop((c0, r0, c1, r1)), path)
 
 
 def crop(path, box):
@@ -185,7 +194,7 @@ def word_pat(word):
 
 
 def join_words(meaning, a, b):
-    new, n = re.subn("(" + word_pat(a) + r")(?:\s|<br>)+(" + word_pat(b) + ")", r" ", meaning, count=1)
+    new, n = re.subn("(" + word_pat(a) + r")(?:\s|<br>)+(" + word_pat(b) + ")", lambda m: m.group(1) + " " + m.group(2), meaning, count=1)
     return new if n else None
 
 

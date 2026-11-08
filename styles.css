@@ -3695,3 +3695,12 @@ img {
     padding-left: 1.25rem;
   }
 }
+
+.analysis-table tbody tr.table-head-row td {
+  color: #5C3A1E;
+  font-weight: 600;
+}
+
+[data-theme="dark"] .analysis-table tbody tr.table-head-row td {
+  color: #E3B98A;
+}
